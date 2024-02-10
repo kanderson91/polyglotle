@@ -1,0 +1,2034 @@
+[
+  {
+    "name": "(Bataknese)",
+    "sample_text": "Ganup manisia ditubuhon \nlentes dohot marimbang di bagas tohonan dohot tohap dibagabagahon do di \nnasida angkal huhut roha jala ingkon mangalalushon taradop sada tudoshon\n na asing di bagas girgir pardonganon."
+  },
+  {
+    "name": "(Bizisa)",
+    "sample_text": "Novdiex nongv liex \nhufniv dav zer nier, zunxyanr niex qianrlir garhaf hufniv dav zer nier. \nGixzex livxinf niex lianrxinx xief, xiongxdif guanxxif nier jinxsenr gof\n dav duifdaif dor."
+  },
+  {
+    "name": "(Jinan)",
+    "sample_text": "是人都生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以弟兄关系的精神相对待。"
+  },
+  {
+    "name": "(Klau)",
+    "sample_text": "Chix zox key zifyour, an\n hu tsunxyanr thungs chianrlif nu phinrten. Tsoxnur nes lishinf thungs \nleyx o, laiv kuanxshif to tseyr ti cinxsenr shiangxtaif."
+  },
+  {
+    "name": "(Maiunan)",
+    "sample_text": "Renr rangf lyeuf xif \nzifyaot, yur zunxyant ndams chwentlif xif pingtdengl. Ter mev lilsingf \nndams lyangtsinx, zingxsent gwanxsif vaif nungf."
+  },
+  {
+    "name": "(Mijisa)",
+    "sample_text": "Novzeu nongv lie kylix \ndav zeu xi, zunyan nie qianlif gahaf kylix dav zeu xi. Gyxzeu livxinf \nnie lixtolo ca xie, xiongdif guanxif ai jinsen go duifdaif do."
+  },
+  {
+    "name": "(Minjiang, spoken)",
+    "sample_text": "Renren sen xialai de si \nziyou li, zai zunlian ho quanli sang yelue pinden. Tamen fuyou lixin ho \nliangxin, hai yingai na xiongdi guanxi li jinsen fuxiang duidai."
+  },
+  {
+    "name": "(Minjiang, written)",
+    "sample_text": "Renren sen er ziyou, zai\n zunlian ho quanli sang yelue pinden. Tamen fuyou lixin ho liangxin, bin\n yin yi xiongdi guanxi li jinsen xiang duidai."
+  },
+  {
+    "name": "(Muzzi)",
+    "sample_text": "Nia ngir ngir ym mexker \nbbumlix zifyiyr, zunyanr gix jjuanlif alyf bbumlix zzifsof wur. Garxier \nlixxinf gix xierfux cor yif, xiongxdif guanxif wur jinsenr la lo rim \nhix."
+  },
+  {
+    "name": "(Yeonbyeon)",
+    "sample_text": "사람들이 이 세계로 오다가 모두 자유하고, 존엄과 권리이 평동으로 있는다, 그들 리성과 양심이 있눈고, 형제의 정신으로 상호로 치료하 소."
+  },
+  {
+    "name": "Abkhaz",
+    "sample_text": "Дарбанзаалак ауаҩы дшоуп \nихы дақәиҭны. Ауаа зегь зинлеи патулеи еиҟароуп. Урҭ ирымоуп ахшыҩи \nаламыси, дара дарагь аешьеи аешьеи реиҧш еизыҟазароуп."
+  },
+  {
+    "name": "Aceh",
+    "sample_text": "Bandum manusia lahee \nbebah merdeka deungon hak ngon martabat nyang sama. Ngon akai \ntaseumikee, ngon atee tameurasa bandum geutanyoe lagee syedara."
+  },
+  {
+    "name": "Achuar-Shiwiar",
+    "sample_text": "Aints ainauti mash metek\n nuwanmaya akiinawaitji. Turasha angkan pengker pujusmi tusar \nakiinawaitji. Aintstikia mash ji nintijai paan nintimratnuitji, turasha \npengker aa nu nekaatnuitji. Turasha pase aa nusha nekaatnuitji. Turasha \nji pataachiri ainaujai pengker nintimtunisar pujaj ina nunisrik chikich \nainauj aisha pengker nintimtunisar pujustinuitji."
+  },
+  {
+    "name": "Achuar-Shiwiar (1)",
+    "sample_text": "Penker inintimsamka mash aintsti ankan, metekrin nuya nii penkerin takakui nii\nakiniamunmaya tu ausamti arantukmau atinuitji mai metekrak."
+  },
+  {
+    "name": "Adyghe",
+    "sample_text": "Цӏыф пстэури шъхьэфитэу,\n ялъытэныгъэрэ яфэшъуашэхэмрэкӏэ зэфэдэу къалъфы. Акъылрэ зэхэшӏыкӏ \nгъуазэрэ яӏэшъы, зыр зым зэкъош зэхашІэ азфагу дэлъэу зэфыщытынхэ фае."
+  },
+  {
+    "name": "Afar",
+    "sample_text": "Karaamat kee garwa \nwagittaamal seehada inkih gide akkuk, currik taabuke. Usun kas kee cissi\n loonuuh, keenik mariiy mara lih toobokinni kasat gexsitam faxximta."
+  },
+  {
+    "name": "Afrikaans",
+    "sample_text": "Alle menslike wesens word \nvry, met gelyke waardigheid en regte, gebore. Hulle het rede en gewete \nen behoort in die gees van broederskap teenoor mekaar op te tree."
+  },
+  {
+    "name": "Aguaruna",
+    "sample_text": "Ashi aents aidauk agkan \nakinui, betek eme anentsa aentsmasa diyam atanmash, tuja aents \nanentaibau, aents dutikatasa wakej amu yupichu dutimainnum, tuja ni \nwakejamun takakush tikish bakushminnum, nuniak tikish aidaujaish shiig \nyatsuta anmamut ati tusa."
+  },
+  {
+    "name": "Aja",
+    "sample_text": "Agbetɔwo pleŋu vanɔ \ngbɛmɛ ko vovoɖeka gbeswɛgbeswɛ, sɔto amɛnyinyi ko acɛwo gomɛ; wo xɔnɔ \nsusunywin ko jimɛnywi so esexwe. Wo ɖo a wɛ nɔvi ɖaɖa wowo nɔnɔwo gbɔ."
+  },
+  {
+    "name": "Albanian, Tosk",
+    "sample_text": "Të gjithë njerëzit \nlindin të lirë dhe të barabartë në dinjitet dhe në të drejta. Ata kanë \narsye dhe ndërgjegje dhe duhet të sillen ndaj njëri tjetrit me frymë \nvëllazërimi."
+  },
+  {
+    "name": "Alemannisch (Elsassisch)",
+    "sample_text": "Àlli Mensche kùmme mìt \nde gliche Wìrde ùn Rachte ùff d’Walt. Sie hàn àlli Vernùnft ùn Gewìsse \nùn selle mìt Brìederlichkeit de àndere gejjenìwwer hàndle."
+  },
+  {
+    "name": "Altai, Southern",
+    "sample_text": "Ончо улус ак‐јарыкка \nјайым ла теҥ‐тай тап‐эриктӱ туулат. Олор санааукаалу ла чек кӱӱн‐тапту \nболуп бӱткен ле бой‐бойын карындаш кирези кӧрӧр лӧ јӱрер учурлу."
+  },
+  {
+    "name": "Amahuaca",
+    "sample_text": "Tzovan jato jumahaito \nhinaayamanonmun vacunoxcanquihnucanpu. Tzovan jato zinaayamanonmun \nvacunoxcanquihnucanpu. Jonitzan derechocavizyahtoxrivimun \nvacunoxcanquihqui. Quiyoovinin shinanquin hiromaquin \njaucuzahavorahquiqui shinantimunhcanquihqui. Vacurazixquicavizhi \nquiyoovinixjatimunhcanquihnucanpu."
+  },
+  {
+    "name": "Amarakaeri",
+    "sample_text": "Aya'da aratbut katepi' \neka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti \nopudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti \ndakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o \n'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne."
+  },
+  {
+    "name": "Amharic",
+    "sample_text": "የሰው፡ልጅ፡ሁሉ፡ሲወለድ፡ነጻና፡በክብርና፡በመብትም፡እኩልነት፡ያለው፡ነው።፡የተፈጥሮ፡ማስተዋልና፡ሕሊና፡ስላለው፡አንዱ፡ሌላውን፡በወንድማማችነት፡መንፈስ፡መመልከት፡ይገባዋል።"
+  },
+  {
+    "name": "Amis",
+    "sample_text": "Chiyu mahufuchay tu \ntamlaw, maemin pingdeng ichunyan a kngli. Iraay chaira lishing a naay a \nnaay a harateng, pimaulahsha u harateng nu kaka shafa."
+  },
+  {
+    "name": "Arabela",
+    "sample_text": "Pueyano pa quishacari, \npuetunu pajaniyajanaa mariyata miishiya maninia, maja sooshiya tamonu. \nPuetunu pueyajanaari niishitiajaraca, jiuujiaaracanio pueyacua pa \ntaraajenura. Naarate maninia pa jiyanootioore juhua pa tapueyocuaca."
+  },
+  {
+    "name": "Arabic, Standard",
+    "sample_text": "يولد جميع الناس أحرارًا متساوين في الكرامة والحقوق. وقد وهبوا عقلاً وضميرًا وعليهم أن يعامل بعضهم بعضًا بروح الإخاء."
+  },
+  {
+    "name": "Armenian",
+    "sample_text": "Բոլոր մարդիկ ծնվում են \nազատ ու հավասար իրենց արժանապատվությամբ ու իրավունքներով։ Նրանք ունեն \nբանականություն ու խիղճ և միմյանց պետք է եղբայրաբար վերաբերվեն։"
+  },
+  {
+    "name": "Aromanian",
+    "sample_text": "Tuti iatsâli umineshtsâ \ns-fac liberi shi egali la nâmuzea shi-ndrepturli. Eali suntu hârziti cu \nfichiri shi sinidisi shi lipseashti un cu alantu sh-si poartâ tu duhlu-a\n frâtsâljiljei."
+  },
+  {
+    "name": "Asháninka",
+    "sample_text": "Aquempetavacaajeita \nmaaroni atiri. Timatsi aquenqueshirejeitantari maaroni, timatsi \namejeitari, ayojeiti paitarica ocameetsati antajeitiri: te \noncameetsateji intsaneapitsajeiteero itsipapee. Te oncameetsateji \nimperanajeitee, te oncameetsateji iroashinoncaajeitee, irointi \nocameetsati aacameetsatavacaajeitea."
+  },
+  {
+    "name": "Ashéninka, Pichis",
+    "sample_text": "Maaroni atziripayeeni, \novaquera intzimapaaque, eero ocantzi iñaashitacaavaitaityaari \niromperanataityaari. Eejatzi oquemitari iroñaaca te apantyaaro \namanitashireteri atziri ancanteri: \"Te pirjiperote eeroca, iriima irinta\n iriitaque ñaaperori\". Eejatzi oquemitari te oncameethate intzime \naparoni atziri antayetashityaarone caari ishinetaacairi pashine \nirantero. Tema maaroni ayotziro ampampithashirvaayeta, ayotziro \ntsicarica otzimayetzi cameethatatsiri anteri o tsicarica otzimi \ncaariperotatsiri, irootaque ocovaperotantari iroñaaca entacotavacaayetya\n anquemitacaantanaquero arentzitavacaatyeeyaami ocaaquiini."
+  },
+  {
+    "name": "Assyrian Neo-Aramaic",
+    "sample_text": "ܟܠ ܒܪܢܫܐ ܒܪܝܠܗ ܚܐܪܐ ܘܒܪܒܪ ܓܘ ܐܝܩܪܐ ܘܙܕܩܐ. ܘܦܝܫܝܠܗ ܝܗܒܐ ܗܘܢܐ ܘܐܢܝܬ. ܒܘܕ ܕܐܗܐ ܓܫܩܬܝ ܥܠ ܐܚܪܢܐ ܓܪܓ ܗܘܝܐ ܒܚܕ ܪܘܚܐ ܕܐܚܢܘܬܐ."
+  },
+  {
+    "name": "Asturian",
+    "sample_text": "Tolos seres humanos \nnacen llibres y iguales en dignidá y drechos y, pola mor de la razón y \nla conciencia de so, han comportase hermaniblemente los unos colos \notros."
+  },
+  {
+    "name": "Awa-Cuaiquer",
+    "sample_text": ""
+  },
+  {
+    "name": "Aymara, Central",
+    "sample_text": "Taqpach jaqejh khuskat \nuñjatatäpjhewa munañapansa, lurañapansa, amuyasiñapansa, ukatwa jilani \nsullkanípjhaspas ukham uñjasipjhañapawa."
+  },
+  {
+    "name": "Azerbaijani, North (Cyrillic)",
+    "sample_text": "Бүтүн инсанлар  \nләјагәт вә һүгугларына ҝөрә азад вә бәрабәр доғулурлар. Онларын шүурлары\n вә виҹданлары вар вә бир-бирләринә мүнасибәтдә гардашлыг руһунда \nдавранмалыдырлар."
+  },
+  {
+    "name": "Azerbaijani, North (Latin)",
+    "sample_text": "Bütün insanlar \nləyaqət və hüquqlarına görə azad və bərabər doğulurlar. Onların şüurları\n və vicdanları var və bir-birlərinə münasibətdə qardaşlıq ruhunda \ndavranmalıdırlar."
+  },
+  {
+    "name": "Baatonum",
+    "sample_text": "Ba tɔmbu kpuro marawa ba\n tii mɔ, ba nɛ, girima ka saria sɔɔ. Ba ra bwisiku, ba dasabu mɔ, ma n \nweene ba n waasinɛ mɛrobisiru sɔɔ."
+  },
+  {
+    "name": "Bali",
+    "sample_text": "Sami manusane sane \nnyruwadi wantah merdeka tur maduwe kautamaan lan hak-hak sane pateh. \nSami kalugrain papineh lan idep tur mangdane pada masawitra melarapan \nsemangat pakulawargaan."
+  },
+  {
+    "name": "Bamanankan",
+    "sample_text": "Hadamaden bɛɛ danmakɛɲɛnen\n bɛ bange, danbe ni josira la. Hakili ni taasi b’u bɛɛ la, wa u ka kan \nka badenɲasira de waleya u ni ɲɔgɔn cɛ."
+  },
+  {
+    "name": "Bamun",
+    "sample_text": "Pe nâ mvé gú puen \nnyütu pô te mbe kú ghét ngam pua ngúenengúe mbe te wûme nsebe pua\n pa mféékêt. Pen â ntúm te mbe kú rem ngam pua fabshe ngam, a nshi\n njîr’ap ne yi nshâne ngétne nga shap pô te wupme pontâ."
+  },
+  {
+    "name": "Banjar",
+    "sample_text": "Sabarataan urang \ndilahirakan mardeka wan baisi martabat wan hak-hak nang sama. Buhannya \ndibarii akal wan hati nurani wan saharusnya bagaul satu wan nang lainnya\n dalam sumangat parsaudaraan."
+  },
+  {
+    "name": "Baoulé",
+    "sample_text": "Sran mun be ngba, kɛ be \nwu be ɔ, be ngba be sɛ, fɔndi nun, sran-mmala nun. Be si akundanbu, be \nsi su ɔ fata kɛ sran mun be tran'n, be tran aniaan nun tranlɛ."
+  },
+  {
+    "name": "Bari",
+    "sample_text": "Ŋutu liŋ a yuŋwe kana, \njojo i to’diri ko ’dekesi ko ti se tokitaki ko ’börik ko mulökötyo lo \ntoluŋaseran. Se a ’doka ko denet na kulya na’but ko narok."
+  },
+  {
+    "name": "Basque",
+    "sample_text": "Gizon-emakume guztiak aske\n jaiotzen dira, duintasun eta eskubide berberak dituztela; eta ezaguera \neta kontzientzia dutenez gero, elkarren artean senide legez jokatu \nbeharra dute."
+  },
+  {
+    "name": "Belarusan",
+    "sample_text": "Усе людзі нараджаюцца \nсвабоднымі і роўнымі ў сваёй годнасці і правах. Яны надзелены розумам і \nсумленнем і павінны ставіцца адзін да аднаго ў духу брацтва."
+  },
+  {
+    "name": "Bemba",
+    "sample_text": "Abantu bonse bafyalwa \nabalubuka nokulingana mu mucinshi nensambu. Balikwata amano \nnokutontonkanya, eico bafwile ukulacita ifintu ku banabo mu mutima wa \nbwananyina."
+  },
+  {
+    "name": "Bengali",
+    "sample_text": "সমস্ত মানুষ স্বাধীনভাবে \nসমান মর্যাদা এবং অধিকার নিয়ে জন্মগ্রহণ করে। তাঁদের বিবেক এবং বুদ্ধি \nআছে; সুতরাং সকলেরই একে অপরের প্রতি ভ্রাতৃত্বসুলভ মনোভাব নিয়ে আচরণ করা \nউচিত।"
+  },
+  {
+    "name": "Bhojpuri",
+    "sample_text": "सबहि लोकानि आजादे \nजम्मेला आओर ओखिनियो के बराबर सम्मान आओर अधिकार प्राप्त हवे। ओखिनियो के \nपास समझ-बूझ आओर अंत:करण के आवाज होखता आओर हुनको के दोसरा के साथ भाईचारा \nके बेवहार करे के होखला।"
+  },
+  {
+    "name": "Bicolano, Central",
+    "sample_text": "An gabos na tawo \nipinangaking may katalinkasan asin parantay sa dignidad asin derechos. \nSinda gabos tinawan nin pag-isip asin conciencia kaya dapat na \nmakipag-iriba sa lambang saro bilang mga magturugang."
+  },
+  {
+    "name": "Bislama",
+    "sample_text": "Evri man mo woman i bon \nfri mo ikwol long respek mo ol raet. Oli gat risen mo tingting mo oli \nmas tritim wanwan long olgeta olsem ol brata mo sista."
+  },
+  {
+    "name": "Bora",
+    "sample_text": "Pámeere ííñújɨri \nmeíjcyame tsá múhójɨ́sɨ́ pañé ɨ́cubáhrádú meíjcyáítyuróne. Pámeere \ntsahdúré imí meíjcyame mewájyújcatsíñe mépɨ́áábójcatsíiyá tsaatéké \néhdɨ́Ȉ́válletúmé éhne múu mépañétúéné nahbémuma meíjcyadu."
+  },
+  {
+    "name": "Bosnian (Cyrillic)",
+    "sample_text": "Сва људска бића \nраћају се слободна и једнака у достојанству и правима. Она су обдарена \nразумом и свијешћу и треба да једно према другоме поступају у духу \nбратства."
+  },
+  {
+    "name": "Bosnian (Latin)",
+    "sample_text": "Sva ljudska bića\n rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena \nrazumom i sviješću i treba da jedno prema drugome postupaju u duhu \nbratstva."
+  },
+  {
+    "name": "Breton",
+    "sample_text": "Dieub ha par en o \ndellezegezh hag o gwirioù eo ganet an holl dud. Poell ha skiant zo dezho\n ha dleout a reont bevañ an eil gant egile en ur spered a \ngenvreudeuriezh."
+  },
+  {
+    "name": "Bugis",
+    "sample_text": "Sininna rupa tau ri \njajiangngi rilinoe nappunnai manengngi riasengnge alebbireng . Nappunai \nriasengnge akkaleng, nappunai riasengnge ati marennni na sibole bolena \npada sipakatau pada massalasureng."
+  },
+  {
+    "name": "Bulgarian",
+    "sample_text": "Всички хора се раждат \nсвободни и равни по достойнство и права. Те са надарени с разум и съвест\n и следва да се отнасят помежду си в дух на братство."
+  },
+  {
+    "name": "Bulu",
+    "sample_text": "Abiali bod bese, tege ai\n sesala, bene etie dzia a mis memvende y'enyiñ, dzom dzia etu fili \nnkóbó, fili ntsogan, fili mboan. Ve abiali te, mod ose ayem dze ene abe,\n dze ene mbeñ asu e mod mbog antoa ai mfi na enyiñ ewulu mezen mene \nsosoo."
+  },
+  {
+    "name": "Burmese",
+    "sample_text": "လူတိုင်းသည် တူညီ \nလွတ်လပ်သော ဂုဏ်သိက္ခာဖြင့် လည်းကောင်း၊ တူညီလွတ်လပ်သော \nအခွင့်အရေးများဖြင့် လည်းကောင်း၊ မွေးဖွားလာသူများ ဖြစ်သည်။ ထိုသူတို့၌ \nပိုင်းခြား ဝေဖန်တတ်သော ဉာဏ်နှင့် ကျင့်ဝတ် သိတတ်သော စိတ်တို့ရှိကြ၍ \nထိုသူတို့သည် အချင်းချင်း မေတ္တာထား၍ ဆက်ဆံကျင့်သုံးသင့်၏။"
+  },
+  {
+    "name": "Bushi",
+    "sample_text": "Ɓinadamu djabi \nnitirahinyi an-nafasi, reu bokeu miraŋa amin’ni usheu ndreka haki. Reu \nteraka ndreka ãkili ndreka hikima, amin’ni zenyi, reu nikulazimu nisi \ntweraŋa nin-fihavaŋa reu sambi reu."
+  },
+  {
+    "name": "Candoshi-Shapra",
+    "sample_text": "Iy tpotsini ichigoroni \nkis tamam zadkini, vatam tpotsiniva. Vatam ichigoroni magini tarova; \nashiriya chinakaniya. Ashirocha, zovalliatsich tamaparia-ashiros sanpata\n chinagtsa atiniya."
+  },
+  {
+    "name": "Caquinte",
+    "sample_text": "Aquejetavacaajiaca \nmaasano caquinte. Chooca aquenquejantaca maasano, chooca amejigaca, \natsajiaque taaca opajitapae ocameetsataque antajiguica. Tee \noncameetsateji iromperaperanajicaji, tee oncameetsateji \nirogashinoncajajiacaji. Jero cameetsatatsica aavacaj aiaquempa."
+  },
+  {
+    "name": "Cashibo-Cacataibo",
+    "sample_text": "Ui uni cara 'iti icë \naxbi ca bëtsi unibë gobiernonën iscëx sënën ití icën. Ui cara ain tita \nain papa 'iaxa quixun sinanquinma ca gobiernonën sinancëx ax bëtsibë \nsënën 'icën. Camaxunbi ca sinanti 'unanin. Camaxunbi ca añu ñu ati cara \nasábi 'icën, añu ñu 'ati cara 'aisama 'icë quixun 'unanti 'icën. Usa \n'ain ca camaxbi ain xucënbë 'icësaribiti nuiananti 'icën."
+  },
+  {
+    "name": "Cashinahua",
+    "sample_text": "Yudabu dasibi jabiaskadi akin, xinantidubuki. Javen taea jau jaibunamenunbunven."
+  },
+  {
+    "name": "Catalan",
+    "sample_text": "Tots els éssers humans \nneixen lliures i iguals en dignitat i en drets. Són dotats de raó i de \nconsciència, i han de comportar-se fraternalment els uns amb els altres."
+  },
+  {
+    "name": "Catalan (2)",
+    "sample_text": "Tots els éssers humans \nnaixen lliures i iguals en dignitat i en drets i, dotats com estan de \nraó i de consciència, s’han de comportar fraternalment els uns amb els\n altres."
+  },
+  {
+    "name": "Cebuano",
+    "sample_text": "Ang tanang katawhan \ngipakatawo nga may kagawasan ug managsama sa kabililhon. Sila gigasahan \nsa salabutan ug tanlag og mag-ilhanay isip managsoon sa usa'g-usa diha \nsa diwa sa ospiritu."
+  },
+  {
+    "name": "Chachi",
+    "sample_text": "Naaju chachilla bain mu'\n chachilla bain na kayatu tichiba bulla jutyu naakendya'ba kenu deechu \ntaa na kayamu deju, tsenminya,naaju juñu bain ne tsaave ti', uukavinu \njutyu naa, tideechu juuchi bain, mubain mubain tsaren dejuve, tsenmin \nshilli pensangenu pude deju'. mitya, tsenr)1in ura' kendu bain ura' \nkendyu' bain mide' mitya muba mu bain veta' veta' ura' keewaawaa kenuu \ndejuve."
+  },
+  {
+    "name": "Chakma",
+    "sample_text": "𑄝𑄬𑄇𑄴 𑄟𑄚𑄪𑄌𑄴 \n𑄚𑄨𑄢𑄨𑄞𑄨𑄣𑄨 𑄥𑄧𑄁 𑄃𑄨𑄌𑄴𑄎𑄮𑄖𑄴 𑄃𑄳𑄃 𑄃𑄇𑄴𑄇𑄥𑄁 𑄚𑄨𑄚𑄬𑄭 \n𑄎𑄧𑄚𑄴𑄟𑄚𑄴𑅁 𑄖𑄢𑄢𑄴 𑄃𑄬𑄘 𑄃𑄳𑄃 𑄝𑄪𑄖𑄴𑄙𑄨 𑄃𑄊𑄬; \n𑄥𑄬𑄚𑄧𑄖𑄳𑄠𑄴 𑄝𑄬𑄇𑄴𑄅𑄚𑄧𑄢𑄴 𑄃𑄬𑄇𑄴𑄎𑄧𑄚𑄴 𑄃𑄢𑄬𑄇𑄴 \n𑄎𑄧𑄚𑄧𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄧𑄟𑄴 𑄘𑄮𑄣𑄴 𑄌𑄨𑄘𑄳𑄠𑄬 𑄚𑄨𑄚𑄬𑄭 \n𑄌𑄧𑄣𑄚 𑄅𑄪𑄌𑄨𑄖𑄴𑅁"
+  },
+  {
+    "name": "Chamorro",
+    "sample_text": "Todo taotao siha man \nmafanago libertao yan pareho gi dignidad yan derecho siha, man manae \nsiha hinaso yan consiencia yan debe de ufatinas contra uno yan otro gi \nun espiritun chumelo."
+  },
+  {
+    "name": "Chayahuita",
+    "sample_text": "Ya'ipi piyapinpoa' \ncapini noya ninosorocaso' ya'huërin. Ya'ipinpoa' yonquirëhua'. Noya \nnicacaso' nitotërëhua'. Napoaton iyanpoa pochin ninosorocaso' ya \n'huërin."
+  },
+  {
+    "name": "Cherokee (cased)",
+    "sample_text": "Ꮒꭶꮣ ꭰꮒᏼꮻ ꭴꮎꮥꮕꭲ ꭴꮎꮪꮣꮄꮣ ꭰꮄ\n ꭱꮷꮃꭽꮙ ꮎꭲ ꭰꮲꮙꮩꮧ ꭰꮄ ꭴꮒꮂ ꭲᏻꮎꮫꮧꭲ. Ꮎꮝꭹꮎꮓ ꭴꮅꮝꭺꮈꮤꮕꭹ ꭴꮰꮿꮝꮧ ꮕᏸꮅꮫꭹ ꭰꮄ ꭰꮣꮕꮦꮯꮣꮝꮧ ꭰꮄ\n ꭱꮅꮝꮧ ꮟᏼꮻꭽ ꮒꮪꮎꮣꮫꮎꮥꭼꭹ ꮎ ꮧꮎꮣꮕꮯ ꭰꮣꮕꮩ ꭼꮧ."
+  },
+  {
+    "name": "Cherokee (uppercase)",
+    "sample_text": "ᏂᎦᏓ ᎠᏂᏴᏫ ᎤᎾᏕᏅᎢ ᎤᎾᏚᏓᎴᏓ ᎠᎴ\n ᎡᏧᎳᎭᏉ ᎾᎢ ᎠᏢᏉᏙᏗ ᎠᎴ ᎤᏂᎲ ᎢᏳᎾᏛᏗᎢ. ᎾᏍᎩᎾᏃ ᎤᎵᏍᎪᎸᏔᏅᎩ ᎤᏠᏯᏍᏗ ᏅᏰᎵᏛᎩ ᎠᎴ ᎠᏓᏅᏖᏟᏓᏍᏗ ᎠᎴ\n ᎡᎵᏍᏗ ᏏᏴᏫᎭ ᏂᏚᎾᏓᏛᎾᏕᎬᎩ Ꮎ ᏗᎾᏓᏅᏟ ᎠᏓᏅᏙ ᎬᏗ."
+  },
+  {
+    "name": "Chickasaw",
+    "sample_text": "Himmaka' nittakookano \nhattak yokasht toksalicha'nikat ki'yo. Hattak mó̱makat ittíllawwi \nbíyyi'kacha nanna mó̱maka̱ ittibaachaffa'hitok."
+  },
+  {
+    "name": "Chin, Falam",
+    "sample_text": "Mikip in bangrep ii \nzalen nak le sunlawih nak thawn, bangrep in covo nei in, asuak mi kan \nsi. Anmah in hleidan thei nak fim nak le nuncan neih thei nak ruah nak \nnei ii, pakhat le pakhat duh dawt nak, pawl awk nak nei ding asi."
+  },
+  {
+    "name": "Chin, Haka",
+    "sample_text": "Mi vialte hna cu zalong \nte, ai tluk te le upat tihzah awktlak le thiltikhawhnak tinvo a ngei in a\n chuak mi kan si dih. Minung cu a chia a tha thleidang khomi ruahnak le \ntheihthiamnak ziaza tha a ngeimi kan si caah pakhat le pakhat dawtnak he\n i pehtlaihnak le i hawikawmhnak ngeih ding kan si."
+  },
+  {
+    "name": "Chin, Matu",
+    "sample_text": "Thlangboeih he rhimomna,\n vanpitna, yalpona hamhmoel ka tawn thlang la cuun la ng’om u. \nThlanghing he athae-then paekboe thaina neh yakming thaina moeiboe ka \ntawn thlang la n’om u dong ah khat neh khat lungvat na neh thloehlan \nvoekhlak u thae ham om."
+  },
+  {
+    "name": "Chin, Tedim",
+    "sample_text": "Mihingte khempeuh in \nthupitak leh thuneihna tawh suakta tak leh akibang in kipiang ciat ahi \nhi. Asia leh apha khentel thei thungaihsutna nei ciat uh ahihman in khat\n leh khat sanggam unau lungsim tawh kithuah khop ding hi."
+  },
+  {
+    "name": "Chinantec, Chiltepec",
+    "sample_text": "Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno."
+  },
+  {
+    "name": "Chinantec, Ojitlán",
+    "sample_text": "La juu dsa lu siä –Dsa kö ñi ba dsa, nía kö ni' ba na lu' dsa e dsa tï é li jnia' roö'."
+  },
+  {
+    "name": "Chinese, Gan",
+    "sample_text": "人人生而自由，在志向跟权利上一律平等。渠们赋有理性跟良心，并理当以弟兄义气相对待。"
+  },
+  {
+    "name": "Chinese, Hakka",
+    "sample_text": "人人生而自由，在尊严同权利上一律平等。佢丁人赋有理性同好心田，并应以兄弟关系个精神相对待。"
+  },
+  {
+    "name": "Chinese, Jinyu",
+    "sample_text": "人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以弟兄关系的精神相对待。"
+  },
+  {
+    "name": "Chinese, Mandarin (Beijing)",
+    "sample_text": "人人生而自由，挨尊严和权利上一刬平等。他们趁理性和良心，并应以一个座儿的精神相对待。"
+  },
+  {
+    "name": "Chinese, Mandarin (Guiyang)",
+    "sample_text": "人人生而自由，在尊严和权利上一律是平等的。他们赋有理性和良心，并应以兄弟关系的精神相互对待。"
+  },
+  {
+    "name": "Chinese, Mandarin (Harbin)",
+    "sample_text": "人人生而自由，在尊严和权利之上一律平等。他们赋有理性和良心，并应以哥们弟兄的精神相对待。"
+  },
+  {
+    "name": "Chinese, Mandarin (Nanjing)",
+    "sample_text": "大家生而自由，在尊严告权利上头一律平等。他们赋有理性告良心，并该派以兄弟关系的精神相对待。"
+  },
+  {
+    "name": "Chinese, Mandarin (Simplified)",
+    "sample_text": "人人生而自由,在尊严和权利上一律平等。他们赋有理性和良心,并应以兄弟关系的精神相对待。"
+  },
+  {
+    "name": "Chinese, Mandarin (Tianjin)",
+    "sample_text": "人个顶个生而自由，在尊严和权利上般儿般儿大。他们趁理性和良心，并应以兄弟关系的精神相对待。"
+  },
+  {
+    "name": "Chinese, Mandarin (Traditional)",
+    "sample_text": "人人生而自由，在尊嚴和權利上一律平等。他們賦有理性和良心，並應以兄弟關係的精神相對待。"
+  },
+  {
+    "name": "Chinese, Min Nan",
+    "sample_text": "人人生而自由，在尊严合权利上一律平等。因赋有脾胃合道行，并着以兄弟关系的精神相对待。"
+  },
+  {
+    "name": "Chinese, Wu",
+    "sample_text": "人人生而自由，拉尊严脱仔权利上一律平等。伊拉有理性脱仔良心，并应以兄弟关系个精神相对待。"
+  },
+  {
+    "name": "Chinese, Xiang",
+    "sample_text": "人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，在得以兄弟关系的精神相对待。"
+  },
+  {
+    "name": "Chinese, Yue",
+    "sample_text": "人人生而平等，喺尊严同埋权利上一律平等。佢哋有理性同埋良心，而且应当以兄弟关系嘅精神相对待。"
+  },
+  {
+    "name": "Chokwe",
+    "sample_text": "Mwese yoze masemuka \nkatela ukulungunga ulengunga ulemu nyi vumbi eswe ci mwikha. Eswe \nkalingile kupwa nyi usambe nyi mangana nyi kuhasa kulimika nyumwe nyi \nmukwo nyi kulita nyi mbunge ya ulemu wa utu."
+  },
+  {
+    "name": "Chokwe (Angola)",
+    "sample_text": "Athu eswe kakusemuka \nngwe akwo, ku vumbi nyi hakusakula.Kali nyi mana,mba mahasa kulinga umwu\n hali mukwo nyi espiritu ya kuli kuasa."
+  },
+  {
+    "name": "Chuukese",
+    "sample_text": "Esap wor och mettoch \nepwe appeti aramas seni fansoun ar uputiu non ar tufich me rait. Ar \nekiek epwe mecheres o esap pet ren och sakkun mettoch pun ir repwe \nnonnomfengen non kinamwe o pwipwi annim."
+  },
+  {
+    "name": "Chuvash",
+    "sample_text": "Пур халӑх та уйрӑм пурӑнма\n пӗр тан праваллӑ. Ҫак правапа усӑ курса вӗсем хӑйсен политика статусне \nирӗклӗн туса хураҫҫӗ, экономика, общество тата культура енӗпе ирӗклӗн \nаталанаҫҫӗ. Патшалӑхсен ҫак правӑна хисеплемелле, территори пӗр \nпӗтӗмлӗхӗн принципӗ унпа усӑ курма пӗр енлӗн чарса тӑракан чӑрмав \nпулмалла мар."
+  },
+  {
+    "name": "Colorado",
+    "sample_text": "Piyanle tsa'chila, \nmankarijun, junshi manta tan, in tobi jaminlajoyoe, titi mi, tenka kano \nmin, junshi, tsa'chila tala, sen jono min."
+  },
+  {
+    "name": "Comorian, Maore",
+    "sample_text": "Wanadamu piya udzalwa \nhuru tsena sawa ha ufahari na ha haki. Na wawo wana ãkili na hisi, esa \nilazimu wadzivhinge na wanyao ha fikira ya unanya."
+  },
+  {
+    "name": "Comorian, Ngazidja",
+    "sample_text": "Wo wanadamu piya wo \nuzalwa na uhuriya na usawa waki undru na uhaki. Wo upwawa ankili na \nurambuzi hayizo yilazimu warwaliyane hazitrendwa na fikira zaki unanya."
+  },
+  {
+    "name": "Corsican",
+    "sample_text": "Nascinu tutti l’omi libari\n è pari di dignità è di diritti. Pussedinu a raghjoni è a cuscenza è li \ntocca ad agiscia trà elli di modu fraternu."
+  },
+  {
+    "name": "Cree, Swampy",
+    "sample_text": "ᒥᓯᐌ ᐃᓂᓂᐤ ᑎᐯᓂᒥᑎᓱᐎᓂᐠ ᐁᔑ \nᓂᑕᐎᑭᐟ ᓀᐢᑕ ᐯᔭᑾᐣ ᑭᒋ ᐃᔑ ᑲᓇᐗᐸᒥᑯᐎᓯᐟ ᑭᐢᑌᓂᒥᑎᓱᐎᓂᐠ ᓀᐢᑕ ᒥᓂᑯᐎᓯᐎᓇ᙮ ᐁ ᐸᑭᑎᓇᒪᒋᐠ \nᑲᑫᑕᐌᓂᑕᒧᐎᓂᓂᐤ ᓀᐢᑕ ᒥᑐᓀᓂᒋᑲᓂᓂᐤ ᓀᐢᑕ ᐎᒋᑴᓯᑐᐎᓂᐠ ᑭᒋ ᐃᔑ ᑲᓇᐗᐸᒥᑐᒋᐠ᙮"
+  },
+  {
+    "name": "Crimean Tatar",
+    "sample_text": "Bütün insanlar \nserbestlik, menlik ve uquqlarda musaviy olıp dünyağa keleler. Olar aqıl \nve vicdan saibidirler ve biri-birilerinen qardaşçasına munasebette \nbulunmalıdırlar"
+  },
+  {
+    "name": "Crioulo, Upper Guinea",
+    "sample_text": "Tudu pekaduris ta padidu\n libri i igual na balur suma na diritus. Suma e dadu kapasidadi di \npensa, e tene tambi konsiensia, e dibi di trata ñutru suma ermons."
+  },
+  {
+    "name": "Crioulo, Upper Guinea (008)",
+    "sample_text": "Tudu pecadur padidu \nlivre, ninguin ca más ninguin, tudu djusta, tudu tem mesmu diritu. Tudu \nquin qui padidu, tem si roçon, cu si manera di pensa. Na metadi di utrus\n I díbidi fassi cussas cu ermondadi."
+  },
+  {
+    "name": "Croatian",
+    "sample_text": "Sva ljudska bića rađaju se\n slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom i \nsviješću i treba da jedno prema drugome postupaju u duhu bratstva."
+  },
+  {
+    "name": "Czech",
+    "sample_text": "Všichni lidé rodí se \nsvobodní a sobě rovní co do důstojnosti a práv. Jsou nadáni rozumem a \nsvědomím a mají spolu jednat v duchu bratrství."
+  },
+  {
+    "name": "Dagaare, Southern",
+    "sample_text": "Nengsaala zaa ba nang \ndɔge so la o menga, ka o ne o taaba zaa sengtaa noba emmo ane yɛlɛsoobo \nsobic poɔ. Ba dɔgɛɛ ba zaa ne yɛng ane yɛlɛ-iruu k'a da seng ka ba erɛ \nyɛlɛ korɔ taa a nga yɔɔmine."
+  },
+  {
+    "name": "Dagbani",
+    "sample_text": "Sal' la sala. Bɛhig' be \nsokam sanimi, din pa la amii. Suhizɔbo be sokam sani; ka nambɔɣu beni. \nSuhubɔhibo mi bi lan kɔŋ yigunaadam kam sani. Dinzuɣu dimbɔŋɔ zaa wuhiya\n ka dama di tu kamaata ka ti zaa yu tab' hali ni ti puuni."
+  },
+  {
+    "name": "Dangme",
+    "sample_text": "Adesahi tsuo ɔ, a bɔ mɛ \nnɛ nɔ fɛɛ nɔ e ye e he, nɛ nɔ tsuaa nɔsɔ ngɛ odehe si himi kɛ he blɔhi a\n blɔ fa mi. A bɔ mɛ kɛ nɔ́ se kɔmi kɛ he nule juɛmi, nɛ e hia kaa nɔ fɛɛ\n nɔ nɛ e na nyɛmi suɔmi kɛ ha nɔ tsuaa nɔ."
+  },
+  {
+    "name": "Danish",
+    "sample_text": "Alle mennesker er født \nfrie og lige i værdighed og rettigheder. De er udstyret med fornuft og \nsamvittighed, og de bør handle mod hverandre i en broderskabets ånd."
+  },
+  {
+    "name": "Dari",
+    "sample_text": "تمام افراد بشر آزاد \nبه دنیا می‌آیند و از لحاظ حیثیت و حقوق با هم برابرند. همه دارای عقل و \nوجدان هستند و باید نسبت به یکدیگر با روح برادری رفتار کنند."
+  },
+  {
+    "name": "Dendi",
+    "sample_text": "Aduniya kuna n gu ibuna \ndamayo hɛi nɔ dei-dei nn daama nna n burucinitɛrɛ fɔ, n lasabu nna \nlaakari ya nam nn mɔ huro cɛrɛ kuna nyanze tɛrɛ bɔŋɔɔ."
+  },
+  {
+    "name": "Dinka, Northeastern",
+    "sample_text": "Raan thök eben aye \ndhëëth ka lau nhöm kua thöŋ nhiim eyithiic, kua thɛ̈kic, kua ci \nyëknhiethku puou, ku bik cëŋ ka ke ye mith etik."
+  },
+  {
+    "name": "Ditammari",
+    "sample_text": "Oniti ti pɛi nɖɛ omɔũ yi\n kpaatri otɔu, kɛ yɛ̃ oniti ba we, o yi ɖo nnɛ fɛhɔ̃fɛ; o mɔkɛmu mɛcii \nkɛhã mɛyɛmmɛ. Ti tú nɛ ɖo kenyari ti tɔbɛ mbɛ kɛ yie mii ba nkwuɔ ko \notɔu ɖau."
+  },
+  {
+    "name": "Drung",
+    "sample_text": "Avzangf max pyvccuf byv syvnax zyxyyv ef, lifxingx ningx lyangvxinx alf, taixrav angvnikxrav gwanxxix mix syv av duixdaix."
+  },
+  {
+    "name": "Dutch",
+    "sample_text": "Alle mensen worden vrij en\n gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met \nverstand en geweten, en behoren zich jegens elkander in een geest van \nbroederschap te gedragen."
+  },
+  {
+    "name": "Dzongkha",
+    "sample_text": "འགྲོ་བ་མི་ཚུ་ག་ར་དལ་དབང་\nགི་ཐོག་ལས་སྐྱེས་ཏེ་ཡོདཔ་ལས་ ག་ར་ལུ་བརྩི་མཐོང་དང་ཐོབ་དབང་འདྲ་མཉམ་སྦེ་ཡོད།\n མི་ཚུ་ག་ར་སྨྲ་ཤེས་དོན་གོ་བའི་མཚན་ཉིད་དང་ལྡནམ་ལས་ \nག་ར་གིས་ལཱ་ག་ཅི་ར་འབད་རུང་ \nགཅིག་གིས་གཅིག་ལུ་སྤུན་ཆའི་འདུ་ཤེས་བསྐྱེད་ཐོག་ལས་ལཱ་འབད་དགོ།"
+  },
+  {
+    "name": "Edo",
+    "sample_text": "Emwan ne agbon hia ne a \nbiere, a bie iran noyan-egbe iran kevbe wee, umwon-mwen o ree etin hia \nne o kheke iran khin. A ye ewaen kevbe ekhoe ne o maa wu iran, ne iran \ngha yin da egbe vbe orhion oghe eten-okpa."
+  },
+  {
+    "name": "English",
+    "sample_text": "All human beings are born \nfree and equal in dignity and rights. They are endowed with reason and \nconscience and should act towards one another in a spirit of \nbrotherhood."
+  },
+  {
+    "name": "Ese Ejja",
+    "sample_text": "Ojjaña esejja ojjaña \noyaja yojjaya cuayani quiapame oyajayojjaya quiapame ojjaña eseya \nquiapame quia tai jjashauabataiquiani ecueya epejji jayo jjaya ojjaña \njajji ojjañajaassi eseyajayojja."
+  },
+  {
+    "name": "Esperanto",
+    "sample_text": "Ĉiuj homoj estas denaske \nliberaj kaj egalaj laŭ digno kaj rajtoj. Ili posedas racion kaj \nkonsciencon, kaj devus konduti unu al alia en spirito de frateco."
+  },
+  {
+    "name": "Estonian",
+    "sample_text": "Kõik inimesed sünnivad \nvabadena ja võrdsetena oma väärikuselt ja õigustelt. Neile on antud \nmõistus ja südametunnistus ja nende suhtumist üksteisesse peab kandma \nvendluse vaim."
+  },
+  {
+    "name": "Even",
+    "sample_text": "Бэйил бокэтчур омэн хилкич нян урумкэр балдаритно, теми ноҥардук эгдьэн ҥи‐да ачча. Бэйил бөкэтчур мэн долан акагчимур биннэтын."
+  },
+  {
+    "name": "Evenki",
+    "sample_text": "Упкат илэл ты̄нмукирди, \nурэ̄лди мэ̄нңи са̄рича̄ди балдыдяра. Нуңартын дялитви, һалдяндыви биси, \nмэмэгӣлвэр аяралды̄дяна тэдет о̄мамачитын."
+  },
+  {
+    "name": "Éwé",
+    "sample_text": "Wodzi amegbetɔwo katã \nablɔɖeviwoe eye wodzena bubu kple gomekpɔkpɔ sɔsɔe. Susu kple dzitsinya \nle wo dometɔ ɖesiaɖe si eyata wodze be woanɔ anyi le ɖekawɔwɔ blibo me."
+  },
+  {
+    "name": "Fante",
+    "sample_text": "Wɔwo adasa nyina to \nfahodzi mu, na hɔn nyina yɛ pɛr wɔ enyimnyam na ndzinoa mu. Wɔmaa hɔn \nnyina adwen na tsibowa, na ɔwɔ dɛ hɔn nkitahodzi mu ndzeyɛɛ da no edzi \ndɛ wɔyɛ enuanom."
+  },
+  {
+    "name": "Faroese",
+    "sample_text": "Øll menniskju eru fødd \nfræls og jøvn til virðingar og mannarættindi. Tey hava skil og samvitsku\n og eiga at fara hvørt um annað í bróðuranda."
+  },
+  {
+    "name": "Farsi, Western",
+    "sample_text": "تمام افراد بشر آزاد بدنیا \nمیایند و از لحاظ حیثیت و حقوق با هم برابرند. همه دارای عقل و وجدان \nمیباشند و باید نسبت بیکدیگر با روح برادری رفتار کنند."
+  },
+  {
+    "name": "Fijian",
+    "sample_text": "Era sucu ena galala na \ntamata yadua, era tautauvata ena nodra dokai kei na nodra dodonu. E tiko\n na nodra vakasama kei na nodra lewaeloma, sa dodonu mera veidokadokai \nena yalo ni veitacini."
+  },
+  {
+    "name": "Finnish",
+    "sample_text": "Kaikki ihmiset syntyvät \nvapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Heille on annettu \njärki ja omatunto, ja heidän on toimittava toisiaan kohtaan veljeyden \nhengessä."
+  },
+  {
+    "name": "Finnish, Kven",
+    "sample_text": "Kaikki ihmiset \nsynnythään vaphaina, ja heilä kaikila oon sama ihmisarvo ja samat \nihmisoikkeuet. Het oon saanheet järjen ja omatunnon, ja het piethään \nelläät toinen toisen kans niin ko veljet keskenhään."
+  },
+  {
+    "name": "Fon",
+    "sample_text": "Acɛ, susu kpo sisi ɖokpo\n ɔ kpo wɛ gbɛtɔ bi ɖo ɖò gbɛwiwa tɔn hwenu; ye ɖo linkpɔn bɔ ayi yetɔn \nmɛ kpe lo bɔ ye ɖo na do alɔ yeɖee ɖi nɔvinɔvi ɖɔhun."
+  },
+  {
+    "name": "French",
+    "sample_text": "Tous les êtres humains \nnaissent libres et égaux en dignité et en droits. Ils sont doués de \nraison et de conscience et doivent agir les uns envers les autres dans \nun esprit de fraternité."
+  },
+  {
+    "name": "Frisian, Western",
+    "sample_text": "Alle minsken wurde frij en\n gelyk yn weardigens en rjochten berne. Hja hawwe ferstân en gewisse \nmeikrigen en hearre har foar inoar oer yn in geast fan bruorskip te \nhâlden en te dragen."
+  },
+  {
+    "name": "Friulian",
+    "sample_text": "Ducj i oms a nassin \nlibars e compagns come dignitât e derits. A an sintiment e cussience e \nbisugne che si tratin un culaltri come fradis."
+  },
+  {
+    "name": "Fulfulde, Nigerian",
+    "sample_text": "Innama aadeeji fof poti,\n ndimɗidi e jibinannde to bannge hakkeeji. Eɓe ngoodi miijo e \nhakkilantaagal ete eɓe poti huufo ndirde e nder ɓ iynguyummaagu."
+  },
+  {
+    "name": "Fulfulde, Nigerian (2)",
+    "sample_text": "Ɓi-aadama fuu dimo \ndanyete/jibinte o fotan be koomoye e neɗɗaaku be hakkeeji. ɓe ndokkaaɓe \nhakkiilo ngaandi nden bo ɓe kuutindiray hakkunde maɓɓe nder yiɗyiɗɗirki \nmbandiraagu."
+  },
+  {
+    "name": "Fur",
+    "sample_text": "kwa-sí nyéttiŋ baajtólá \nkereli nás nisila na ta̱gɨdɨŋ arrá ka̱ɨŋ, Naŋ-sí ugola na kilmaŋá arrá \nka̱ɨŋ namá in lóŋ áláŋ sǔrŋâ-sí kí jaiŋa in kéél ná sǔrŋâ suurꞌíŋ bârŋa."
+  },
+  {
+    "name": "Ga",
+    "sample_text": "Afɔ gbɔmɔ fɛɛ gbɔmɔ yɛ \nagbojee mli, kɛ hegbɛ ko ni damɔ ŋɛlɛ koome nɔ. Gbɔmɛi fɛɛ yɛ jwɛŋmɔ kɛ \nhenilee, ni no hewɔ lɛ esa akɛ amɛhe ahi shi yɛ nyɛmi suɔmɔ mli."
+  },
+  {
+    "name": "Gaelic, Irish",
+    "sample_text": "Saoláitear na daoine uile \nsaor agus comhionann ina ndínit agus ina gcearta. Tá bauidh an réasúin \nagus an choinsiasa acu agus dlíd iad féin d'iompar de mheon \nbhrthreachais i leith a chéile."
+  },
+  {
+    "name": "Gaelic, Scottish",
+    "sample_text": "Tha gach uile dhuine air a\n bhreth saor agus co-ionnan ann an urram 's ann an còirichean. Tha iad \nair am breth le reusan is le cogais agus mar sin bu chòir dhaibh a bhith\n beò nam measg fhein ann an spiorad bràthaireil,"
+  },
+  {
+    "name": "Gagauz",
+    "sample_text": "Insannar hepsi duuêrlar \nserbest hem birtakım kendi kıymetindä hem haklarında. Onnara verilmiş \nakıl hem üz da läazım biri-birinä davransınnar kardaşlık ruhuna uygun."
+  },
+  {
+    "name": "Galician",
+    "sample_text": "Tódolos seres humanos \nnacen libres e iguais en dignidade e dereitos e, dotados como están de \nrazón e conciencia, díbense comportar fraternalmente uns cos outros."
+  },
+  {
+    "name": "Ganda",
+    "sample_text": "Abantu bazaalibwa nga \nbalina eddembe n'obuyinza ebyenkanankana, batondebwa nga balina amagezi \nera nga basobola okwawula ekirungi n'ekibi bwebatyo, buli omu agwana \nokuyisa munne nga muganda we."
+  },
+  {
+    "name": "Garifuna",
+    "sample_text": "Sun gürigia nasíruati \nyuti lun, lidan úarani, lawiwanduní libágari kai le aubai labúsienra, \ngatu giñe lanagun lungua buidu hadan líbegu."
+  },
+  {
+    "name": "Gen",
+    "sample_text": "Agbetɔwo kpata le \njijimɛa, ɖo vosinɔnɔ, nyi gbèsɔɛ́mɛ́wó le nujɔnunnyi ku goɖoejisewo, \namɛbusewo mɛ. Tagbɔ le woa si, eye wɔnawo sɔdoda woanɔnɔwo gbɔa la nyi \nnɔ́visilélé."
+  },
+  {
+    "name": "Georgian",
+    "sample_text": "ყოველი ადამიანი იბადება \nთავისუფალი და თანასწორი თავისი ღირსებითა და უფლებებით. მათ მინიჭებული \nაქვთ გონება და სინდისი და ერთმანეთის მიმართ უნდა ექცეოდნენ ძმობის \nსულისკვეთებით."
+  },
+  {
+    "name": "German, Standard (1901)",
+    "sample_text": "Alle Menschen \nsind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft\n und Gewissen begabt und sollen einander im Geist der Brüderlichkeit \nbegegnen."
+  },
+  {
+    "name": "German, Standard (1996)",
+    "sample_text": "Alle Menschen \nsind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft\n und Gewissen begabt und sollen einander im Geist der Brüderlichkeit \nbegegnen."
+  },
+  {
+    "name": "Gilyak",
+    "sample_text": "Сик нивгун куғытӻарта, пʼинамад яймта адяй правоғир̌ пʼӊафқ-ӊафқғир̌ салӻата ӿат пантадғун."
+  },
+  {
+    "name": "Gonja",
+    "sample_text": "Bu kurwe dimedi kikɛ \nmobe kumu so, nɛ mobe, eyilikpa, kesheŋ nɛ kashinteŋ maŋ kɔr eko peyɛ \nto. Nyinpela sa dimedi kikɛ lakal nɛ mfɛra fanɛ bu chena abarso kelepo \nso."
+  },
+  {
+    "name": "Greek (monotonic)",
+    "sample_text": "Όλοι οι \nάνθρωποι γεννιούνται ελεύθεροι και ίσοι στην αξιοπρέπεια και τα \nδικαιώματα. Είναι προικισμένοι με λογική και συνείδηση, και οφείλουν να \nσυμπεριφέρονται μεταξύ τους με πνεύμα αδελφοσύνης."
+  },
+  {
+    "name": "Greek (polytonic)",
+    "sample_text": "Ὅλοι οἱ \nἄνθρωποι γεννιοῦνται ἐλεύθεροι καὶ ἴσοι στὴν ἀξιοπρέπεια καὶ τὰ \nδικαιώματα. Εἶναι προικισμένοι μὲ λογικὴ καὶ συνείδηση, καὶ ὀφείλουν νὰ \nσυμπεριφέρονται μεταξύ τους μὲ πνεῦμα ἀδελφοσύνης."
+  },
+  {
+    "name": "Guaraní, Paraguayan",
+    "sample_text": "Mayma yvypóra ou ko yvy \nári iñapytlʼyre ha eteĩcha dignidad ha derecho jeguerekópe; ha ikatu \nrupi oikuaa añetéva ha añeteʼyva, iporãva ha ivaíva, tekotevẽ \npehenguéicha oiko oñondivekuéra."
+  },
+  {
+    "name": "Guarayu",
+    "sample_text": "Opakatu ava yoro’a \nnda’ei tembigwaigwa oyoyatupri, sekotupri, vaëra, imboeteisara, oikatu \nipi’a yemoñeta, imbaekua, ndiyai yurekorairai ñepëi pëi ambua rese."
+  },
+  {
+    "name": "Gujarati",
+    "sample_text": "પ્રતિષ્ઠા અને અધિકારોની \nદૃષ્ટિએ સર્વ માનવો જન્મથી સ્વતંત્ર અને સમાન હોય છે. તેમનામાં વિચારશક્તિ \nઅને અંતઃકરણ હોય છે અને તેમણે પરસ્પર બંધુત્વની ભાવનાથી વર્તવું જોઇએ."
+  },
+  {
+    "name": "Gumuz",
+    "sample_text": "Dubꞌaga bꞌaga metaam \nmetaam alamaam kamaanzaakꞌoma kasꞌe bipokꞌoga kamadꞌab maafucꞌakꞌwa \nhaaga bacꞌaga tso. Kábꞌaga jajanda kwa jala etigafalagash maꞌiiya nago \nmetaagwa eyaal yida-eba bicꞌaga tso."
+  },
+  {
+    "name": "Haitian Creole French (Kreyol)",
+    "sample_text": "Tout moun fèt lib, egal \nego pou diyite kou wè dwa. Nou gen la rezon ak la konsyans epi nou fèt \npou nou aji youn ak lot ak yon lespri fwatènite."
+  },
+  {
+    "name": "Haitian Creole French (Popular)",
+    "sample_text": "Tout moun sou tè a fèt tou\n lib. Tout gen menm valè (nan je lasosyete), tout moun gen menm dwa \ndevan Lalwa. Tout moun fèt ak yon bonsans, tout fèt ak yon konsyans epi \nyoun fèt pou trete lòt tankou frè ak sè."
+  },
+  {
+    "name": "Hani",
+    "sample_text": "Aqsol liq yoqdeivq \nyoqpyuq bo, meeqyaovq ssolnei colpyuq qiq kov dei. Davqtavcolssaq \nneenyuq bel neema meeq ya siq, laongaoq meilnaol nadul meil e gaq ssol \nhhyul hha bavqduv nia."
+  },
+  {
+    "name": "Hausa",
+    "sample_text": "Duk ‘yan’adan ana \nhaihuwarsu ne a matsayin ‘yantattun ‘ya’ya, kuma mutuncinsu da \nhaqqoqinsu daidai yake da na kowa. Suna da tunani da cikakken hankali, \nsaboda haka ake son duk mu’amalar da za su yi, ta kasance akwai \n‘yan’uwantaka a tsakani."
+  },
+  {
+    "name": "Hausa (2)",
+    "sample_text": "Ana haihuwar duk mutane \nda ƴancinsu da kuma daidaici tsakaninsu dangane da mutunci da hakki. \nSuna da hankali da kima da natsuwa kuma ya kamata su haɗa kansu."
+  },
+  {
+    "name": "Hausa (Niger)",
+    "sample_text": "Su dai ƴan‐adam, ana\n haifuwarsu ne duka ƴantattu, kuma kowannensu na da mutunci da hakkoki \ndaidai da na kowa. Suna da hankali da tunani, saboda haka duk abin da za\n su aikata wa juna, ya kamata su yi shi a cikin ƴan‐uwanci."
+  },
+  {
+    "name": "Hausa (Nigeria)",
+    "sample_text": "Su dai ’yan-adam, \nana haifuwarsu ne duka ’yantattu, kuma kowannensu na da mutunci da \nhakkoki daidai da na kowa. Suna da hankali da tunani, saboda haka duk \nabin da za su aikata wa juna, ya kamata su yi shi a cikin ’yan-uwanci."
+  },
+  {
+    "name": "Hawaiian",
+    "sample_text": "Hānau kū’oko’a ‘ia nā \nkānaka apau loa, a ua kau like ka hanohano a me nā pono kīvila ma luna o\n kākou pākahi. Ua ku’u mai ka no’ono’o pono a me ka ‘ike pono ma luna o \nkākou, no laila, e aloha kākou kekahi i kekahi."
+  },
+  {
+    "name": "Hebrew",
+    "sample_text": "כל בני אדם נולדו בני חורין ושווים בערכם ובזכויותיהם. כולם חוננו בתבונה ובמצפון, לפיכך חובה עליהם לנהוג איש ברעהו ברוח של אחוה."
+  },
+  {
+    "name": "Hiligaynon",
+    "sample_text": "Ang tanan nga tao \nginbun-ag nga hilway kag may pag-alalangay sa dungog kag katarungan. \nSila ginhatagan sang pagpamat-od kag konsensya kag nagakadapat nga \nmagbinuligay sa kahulugan sang pag-inuturay."
+  },
+  {
+    "name": "Hindi",
+    "sample_text": "सभी मनुष्यों को गौरव और \nअधिकारों के मामले में जन्मजात स्वतन्त्रता और समानता प्राप्त है । उन्हें \nबुद्धि और अन्तरात्मा की देन प्राप्त है और परस्पर उन्हें भाईचारे के भाव \nसे बर्ताव करना चाहिए ।"
+  },
+  {
+    "name": "Hindustani, Sarnami",
+    "sample_text": "Sab djanne aadjádi aur \nbarabar paidaa bhailèn, iddjat aur hak mê. Ohi djanne ke lage sab ke \nsamadj-boedj aur hierdaai hai aur doesare se sab soemmat sè, \ndjaane-maane ke chaahin."
+  },
+  {
+    "name": "Hmong, Northern Qiandong",
+    "sample_text": "Laix laix diangl dangt \nlol sob dab yangx ghax maix zit yef, niangb diot gid zenb nieef haib gid\n quaif lit gid nongd jus diel pinf denx. Nenx dol maix laib lix xent \nhaib jox hvib vut, nenx dol nongt liek bed ut id xit deit dait."
+  },
+  {
+    "name": "Hmong, Southern Qiandong",
+    "sample_text": "Leb leb nis zib youl \nnangs, mex ad sheit nangd zend yanl nhangs njanl lib. Mix mex lix xinb \ngaot liangt send, leb leb lies nhangs ghob nab ghob geud nangd."
+  },
+  {
+    "name": "Hmong Njua",
+    "sample_text": "Cuat lenx cuat dol bongb\n deul ndax dex douf muax zif youx, nyaob shout zunb yinx tab ndas dos \nid, dax zis ib suk. Nil buab daf lol jaox muax lid xinf hlub hout tab \nliangx xinb shab nzhuk, yinf gaib keuk suk gud dix mol lol nit jinb \nshenx lol shib daf shib hlad."
+  },
+  {
+    "name": "Huastec (San Luís Potosí)",
+    "sample_text": "Patal an inik ani an \nuxum u wa'tsinal walkadh abal jununúl kin bats'uw an alwa'taláb ani ka \npidhan in éy jant'ini' in tomnál; in kwa'al in tsalpádh ani in k'ayá' \nabal kin k'anidha' in juntal."
+  },
+  {
+    "name": "Huastec (Sierra de Otontepec)",
+    "sample_text": "Kuentsal nap wah-chínal \ntee ti chabal jayechek-i antip wah-chínal, bá tamá maxak a pulik maxak \nin exlal, jununul aní ni chap aní jaxtam ko-yal kip le-naxín aní ki \nk-ana ti ba."
+  },
+  {
+    "name": "Huastec (Veracruz)",
+    "sample_text": "Ejtal an kw'ajiiltsik u wa'chinal kweteem ani chu'udh k'al an chu'uxtalaab ani yajat ka k'aak'naaxin juun ani juun."
+  },
+  {
+    "name": "Huitoto, Murui",
+    "sample_text": "Nana caɨ comuillamona \ndama caɨ abido itɨcaɨ. Caɨ comuillamona jɨaɨmɨe anamo iñedɨcaɨ. Nana \ndaje facaiconi itɨcaɨ. Abɨ uiñuanona comuidɨcaɨ. Danɨ coninɨrie caɨ \nnabairilla."
+  },
+  {
+    "name": "Hungarian",
+    "sample_text": "Minden. emberi lény \nszabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel \nés lelkiismerettel bírván, egymással szemben testvéri szellemben kell \nhogy viseltessenek."
+  },
+  {
+    "name": "Ibibio",
+    "sample_text": "Kpukpuru owo emana nte \namanison, enyun enyene ukem ukem uku ye unen. Eyoho mmo ye ukeme ndikere\n nkpo, ndinyun nyene esit, ke ntre, mmo enyene ndiman nkpo mbana kiet \neken ke esit ndito eka."
+  },
+  {
+    "name": "Icelandic",
+    "sample_text": "Hver maður er borinn \nfrjáls og jafn öðrum að virðingu og réttindum. Menn eru gæddir vitsmunum\n og samvizku, og ber þeim að breyta bróðurlega hverjum við annan."
+  },
+  {
+    "name": "Ido",
+    "sample_text": "Omna homi naskas libera ed\n egala relate digneso e yuri. Li es dotita per raciono e koncienco e \ndevas agar vers l'una l'altra en spirito di frateso."
+  },
+  {
+    "name": "Idoma",
+    "sample_text": "Ɛgɛ ni modudu acɛ kɛcɛ \nnya bɛcɛ ɛhehi aa ,hibi ɛgɔ ma acɛ duu jonjilɛ ipu kocɛgba nɔcɛ cɛgba \nmɛml’ojonjilɛ ipu ɔdah ni yabɔ ɔcɛ nya. Odudu acɛ kwu ŋwule ml’ohili otu\n mɛml’ocai kɛla jɔcɛ ɔha ni yipu ɔtu ɔcɛ aa, higbɔ ma ɔcɛ higbo yɔda \nmɛml’ ɔmpa gunu lɛ bɔinɛ nu ma."
+  },
+  {
+    "name": "Igbo",
+    "sample_text": "A mụrụ mmadụ nile n'ohere \nnakwa nha anya ugwu na ikike. E nyere ha uche na mmụọ ime ihe ziri ezi \nnke na ha kwesiri ịkpaso ibe ha agwa n'obi nwanne na nwanne."
+  },
+  {
+    "name": "Ijo, Southeast",
+    "sample_text": "Kim’ owoumo se, keni \nbara ki na, pa zimi, ose keni bara kemi. Kim’se ye iroro, mani ikiou \nnana, enini kim’se dudu tari teme nana weri iyenri."
+  },
+  {
+    "name": "Ilocano",
+    "sample_text": "Amin nga tao nga \nsibibiag ket naiyanak a siwawayawaya ken addaan iti agpapada nga dayaw \nken kalintegan. Naikkanda ti panagikalintegan ken konsensya a nasken ti \npanagtitinnulong iti meysa ken meysa iti espiritu nga nainkak-absatan."
+  },
+  {
+    "name": "Indonesian",
+    "sample_text": "Semua orang dilahirkan \nmerdeka dan mempunyai martabat dan hak-hak yang sama. Mereka dikaruniai \nakal dan hati nurani dan hendaknya bergaul satu sama lain dalam semangat\n persaudaraan."
+  },
+  {
+    "name": "Interlingua",
+    "sample_text": "Tote le esseres human \nnasce libere e equal in dignitate e in derectos. Illes es dotate de \nration e de conscientia e debe ager le unes verso le alteres in un \nspirito de fraternitate."
+  },
+  {
+    "name": "Inuktitut, Eastern Canadian",
+    "sample_text": "ᐃᓅᔪᓕᒫᑦ ᐊᓂᖅᑎᕆᔪᓕᒫᑦ ᐃᓅᓚᐅᕐᒪᑕ ᐃᓱᒪᕐᓱᕐᖢᑎᒃ ᐊᒻᒪᓗ ᐊᔾᔨᐅᖃᑎᒌᒃᖢᑎᒃ ᓂᕐᓱᐊᖑᓂᒃᑯᑦ ᐊᒻᒪᓗ ᐱᔪᓐᓇᐃᑎᑎᒍᑦ. ᐃᓱᖃᖅᑐᖁᑎᖃᕐᑎᑕᐅᕙᓕᕐᐳᑦ ᐱᔾᔪᑎᖃᕐᓂᒃᑯᑦ ᖃᑕᙳᑎᒌᑦᑎᐊᕆᐊᖃᕐᓂᒃᑯᓪᓗ."
+  },
+  {
+    "name": "Inuktitut, Greenlandic",
+    "sample_text": "Inuit tamarmik inunngorput\n nammineersinnaassuseqarlutik assigiimmillu ataqqinassuseqarlutillu \npisinnaatitaaffeqarlutik. Solaqassusermik tarnillu nalunngissusianik \npilersugaapput, imminnullu iliorfigeqatigiittariaqaraluarput \nqatanngutigiittut peqatigiinnerup anersaavani."
+  },
+  {
+    "name": "Italian",
+    "sample_text": "Tutti gli esseri umani \nnascono liberi ed eguali in dignità e diritti. Essi sono dotati di \nragione e di coscienza e devono agire gli uni verso gli altri in spirito\n di fratellanza."
+  },
+  {
+    "name": "Japanese",
+    "sample_text": "すべての人間は、生まれながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。"
+  },
+  {
+    "name": "Japanese (Osaka)",
+    "sample_text": "すべての人間は、生まれながらにして自由やし、かつ、尊厳と権利とについて平等や。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しな。"
+  },
+  {
+    "name": "Japanese (Tokyo)",
+    "sample_text": "全部の人間は、生まれながらにして自由であり、かつ、尊厳と権利と について平等である。人間は、理性と良心とを授けられており、互いに同 胞の精神をもって行動しなければならない。"
+  },
+  {
+    "name": "Javanese (Javanese)",
+    "sample_text": "꧋ꦱꦧꦼꦤ꧀ꦲꦸꦮꦺꦴꦁꦏꦭꦲꦶꦂꦫꦏꦺꦏꦤ꧀ꦛꦶꦩꦂꦢꦶꦏꦭꦤ꧀ꦢꦂꦧꦺꦩꦂꦠꦧꦠ꧀ꦭꦤ꧀ꦲꦏ꧀ꦲꦏ꧀ꦏꦁꦥꦝ\n꧉​\nꦏꦧꦺꦃꦥꦶꦤꦫꦶꦁꦔꦤ꧀ꦲꦏꦭ꧀ꦭꦤ꧀ꦏꦭ꧀ꦧꦸꦱꦂꦠꦏꦲꦗꦧ꧀ꦥꦱꦿꦮꦸꦁꦔꦤ꧀ꦲꦁꦒꦺꦴꦤ꧀ꦤꦺꦩꦼꦩꦶꦠꦿꦤ꧀ꦱꦶꦗꦶꦭꦤ꧀ꦱꦶꦗꦶꦤꦺꦏꦤ꧀ꦛꦶꦗꦶꦮꦺꦴꦱꦸꦩꦢꦸꦭꦸꦂ\n꧉​"
+  },
+  {
+    "name": "Javanese (Latin)",
+    "sample_text": "Saben uwong kalairake \nkanthi mardika lan darbe martabat lan hak-hak kang padha. Kabeh \npinaringan akal lan kalbu sarta kaajab pasrawungan anggone memitran siji\n lan sijine kanthi jiwo sumadulur."
+  },
+  {
+    "name": "Jola-Fonyi",
+    "sample_text": "Bukanak búrom nan kuwolimi kurere kererer di waafaw búrom. Kubabaj poop búyejet di karampenoor."
+  },
+  {
+    "name": "Jula",
+    "sample_text": "Wólo’ lá, hádamaden’ bɛɛ\n ye hɔrɔn ye, bɛɛ ká kán lànbe ní hákɛyaw lá. Mɔgɔ bɛɛ ye hákilitigi ye,\n bɛɛ ye hákilima ye ; ò là, ù ká kán kà ɲgɔn mína ní bádenya ye."
+  },
+  {
+    "name": "K'iche', Central",
+    "sample_text": "Konojel ri winaq are taq\n ke'alaxik pa junaman ya'tal chkech kakechab'ej ronojel ri utzil; utz \nkakib'ano, kakichomaj, kakib'ij jasa je' ri k'o pa kanima, rumal che ri \njunam kib'antajik. Rajawaxik xuqe' kakimulij kib' che utzukuxuk ri \nloq'ob'al pa we uwachulew."
+  },
+  {
+    "name": "Kabardian",
+    "sample_text": "Цӏыху псори щхьэхуиту, я\n щӏыхьымрэ я хуэфащэхэмрэкӏэ зэхуэдэу къалъхур. Акъылрэ зэхэщӏыкӏ \nгъуазэрэ яӏэщи, зыр зым зэкъуэш зэхащІэ яку дэлъу зэхущытын хуейхэщ."
+  },
+  {
+    "name": "Kabiyé",
+    "sample_text": "Palʊlʊʊ ɛyaaa nɛ pa-tɩ \nyɔɔ wɛʊ kpaagbaa nɛ pɛwɛɛ kɩmaŋ wala ɛsɩndaa. Palʊlʊʊ-wɛ nɛ pɔ-lɔŋ nɛ \npa-maɣzɩm; mbʊ yekina nɛ pɔsɔɔlɩ ɖama se pɛkɛ ɛyaa pa-tɩŋgɛ."
+  },
+  {
+    "name": "Kabuverdianu",
+    "sample_text": "Tudo ser humano na ês \nmundo nacê libri e igual na sê dignidade e na sês drêto. Na sês razon e \nna sês concénça, tudo arguem debê porcêdê pa co tudo guenti na sprito di\n fraternidadi."
+  },
+  {
+    "name": "Kafa",
+    "sample_text": "Ubbe ashi bushoo \nshiijjeto tatoonaa ame megoona aalloon, oogoonaa wuroonon yechiiniye. \nIkkoo baroona manittine shalligoonaa naboona yeshet shalligoon boono \nshaddeyoo hakkiimm qello boonoshich ichete."
+  },
+  {
+    "name": "Kannada",
+    "sample_text": "ಎಲ್ಲಾ ಮಾನವರೂ \nಸ್ವತಂತ್ರರಾಗಿಯೇ ಜನಿಸಿದ್ದಾರೆ. ಹಾಗೂ ಘನತೆ ಮತ್ತು ಹಕ್ಕುಗಳಲ್ಲಿ ಸಮಾನರಾಗಿದ್ದಾರೆ. \nವಿವೇಕ ಮತ್ತು ಅಂತಃಕರಣಗಳನ್ನು ಪಡೆದವರಾದ್ದರಿಂದ ಅವರು ಪರಸ್ಪರ ಸಹೋದರ ಭಾವದಿಂದ \nವರ್ತಿಸಬೇಕು."
+  },
+  {
+    "name": "Kanuri, Central",
+    "sample_text": "Adamgana woso kambe \nkatambo ye daraja-a hakkiwa-ason kalkalye. Hankal-a nazaru-asoro kəzəpkə\n ye suro hal nəmharamiben kamazasoga letaiyin ye."
+  },
+  {
+    "name": "Kaonde",
+    "sample_text": "Bonse bantu basemwa \nbakasuluka kabiji baesakena pamo mubuneme. Baji na maana a kulanguluka \nkabiji bobila bantu bakwabo byubilo bakwibasekesha."
+  },
+  {
+    "name": "Kaqchikel, Central",
+    "sample_text": "Konojel ri winaqi' kan \nkalaxib'en pe ri kolotajïk, ri junan kiq'ij, ri junan kejqalen, junan \nkich'ojib'al pa kik'aslen, xa achi'el k'a ri kik'ojlen, ri kinojib'al \nkichajin xa tik'amun k'a chi nimaläj konojel xtikajo' ki'."
+  },
+  {
+    "name": "Karakalpak",
+    "sample_text": "Ҳәмме адамлар өз \nқәдир-қымбаты және ҳуқықларында еркин ҳәм тең болып туўылады. Оларға \nақыл ҳәм ҳүждан берилген болып, бир-бирине туўысқанлық руўхындағы \nқатнаста болыўы тийис."
+  },
+  {
+    "name": "Karelian",
+    "sample_text": "Kai rahvas roittahes vällinny da taza-arvozinnu omas arvos da oigevuksis.\nJogahizele heis on annettu mieli da omatundo da heil vältämättäh\npidäy olla keskenäh, kui vellil."
+  },
+  {
+    "name": "Kasem",
+    "sample_text": "Ba loge nɔɔna maama se \nba taa ye bedwe mo ba ŋwea de ba chega seini, ye fefeo teira kɔtaa. Wɛ \npɛ ba swa de boboŋa mo se ba taa ye nubiu daane ye ba jege da ŋwaŋa."
+  },
+  {
+    "name": "Kazakh",
+    "sample_text": "Барлық адамдар тумысынан \nазат және қадір‐қасиеті мен кұқықтары тең болып дүниеге келеді. \nАдамдарға ақыл‐парасат, ар‐ождан берілген, сондықтан олар бір‐бірімен \nтуыстық, бауырмалдық қарым‐қатынас жасаулары тиіс."
+  },
+  {
+    "name": "Khakas",
+    "sample_text": "Полған на кізі пос паза \nтиң тӧріпче паза тиң постың синін пілінгенін паза тӧрелерініңде полча. \nОлардың сағынғаны паза арығ сағыс  пар паза харындастар чіли тудынарға \nкиректер."
+  },
+  {
+    "name": "Khasi",
+    "sample_text": "Ïa ki bynriew baroh la \nkha laitluid bad ki ïaryngkat ha ka burom bad ki hok. Ha ki la bsiap da \nka bor pyrkhat bad ka jingïatiplem bad ha ka mynsiem jingsngew shipara \nki dei ban ïatrei bynrap lang."
+  },
+  {
+    "name": "Khmer, Central",
+    "sample_text": "មនុស្សទាំងអស់ \nកើតមកមានសេរីភាព និងសមភាព ក្នុងផ្នែកសេចក្ដីថ្លៃថ្នូរនិងសិទ្ធិ។ មនុស្ស \nមានវិចារណញ្ញាណនិងសតិសម្បជញ្ញៈជាប់ពីកំណើត \nហើយគប្បីប្រព្រឹត្ដចំពោះគ្នាទៅវិញទៅមកក្នុងស្មារតីភាតរភាពជាបងប្អូន។"
+  },
+  {
+    "name": "Khün",
+    "sample_text": "ᨾᨶᩩᩔ᩼ᨴ᩠ᨦᩢᩉᩖᩣ᩠ᨿᨠᩮ᩠ᨯᩨᨾᩣᨾᩦᨻ᩠ᨦᩈᩁᩓᩢᨹ᩠ᨿ᩵ᨦᨻ᩠ᨿᨦᨠ᩠ᨶᩢ\n ᨶᩱᨠᩥᨲ᩠ᨲᩥᩈ᩠ᨠᩢ ᩓᩢᩈᩥᨴ᩠ᨵᩥ ᨲ᩵ᩣ᩠ᨦᨣᩳ᩶ᨣᩢᨾᩦᨾᨶᩮᩣᨵᨾ᩠ᨾ᩼ᩓᩢ \nᨣ᩠ᩅᩁᨷᨭᩥᨷ᩠ᨲᩢᨲᩳ᩵ᨠ᩠ᨶᩢᨯᩢ᩠ᩅ᩠ᨿᨣ᩠ᩅᩣ᩠ᨾᨹ᩠ᨿ᩵ᨦᨻ᩠ᨿᨦᨠ᩠ᨶᩢ"
+  },
+  {
+    "name": "Kirghiz",
+    "sample_text": "Бардык адамдар өз \nбеделинде жана укуктарында эркин жана тең укуктуу болуп жаралат. Алардын\n аң‐сезими менен абийири бар жана бири‐бирине бир туугандык \nмамилекылууга тийиш."
+  },
+  {
+    "name": "Kissi, Northern",
+    "sample_text": "wanda tu cio Mɛ pilɔɔ o \nwolɔɔ ni, le waa o ba ndɔɔ cio, o bɛɛlen kenando ni, o tɔngdo ni, bɛtu \nnɔn yiyando a kullo, o kon ni naan tu dua mim maalyan kalapilɔyɛyi ni."
+  },
+  {
+    "name": "Kituba",
+    "sample_text": "Bantu nyonso, na \nmbutukulu kevwandaka na kimpwanza ya bawu, ngenda mpe baluve ya mutindu \nmosi. Mayela na mbanzulu je na bawu, ni yawu yina bafwana kusalasana na \nbumpangi."
+  },
+  {
+    "name": "Kituba (2)",
+    "sample_text": "Bantu nyonso ntangu bawu\n ke butukaka, bawu ke vwandaka na kimpwanza, ya kele mutindu mosi mpe na\n yina me tadila buzitu ya nzutu mpe baluve ya bawu. Bawu kele na mayindu\n mpe na bumuntu. Mpe nyonso yina bawu fwana kusala na sika ya bantu ya \nnkaka, bawu fwana kusala yawu na mpeve ya kimpangui."
+  },
+  {
+    "name": "Komi-Permyak",
+    "sample_text": "Быдӧс отирыс чужӧны \nвольнӧйезӧн да ӧткоддезӧн  достоинствоын да правоэзын. Нылӧ сетӧм мывкыд\n да совесть овны ӧтамӧдныскӧт кыдз воннэзлӧ."
+  },
+  {
+    "name": "Konjo",
+    "sample_text": "Abandu omububuthiranwa \nbakabuthawa ibanawithe obuthoki nobuholho obulingirirene, mobahangikwa \nibanawithe amenge, neryo ibakathoka erighabania abathya ekibuya \nnekisandire. Nokweryo buli muyima atholere eryanza munyikiwe \nngababuthenwe."
+  },
+  {
+    "name": "Koongo",
+    "sample_text": "Bantu nyonso, na mbutukulu\n kevwandaka na kimpwanza ya bawu, ngenda mpe baluve ya mutindu mosi. \nMayela na mbanzulu je na bawu, ni yawu yina bafwana kusalasana na \nbumpangi."
+  },
+  {
+    "name": "Koongo (Angola)",
+    "sample_text": "Bizingi bioso bisiwu\n ti batu bambutukanga mu kidedi ki buzitu ayi kibumswa. Bizingi-bene, \nbatu, badi diela ayi tsi-ntima, bafwene kuzingila mbatzi-na-mbatzi-yandi\n mu mtima bukhomba."
+  },
+  {
+    "name": "Korean",
+    "sample_text": "모든 인간은 태어날 때부터 자유로우며 그 존엄과 권리에 있어 동등하다. 인간은 천부적으로 이성과 양심을 부여받았으며 서로 형제애의 정신으로 행동하여야 한다."
+  },
+  {
+    "name": "Kpelle, Guinea",
+    "sample_text": "Nukan gele kaa pələ kaa \ntanɔn, yiliɓa nu kəle maawiyə pələ da tɔɔi gaa ɲei yɛnɛyii hu kɛpələ \nkaalɔ tanɔn; di kɛmɛni a nukan ŋaa ɓə gɛɛ hwəkɛli wɛlikɛmaa ə lɔ di \nluwai."
+  },
+  {
+    "name": "Krio",
+    "sample_text": "ɛvribɔdi bɔn fri ɛn gɛt \nin yon rayt, nɔn wan nɔ pas in kɔmpin. Wi ɔl ebul fɔ tink ɛn fɛnɔt wetin\n rayt ɛn rɔŋ pantap dat wi fɔ sabi aw fɔ liv lɛk wan big famili."
+  },
+  {
+    "name": "Kulango, Bouna",
+    "sample_text": "Igooyoo pɛɛ hʋn taa. Bɔ pɛɛ jabaga bɔrɔ. Hɔ ya gʋʋn’n bɔɔ hɛ pɛɛ, hɔ hɛ gusɛgɛ’n."
+  },
+  {
+    "name": "Kurdish, Central",
+    "sample_text": "Hemû mirov \nazad û di weqar û mafan de wekhev tên dinyayê. Ew xwedî hiş û şuûr in û \ndivê li hember hev bi zihniyeteke bratiyê bilivin."
+  },
+  {
+    "name": "Kurdish, Northern",
+    "sample_text": "Hemû mirov azad û di weqar\n û mafan de wekhev tên dinyayê. Ew xwedî hiş û şuûr in û divê li hember \nhev bi zihniyeteke bratiyê bilivin."
+  },
+  {
+    "name": "Ladin",
+    "sample_text": "Dötes les porsones nasc \nlëdies y cun la medema dignité y i medemi dërć. Ares à na rajun y na \ncosciënza y mëss s’incuntè öna cun l’atra te n spirit de fraternité."
+  },
+  {
+    "name": "Ladino",
+    "sample_text": "Todos los umanos nasen \nlibres i iguales en dinyidad i derechos i, komo estan ekipados de razon i\n konsensia, deven komportarsen kon ermandad los unos kon los otros."
+  },
+  {
+    "name": "Lamnso'",
+    "sample_text": "Á dzə̀ə́ wir dzə̀m \nréŋréŋ fó ghvəm wùn à fó ghày, á yo’ dzə̀ə́ wir msòŋ ji kwàn. Wìr dzə̀m \nk̀m k fómo woo fó kwà’tì wùn à fó vifii, a wù kér fó a yiì e wùmò’ woo \nwír moo fə́r və."
+  },
+  {
+    "name": "Lao",
+    "sample_text": "ມະນຸດເກີດມາມີສິດເສລີພາບ \nແລະ ສະເໝີໜ້າກັນໃນທາງກຽດຕິສັກ ແລະ \nທາງສິດດ້ວຍມະນຸດມີສະຕິສຳປັດຊັນຍະ(ຮູ້ດີຮູ້ຊົ່ວ)ແລະມີມະໂນທຳຈື່ງຕ້ອງປະພຶດຕົນ\nຕໍ່ກັນໃນທາງພີ່ນ້ອງ."
+  },
+  {
+    "name": "Latin",
+    "sample_text": "Omnes homines dignitate et\n iure liberi et pares nascuntur, rationis et conscientiae participes \nsunt, quibus inter se concordiae studio est agendum."
+  },
+  {
+    "name": "Latin (1)",
+    "sample_text": "Omnes homines liberi \naequique dignitate atque juribus nascuntur. Ratione conscientiaque \npraediti sunt et alii erga alios cum fraternitate se gerere debent."
+  },
+  {
+    "name": "Latvian",
+    "sample_text": "Visi cilvēki piedzimst \nbrīvi un vienlīdzīgi savā pašcieņā un tiesībās. Viņi ir apveltīti ar \nsaprātu un sirdsapziņu, un viņiem jāizturas citam pret citu brālības \ngarā."
+  },
+  {
+    "name": "Latvian (2)",
+    "sample_text": "Visi cilvēki piedzimst \nbrīvi un vienlīdzīgi cieņā un tiesībās. Viņiem ir dots saprāts un \nsirdsapziņa, un viņiem citam pret citu jāizturas brālības garā."
+  },
+  {
+    "name": "Ligurian",
+    "sample_text": "Tutte e personn-e \nnascian libere e pæge in dignitæ e driti. Son dotæ de raxon e coscensa e\n gh’an da agî l’unn-a verso l’atra inte ’n spirito de fradelansa."
+  },
+  {
+    "name": "Limba, West-Central",
+    "sample_text": "Biya-mɛti fooma be kiyo ka kuyankaŋ iŋ kasɛmbɛ mɛnɛ in ka yiki. Bindɛ kiŋ ba niyɔ in masimɔkɔ, maka yiina wo ka hu wɛndi yande."
+  },
+  {
+    "name": "Lingala",
+    "sample_text": "Bato nyonso na mbotama \nbazali nzomi pe bakokani na limemya pe makoki. Bazali na mayele pe \nbasengeli kofanda na bondeko okati na bango."
+  },
+  {
+    "name": "Lingala (tones)",
+    "sample_text": "Bato nyɔ́nsɔ na mbótama \nbazalí nsɔ́mí mpé bakókání na limɛmya mpé makokí. Bazalí na \nmayɛ́lɛ mpé basengélí kovánda na bondeko o káti na bangó."
+  },
+  {
+    "name": "Lithuanian",
+    "sample_text": "Visi žmonės gimsta laisvi \nir lygūs savo orumu ir teisėmis. Jiems suteiktas protas ir sąžinė ir jie\n turi elgtis vienas kito atžvilgiu kaip broliai."
+  },
+  {
+    "name": "Lobi",
+    "sample_text": "Teehuu sʋnɔ n ther ɛɛ \nnɩɩ bʋnɔ wa n do deeaʔ sɩ wʋ n makha samɩnɩ na nà hʋ tɩnɛpar rà. Thangba\n ti yɛr à pɛ yɛr jɩɩr nà fɩlwɛ sɩ a teena waan fʋkha omkhaa."
+  },
+  {
+    "name": "Lozi",
+    "sample_text": "Batu kaufela ba pepilwe \ninge ba lukuluhile ni liswanelo ze swana. Ba ba ni swanelo ya ku nahana \nmi ba swanela ku ba ni likezo za buzwale ku mutu yo mung'wi."
+  },
+  {
+    "name": "Luba-Kasai",
+    "sample_text": "Bantu bonsu badi \nbaledibwa badikadile ne badi ne makokeshi amwe. Badi ne lungenyi lwa \nbumuntu ne kondo ka moyo, badi ne bwa kwenzelangana malu mu buwetu."
+  },
+  {
+    "name": "Lunda",
+    "sample_text": "Muntu wejima wasemuka \nwalukbuka wesekana hamu ni akwawu mukumulemesha. Wenkewa kutong'ojoka \nnikuzatila hamu nimukwawu muntu muwunta'a."
+  },
+  {
+    "name": "Luvale",
+    "sample_text": "Vatu vosena vasemuka \nyapwa hohamwe nakweseka mukuyoya chavo. Vatwama nachiyoyelo chalusesa \nchajingolo chakuzanga kulivwashana muchiyoyelo chavo."
+  },
+  {
+    "name": "Luxembourgeois",
+    "sample_text": "All Mënsch kënnt fräi a \nmat deer selwechter Dignitéit an dene selwechte Rechter op d'Welt. \nJiddereen huet säi Verstand a säi Gewësse krut an soll an engem Geescht \nvu Bridderlechkeet denen anere géintiwwer handelen."
+  },
+  {
+    "name": "Maasai",
+    "sample_text": "Iyiolo iltung’anak pooki naa ketoiwuoki naa kenare enkishui o sipat. Naa kenare nikiyanyit irkulikae enaa ilalashera."
+  },
+  {
+    "name": "Macedonian",
+    "sample_text": "Сите човечки суштества се \nраѓаат слободни и еднакви по достоинство и права. Тие се обдарени со \nразум и совест и треба да се однесуваат еден кон друг во духот на општо \nчовечката припадност."
+  },
+  {
+    "name": "Madura",
+    "sample_text": "Sadajana oreng lahir \nmardika e sarenge drajat klaban hak-hak se dha-padha. Sadajana eparenge \nakal sareng nurani ban kodu areng-sareng akanca kadi taretan."
+  },
+  {
+    "name": "Magahi",
+    "sample_text": "सब लोग आजादे जन्म लेब हई\n तथा सब के बराबरे सम्मान और अधिकार हइ। हुनखो के पास समझ-बूझ और अंत:करण \nके आवाज होब हई। और हुनका दोसरो के साथ भाईचारा के व्यवहार करे पड़ हई।"
+  },
+  {
+    "name": "Maithili",
+    "sample_text": "सभ मानव जन्मतः स्वतन्त्र\n अछि तथा गरिमा आʼ अधिकारमे समान अछि। सभकेँ अपन–अपन बुद्धि आʼ विवेक छैक \nआओर सभकेँ एक दोसराक प्रति सौहार्दपूर्ण व्यवहार करबाक चाही।"
+  },
+  {
+    "name": "Makhuwa",
+    "sample_text": "Atthu othene aniyaria \noolikana ni owilamula moota ontthunaya okhala, variyari v’edignidade ni \nedireito. Akhalanne esaria ni otthokelela, ahaana akhalasaka othene saya\n vamurettele."
+  },
+  {
+    "name": "Makonde",
+    "sample_text": "Vanu vohevohe vaidile n’chilambo valendene. Vanijaliwa ulimala vene. Pavele vanu pave na ulongo."
+  },
+  {
+    "name": "Malagasy, Plateau",
+    "sample_text": "Teraka afaka sy mitovy zo \nsy fahamendrehana ny olombelona rehetra. Samy manan-tsaina sy \nfieritreretana ka tokony hifampitondra am- pirahalahiana."
+  },
+  {
+    "name": "Malay, Ambonese",
+    "sample_text": "Samua orang dilahirkan \nmerdeka deng pung martabat deng hak-hak yang sama. Dorang dapa karunia \nakal deng hati nurani deng hendaknya batamang satu deng yang laeng dalam\n semangat basodara."
+  },
+  {
+    "name": "Malay, Papuan",
+    "sample_text": "Samua orang dilahirkan \nmerdeka dan pu martabat dan hak-hak yang sama. Dorang dikaruniai akal \ndan hati nurani dan lebih baik bergaul satu sama lain dalam semangat \npersaudaraan."
+  },
+  {
+    "name": "Malay (Arabic)",
+    "sample_text": "سموا مأنسي \nدلاهيركن بيبس دان سامرات دري سڬي كموليأن دان حق٢. مريك ممڤوڽاي ڤميكيرن \nدان ڤراسأن هاتي دان هندقله برتيندق د انتارا ساتو سام لائن دڠن سماڠت \nڤرساودارأن."
+  },
+  {
+    "name": "Malay (Latin)",
+    "sample_text": "Semua manusia \ndilahirkan bebas dan samarata dari segi kemuliaan dan hak-hak. Mereka \nmempunyai pemikiran dan perasaan hati dan hendaklah bertindak di antara \nsatu sama lain dengan semangat persaudaraan."
+  },
+  {
+    "name": "Malayalam",
+    "sample_text": "മനുഷ്യരെല്ലാവരും \nതുല്യാവകാശങ്ങളോടും അന്തസ്സോടും സ്വാതന്ത്ര്യത്തോടുംകൂടി \nജനിച്ചിട്ടുള്ളവരാണ്‌. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ്‌ \nമനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്‌."
+  },
+  {
+    "name": "Malayalam",
+    "sample_text": "മനുഷ്യരെല്ലാവരും \nതുല്യാവകാശങ്ങളോടും അന്തസ്സോടും സ്വാതന്ത്ര്യത്തോടുംകൂടി \nജനിച്ചിട്ടുള്ളവരാണ്‌. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ്‌ \nമനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്‌."
+  },
+  {
+    "name": "Maldivian",
+    "sample_text": "ހުރިހާ އިންސާނުންވެސް \nދުނިޔެއަށް އުފަންވަނީ، މިނިވަންކަމުގައި، ހަމަހަމަ ޙައްޤުތަކަކާއެކު، \nހަމަހަމަ ދަރަޖައެއްގައި ކަމޭހިތެވިގެންވާ ބައެއްގެ ގޮތުގައެވެ. ހެޔޮ \nވިސްނުމާއި، ހެޔޮބުއްދީގެ ބާރު އެމީހުންނަށް ލިބިގެންވެއެވެ. އަދި އެކަކު \nއަނެކަކާމެދު އެމީހުން މުޢާމަލާތް ކުރަންވާނީ، އުޚުއްވަތްތެރިކަމުގެ \nރޫޙެއްގައެވެ."
+  },
+  {
+    "name": "Maltese",
+    "sample_text": "Il-bnedmin kollha \njitwieldu ħielsa u ugwali fid-dinjità u d-drittijiet. Huma mogħnija \nbir-raġuni u bil-kuxjenza u għandhom iġibu ruħhom ma’ xulxin bi spirtu \nta’ aħwa."
+  },
+  {
+    "name": "Mam, Northern",
+    "sample_text": "Kyaqiilqe winaq nchi \nitz'aj tuj kopib'il, juunx kychuwiinqal b'ix kyokleen, kyja'tzan tuj \ntb'aanal xiinv'il tu'n kyanq'iin tuj b'ank'u'j kyxool."
+  },
+  {
+    "name": "Maninkakan, Eastern",
+    "sample_text": "Adamadennu bɛɛ sɔdɔnɲa \nkakan, hɔrɔya dɔ, fabadenɲa dɔ ani sariya ta fan dɔ. Hankili ni sɔnɔmɛ \nye alu bɛɛ ma, a kakan wo dɔ alu ye bakelenɲa sila lataaman alu ɲɔɔn tɛ."
+  },
+  {
+    "name": "Manx",
+    "sample_text": "Ta dy chooilley ghooinney \nruggit seyr as corrym rish dy chooilley ghooinney elley ayns ooashley as\n ayns cairys. Ta resoon as cooinsheanse stowit orroo as lhisagh ad \ndellal rish y cheilley lesh spyrryd braaragh."
+  },
+  {
+    "name": "Maori",
+    "sample_text": "Ko te katoa o nga tangata i\n te whanaungatanga mai e watea ana i nga here katoa; e tauriterite ana \nhoki nga mana me nga tika. E whakawhiwhia ana hoki ki a ratou te ngakau \nwhai whakaaro me te hinengaro mohio ki te tika me te he, a e tika ana \nkia meinga te mahi a tetahi ki tetahi me ma roto atu i te wairua o te \nnoho tahi, ano he teina he tuakana i ringa i te whakaaro kotahi."
+  },
+  {
+    "name": "Mapudungun",
+    "sample_text": "Kom pu mogence kisuzuam \nmvlekey, kom cegeygvn, logkogeygvn ka piwkegeygvn, nieygvn kimvn fey mew\n mvley tañi yamniewael ka epuñpvle kejuwael egvn."
+  },
+  {
+    "name": "Marathi",
+    "sample_text": "सर्व मानवी व्यक्ति जन्मतःच\n स्वतंत्र आहेत व त्यांना समान प्रतिष्ठा व समान अधिकार आहेत. त्यांना \nविचारशक्ति व सदसविद्वेकबुद्धि लाभलेली आहे. व त्यांनी एकमेकांशी \nबंधुत्याच्या भावनेने आचरण करावे."
+  },
+  {
+    "name": "Marshallese",
+    "sample_text": "Armij otemjej rej rujlok \nilo anemkwoj im jonon utiej eo im maron ko air wot juon. Emwij lelok non\n ir maron in bukot non ir make im bareinwot boklikot kin men ko rej \ntomaki im bwe jerbal non dron ilo juon jitobon jimpenjatin."
+  },
+  {
+    "name": "Matsés",
+    "sample_text": "Chidon tishaido yec \nmatses abitedimbo bëdamboec isnanac bëdambo ictsiash. Chieshnanac \nicsambo ictsiash. Abitedimbo bëdamboec tabadac bëdambo ictsiash. Shubu \nabentsëcquidën tabadac birnboec abitedi tabadac bëdambo ictsiash - \nquequin chuipanëdash nidaid abitedinoësh cho-choquidon."
+  },
+  {
+    "name": "Maya, Yucatán",
+    "sample_text": "Tuláakal wíinik ku \nsíijil jáalkʼab yetel keet u tsiikul yetel Najmal Sijnalil, beytun xan \nnaʼataʼan sijnalil yetel noʼojaʼanil u tuukuloʼ, kʼaʼabet u bisikuba bey\n láaktzilil yetel tuláakal u baatzileʼ."
+  },
+  {
+    "name": "Mazahua Central",
+    "sample_text": "Texe yo nte̱'e̱ chjetrjoji, angezeji ximi xo'oji ñeje k'inchiji, nesta ra ngara na jo'o k'o dyaja e nte̱'e̱."
+  },
+  {
+    "name": "Mazatec, Ixcatlán",
+    "sample_text": "Nga ndindie xuta ngatsen\n de’e ko ngondsejen ngatjin-kjua nga xchandinkon nt’a ngondsejen ngatjin\n kokjin-tokon,kotjinkjua nga takie engajan skuendinkon xkjin."
+  },
+  {
+    "name": "Mbundu",
+    "sample_text": "O athu woso avwala \nabhuluka ni kusokela mu kijingu ni mu itekelu. Ene ala ni ulungilu ni \nkilunji ni atokala kulaya kumoxi nya akwa mu mixima ya undandu."
+  },
+  {
+    "name": "Mbundu (009)",
+    "sample_text": "Mutu uoso uoso a mu \nvuala ni ufolo ni kutena kumoxi mu kijingu ni mu ubinganu. Mu kilembu \nkia kubanga ni mu ubanzelu, Atena uê kubanga ioso kua akua mu muxima ua \ntululuka mba upange."
+  },
+  {
+    "name": "Mende",
+    "sample_text": "Numuvuisia Kpɛlɛɛ ta ti \nle tɛ yɛ nduwɔ ya hu, tao ti nuvuu yei kɛɛ ti lɔnyi maa hɛwungɔ. Kiiya \nkɛɛ hindaluahu gɔɔla a yɛlɔ ti hun. Fale mahoungɔ ti ti nyɔnyɔhu hoi kia\n ndeegaa."
+  },
+  {
+    "name": "Micmac",
+    "sample_text": "Msit mimajulnu’k weskwijinu’ltijik alsumsultijik aqq newte’ tett wkpimte’tmut aqq koqwajo’taqnn wejkul’aqmititl."
+  },
+  {
+    "name": "Minangkabau",
+    "sample_text": "Sadonyo manusia \ndilahiakan mardeka dan punyo martabat sarato hak-hak nan samo. Mareka \ndikaruniai aka jo hati nurani, supayo satu samo lain bagaul sarupo urang\n badunsanak."
+  },
+  {
+    "name": "Minangkabau (2)",
+    "sample_text": "Sadonyo urang lahia \nmardeka jo punyo martabaik jo hak-hak nan samo. Nyo diagiah aka jo hati \nnurani sarato handaknyo babaua samo nan lainnyo dalam samangaik \nbadunsanak."
+  },
+  {
+    "name": "Mirandese",
+    "sample_text": "Todos ls seres houmanos \nnácen lhibres i eiguales an honra i an dreitos. Dotados de rezon i de \ncuncéncia, dében de se dar bien uns culs outros i cumo armanos."
+  },
+  {
+    "name": "Mískito",
+    "sample_text": "Upla sut ba kulkanka \nlakara, airaitka nanira bara pri, sin, aikuki, baku takisa. Bamna sins \nlaka bri baku, lukanka bain pri baku aimuihni lakara, pana pana tabaikan\n kaiasa."
+  },
+  {
+    "name": "Mixe, Totontepec",
+    "sample_text": "Tum akijpxa xa ve’e jayu\n kye’ex, ve’em ax jö’n tyukidaakjüva tijaty mëkin; ve’empa axjö’n jä \njyööjtykin di yaknaxy, jats oy myujatyöö’tëjk di mëët nayjavajüt."
+  },
+  {
+    "name": "Mixtec, Metlatónoc",
+    "sample_text": "Taka ma ñayi nguiakoi \nñayivi ñatu na ja'a tnu'u ja kusa'a ndeva'ña-i, su'uva kajito va'aña-i, \nyuka ku ja jiniñu'u ja kukototna-i."
+  },
+  {
+    "name": "Mizo",
+    "sample_text": "Mi zawng zawng hi zalêna\n piang kan ni a, zahawmna leh dikna chanvoah intluk tlâng vek kan ni. \nChhia leh tha hriatna fîm neia siam kan nih avangin kan mihring puite \nchungah inunauna thinlung kan pu tlat tur a ni."
+  },
+  {
+    "name": "Moba",
+    "sample_text": "Nifoi kul maal yendu \nbuam po i, k b yudand yen b yiko-nba biɛ ja. B mɔg maalm g ban yal g \nŋan, g biɛ baa bu yen lieb naataann n ninŋ i."
+  },
+  {
+    "name": "Mon",
+    "sample_text": "မၞိဟ်ဂမၠိုၚ် \nအိုဿီုတအ်ဝွံ စနူသၠးတိတ် နူဂဝ်ဂၞဴ ဒှ်မၞိဟ်သၠးပွးအိုတ်တုဲ အခေါၚ်အရာ ကေုာံ \nသိက္ခာမၞိဟ်တအ် တုပ် သၟဟ်ရ။ မၞိဟ်တအ်ဂှ် နွံကဵုဓရ်စၚ်ခြၚ်ကေုာံ သမ္တီညာဏ် \nဓဝ်ပါ်ပဲါ ခိုဟ်ပရေံနွံတုဲ ညးမွဲ ကေုာံ ညးမွဲ ထေက်ကဵု သ္ဒးဒ္ဂေတ်ဗက် \nဆက်ဆောံညးသ္ကအ် နစိုတ်ဓာတ်ကောံဒေံအရေ။"
+  },
+  {
+    "name": "Mongolian, Halh (Cyrillic)",
+    "sample_text": "Хүн бүр төрж \nмэндлэхэд эрх чөлөөтэй, адилхан нэр төртэй, ижил эрхтэй байдаг. Оюун \nухаан, нандин чанар заяасан хүн гэгч өөр хоорондоо ахан дүүгийн үзэл \nсанаагаар харьцах учиртай."
+  },
+  {
+    "name": "Mongolian, Halh (Mongolian)",
+    "sample_text": "ᠬᠦᠮᠦᠨ ᠪᠦᠷ ᠲᠥᠷᠥᠵᠦ ᠮᠡᠨᠳᠡᠯᠡᠬᠦ ᠡᠷᠬᠡ ᠴᠢᠯᠥᠭᠡ ᠲᠡᠢ᠂ ᠠᠳᠠᠯᠢᠬᠠᠨ ᠨᠡᠷ᠎ᠡ \nᠲᠥᠷᠥ ᠲᠡᠢ᠂ ᠢᠵᠢᠯ ᠡᠷᠬᠡ ᠲᠡᠢ ᠪᠠᠢᠠᠭ᠃ ᠣᠶᠤᠨ ᠤᠬᠠᠭᠠᠨ᠂ ᠨᠠᠨᠳᠢᠨ ᠴᠢᠨᠠᠷ ᠵᠠᠶᠠᠭᠠᠰᠠᠨ ᠬᠦᠮᠦᠨ\n ᠬᠡᠭᠴᠢ ᠥᠭᠡᠷ᠎ᠡ ᠬᠣᠭᠣᠷᠣᠨᠳᠣ᠎ᠨ ᠠᠬᠠᠨ ᠳᠡᠭᠦᠦ ᠢᠨ ᠦᠵᠢᠯ ᠰᠠᠨᠠᠭᠠ ᠥᠠᠷ ᠬᠠᠷᠢᠴᠠᠬᠥ \nᠤᠴᠢᠷ ᠲᠠᠢ᠃"
+  },
+  {
+    "name": "Montenegrin",
+    "sample_text": "Sva ljudska bića rađaju \nse slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena razumom i\n savješću i jedni prema drugima treba da postupaju u duhu bratstva."
+  },
+  {
+    "name": "Mòoré",
+    "sample_text": "Ninsaalbã fãa sã n doge,\n ned fãa so a menga, ned pa rogd n yaa yamb ye, nebã fãa zema taab b \nyel-segdɩ la b burkĩndlem wɛɛngẽ. Nebã fãa tara yam la tagsgo, ned fãa \ntogame n vɩɩnd ne a to saam-biir pʊgẽ."
+  },
+  {
+    "name": "Morisyen",
+    "sample_text": "Tou imin vinn lor later \nlib ek egal an drwa ek an dignite. Zot ne avek fakilte rezone e avek enn\n konsians e zot bizin azir enn anver lot dan enn espri fraternite."
+  },
+  {
+    "name": "Moro",
+    "sample_text": "Leđa pređ lalǝŋǝnia \nlëbǝrëinialo na lǝɽǝwaṯo eŋen ŋǝđamia na eŋen pređ iŋi ŋǝrcađaṯo ṯa leđa\n alǝfiđi. Lënŋulu pređ lananëinu đǝnaca đame ɽetǝɽeto na ara gǝŋǝra \nŋenŋanṯa alǝɽǝwađaṯe alamǝđaiđe bǝɽan usilaga gǝŋǝlǝŋǝnia na gǝŋorba."
+  },
+  {
+    "name": "Mozarabic",
+    "sample_text": "Totos les esseres \nhumanos nascent libberos et eguales in dignitate e dretos e, dotatos \ncommo stant de racione e conscientia, devent comportarse in germanitate \nles unos con les altros."
+  },
+  {
+    "name": "Naga, Ao",
+    "sample_text": "Meimchir ajak temeten \naser tashi kasa nüji nung asor. Parnok dak bilemtettsü shisatsü aser \ntangatetba kasa agüja aliba jagi külem adianu rongnung tanela ka nung \nlungjema alitsüla."
+  },
+  {
+    "name": "Nahuatl, Central",
+    "sample_text": "Nochi tlakamej uan \nsiuamej kipiaj manoj kuali tlakatisej, nochi san se totlatechpouiltilis \nuan titlatepanitalojkej, yeka moneki kuali ma timouikakaj, ma \ntimoiknelikaj, ma timotlasojtlakaj uan ma timotlepanitakaj."
+  },
+  {
+    "name": "Nanai",
+    "sample_text": "Хэмту найсал гипалин, \nмэнэ гэбудиэри, правосалдиари эмуту балдичи. Нёанчи муруӈку, дэрэлку, \nдиа диавари а-нэу-мэт бодомари тагилайчи."
+  },
+  {
+    "name": "Navajo",
+    "sample_text": "Bilaʼashdaʼii tʼáá ałtsoh \nyiníkʼehgo bidizhchįh dóó aheełtʼeego ílį́į́go bee baahóchįʼ. Eíí háníʼ \ndóó hánítshakees hwiihdaasyaʼ eíí binahjį́ʼ ahidiníłnáhgo álíleekʼehgo \nkʼé bee ahił niidlį́."
+  },
+  {
+    "name": "Ndebele",
+    "sample_text": "Abantu bonke bazalwa \nbekhululekile njalo belingana kumalungelo abo. Balesipho sikanembeza, \nngakho bamele baphathane ngomoya otshengisa ubuhlobo lobunye."
+  },
+  {
+    "name": "Ndonga",
+    "sample_text": "Aantu ayehe oya valwa ye \nna emanguluko noye na ondilo yi thike pamwe osho wo uuthemba. Oye na \nomaipulo goondunge neiuvo onkene naa kalathane mombepo yuumwainathana."
+  },
+  {
+    "name": "Nenets",
+    "sample_text": "Ет хибяри ненэць соямарианта хуркари правада тнява, ӈобой ненэця ниду нись токалба, ӈыбтамба илевату тара."
+  },
+  {
+    "name": "Nepali",
+    "sample_text": "सबै व्यक्ति हरू जन्मजात \nस्वतन्त्र हुन ती सबैको समान अधिकार र महत्व छ। निजहरूमा विचार शक्ति र \nसद्धिचार भएकोले निजहरूले आपसमा भातृत्वको भावना बाट व्यवहार गर्नु पर्छ।"
+  },
+  {
+    "name": "Nganasan",
+    "sample_text": "Бәнде” ӈанасанә” \nӈәтукәнды” нендя”туо” ӈонә хонсы хелиде” ӈиле мәнәй (правай). Сытыӈ \nхонды” ӈиле ӈонда ӈонә сяру, дүзытәндыӈ ихүтүӈ нягәә” сүөарусә”."
+  },
+  {
+    "name": "Niue",
+    "sample_text": "Ko e tau tagata momoui \noti kua fanau ai ke he fakatokanoaaga mo e fakatatai oti e tau tutuaga \nmo e tau tonuhia. Kua moua ai foki e lautolu e kakano mo e manamanatuaga\n ti kua lata ni ke fakafetui e taha ke he taha ke he agaga \nfakamatakainaga."
+  },
+  {
+    "name": "Nomatsiguenga",
+    "sample_text": "Antagaisati matsiguenga \nibogaiguë matsiguengasonorl. Aisati icantaigaca. Teni \niromerataiguengani. Antagaisati iquengaigui aisati igóiguiro ora \ncaninaro aisati igóiguiro ora te onganinate. Iroro caninataque omagaro \nmatsiguenga iraniacaninataigueri ira basiniati matsiguenga aisati \ningantaiguerí ora caninaro."
+  },
+  {
+    "name": "Norwegian, Bokmål",
+    "sample_text": "Alle mennesker er født \nfrie og med samme menneskeverd og menneskerettigheter. De er utstyrt med\n fornuft og samvittighet og bør handle mot hverandre i brorskapets ånd."
+  },
+  {
+    "name": "Norwegian, Nynorsk",
+    "sample_text": "Alle menneske er fødde til\n fridom og med same menneskeverd og menneskerettar. Dei har fått fornuft\n og samvit og skal leve med kvarandre som brør."
+  },
+  {
+    "name": "Nuosu",
+    "sample_text": "ꊿꂷꃅꄿꐨꐥ，ꌅꅍꀂꏽꐯꒈꃅꐥꌐ。ꊿꊇꉪꍆꌋꆀꁨꉌꑌꐥ，ꄷꀋꁨꂛꊨꅫꃀꃅꐥꄡꑟ。"
+  },
+  {
+    "name": "Nyamwezi",
+    "sample_text": "Banhu bose bubyalagwa biyagalulile, n’ikujo haki zilenganelile."
+  },
+  {
+    "name": "Nyanja (Chechewa)",
+    "sample_text": "Anthu onse amabadwa aufulu\n ndiponso ofanana mu ulemu ndi ufulu wao. Iwowa ndi wodalitsidwa ndi \nmphamvu zoganiza ndi chikumbumtima ndipo achitirane wina ndi mnzake \nmwaubale."
+  },
+  {
+    "name": "Nyanja (Chinyanja)",
+    "sample_text": "Anthu onse amabadwa mwa \nufulu ndiponso olinganga m' makhalidwe ao. Iwo amakhala ndi nzeru za \ncibadwidwe kotero ayenera kucitirana zabwino wina ndi mnzace."
+  },
+  {
+    "name": "Nyankore",
+    "sample_text": "Abantu nibazaarwa baine \nobugabe nobushoborozi ebiri kwingana nibahangwa baine obwengye kandi \nbarikubasa kwahura ekirungi nekibi, nahabwekyo abantu bashemereire \nkutuura kumwe nkabanya Uganda."
+  },
+  {
+    "name": "Nyemba",
+    "sample_text": "Vanu voxe vakasemuka mu \ncizango co mumo lika mu vulemu co kulimanena. Vakevo vakala na mangana \nco na mbunge co vana pande kulinga vamo na vakwavo na mbunge ya vuna \nyina."
+  },
+  {
+    "name": "Nzema",
+    "sample_text": "Menli muala di bɛ ti \nanwo na eza noko bɛsɛ wɔ dibilɛ nee adenlenyianlɛ nu. Bɛlɛ ndwenlenwo \nnee adwenle, yemɔti ɔwɔ kɛ bɛkile adiemayɛlɛ bɛmaa bɛ nwo ngoko."
+  },
+  {
+    "name": "Occitan",
+    "sample_text": "Tóuti lis uman naisson \nlibre. Soun egau pèrla digneta e li dre. An tóuti uno resoun e uno \ncounsciènci. Se dèvon tenifreirenau lis un 'mé lis autre."
+  },
+  {
+    "name": "Occitan (Auvergnat)",
+    "sample_text": "Ta la proussouna neisson \nlieura moé parira pà dïnessà mai dret. Son charjada de razou moé de \ncousiensà mai lhu fau arjî entremeî lha bei n'eime de freiressà."
+  },
+  {
+    "name": "Occitan (Francoprovençal, Fribourg)",
+    "sample_text": "Totè lè dzin vinyon ou \nmondo libro è parê in dinyitâ è in drê. Chon dotâ dè réjon è dè \nkonhyinthe è dêvon chè konportâ lè j’on-lè j’ôtro din on èchpri dè \nfratèrnitâ."
+  },
+  {
+    "name": "Occitan (Francoprovençal, Savoie)",
+    "sample_text": "Tu luz òmò vinyon u mondo,\n librò, tu tòton pè leû dinyitò è leû drèye. Y’on tu d’émò è dè \nkonhyinhi è i dèvon fè- mouhò dè fratèrnitò aouèy luz òtri."
+  },
+  {
+    "name": "Occitan (Francoprovençal, Valais)",
+    "sample_text": "Tui lè jêtre humain néchon\n libro è pary in degnetâ é in drouê. Chon reijonâbló è dè counchieince è\n deivouon âzic lè j’oun vi j’avi di j’âtró in pèr oun espri dè \nfratèrnitâ"
+  },
+  {
+    "name": "Occitan (Francoprovençal, Vaud)",
+    "sample_text": "Tî lè z’ître humain \nvîgnant âo mondo libro et parâi dein la dignitâ et lè drâi. L’ant reçu \nréson et concheince et dâivant vivre lè z’on avoué lè z’autro quemet se \nsant frâre et chèra."
+  },
+  {
+    "name": "Occitan (Languedocien)",
+    "sample_text": "Totes los èssers umans \nnaisson liures e egals en dignitat e en dreches. Son dotats de rason e \nde consciéncia e se devon comportar los unes amb los autres dins un \nesperit de fraternitat."
+  },
+  {
+    "name": "Ojibwa, Northwestern",
+    "sample_text": "ᑭᑲᓇᐌᓀᓐ ᑲᐱᒪᑎᓯᐗᑦ ᓂᑕᐎᑭᐗᒃ ᑎᐯᓂᒥᑎᓱᐎᓂᒃ ᒥᓇ ᑕᐱᑕ ᑭᒋᐃᓀᑕᑯᓯᐎᓐ ᑲᔦ ᑌᐸᑫᑕᑯᓯᐎᓐ. ᐅᑕᔦᓇᐗ ᒥᑲᐎᐎᓐ ᑲᔦ ᓂᑄᑲᐎᓐ ᒥᓇᐗ ᑕᔥ ᒋᐃᔑᑲᓇᐗᐸᑎᐗᐸᓐ ᐊᒐᑯ ᒥᓄᐎᒋᐎᑎᐎᓂᒃ."
+  },
+  {
+    "name": "Okiek",
+    "sample_text": "Piik togol kosigotiik en\n katiagetapkei koguyet ak imandanyuwan koyuyosin togol kogigigochi \nngomnotet ak koperuret en iyon konyolu koyochigei oteptop tupchondit."
+  },
+  {
+    "name": "Orok",
+    "sample_text": "Чипа̄ли гурунне̄ балӡичи гэвумэ, омотто мэ̄нэ мөрөнӡи, мэ̄нэ доронӡи. Но̄чи идэлу, иркалу, мэ̄нэ мэ̄нӡи на̄дактаӈачи бјӣчи."
+  },
+  {
+    "name": "Oromo, Borana-Arsi-Guji",
+    "sample_text": "Namooti hundinuu birmaduu \nta'anii mirgaa fi ulfinaanis wal-qixxee ta'anii dhalatan. Sammuu fi \nqalbii ittiin yaadan waan uumamaan kennameef, hafuura obbolummaatiin \nwalii-wajjin jiraachuu qabu."
+  },
+  {
+    "name": "Oroqen",
+    "sample_text": "Beyel bambur zhiyu \nbishi, zhunyan-du bineken chuanli-du bambur pingdeng bishi. Nugartin \nlishing bineken liangshin bishi, akin nekun guanshi-ngi chingshen-du-in \nduidai-meet-ki-tin."
+  },
+  {
+    "name": "Osetin",
+    "sample_text": "Адӕймӕгтӕ се 'ппӕт дӕр \nрайгуырынц сӕрибарӕй ӕмӕ ӕмхуызонӕй сӕ барты. Уыдон ӕххӕст сты зонд ӕмӕ \nнамысӕй, ӕмӕ кӕрӕдзийӕн хъуамӕ уой ӕфсымӕрты хуызӕн."
+  },
+  {
+    "name": "Otomi, Mezquital",
+    "sample_text": "Gotho nu kja'ni i mu̱i \nra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i \nra zoo koyu gotho yu kja'ni i yo kuadi."
+  },
+  {
+    "name": "Otuho",
+    "sample_text": "lsiuni aati dang iko ahodc hade ihaniere erre boo ve isi orrijori dang to\nnelotulo. Owoni isi iko negigilita bwo ve iko ataja. Ongida isi ihanie\nawatek hosi ihwo elarak."
+  },
+  {
+    "name": "Páez",
+    "sample_text": "Ya'nwe'wewa'te' maa \nnasapa ha'dacehk hi'pku up'hi', wëtte u'huwa'hi'pta', eena' eena' \nf'i'zewa' hi'pta', üus hi'pta' d'ik'the hi'pta' naapa'kate. Sa' h'ukaysa\n üus hi'pcehktha'w sa' pyakhna'we f'i'ze hi'ptha'w."
+  },
+  {
+    "name": "Palauan",
+    "sample_text": "A rogui 'l chad el \nmechell a ngarngii a ilmokl er tir ra diosisiu el llemalt. Ngarngii er \ntir a uldesuir mete mo meruul el mo rar bebil lokiu a ungil 'l omeruul \nra klauchad."
+  },
+  {
+    "name": "Pampangan",
+    "sample_text": "Ding sablang tau mibait \nlang malaya at pante-pante king karangalan at karapatan. Ila \nmipagkaluban lang katuliran at konsensiya ay dapat misaupan king diwang \npamikapatiran."
+  },
+  {
+    "name": "Panjabi, Eastern",
+    "sample_text": "ਸਾਰਾ ਮਨੁੱਖੀ ਪਰਿਵਾਰ ਆਪਣੀ \nਮਹਿਮਾ, ਸ਼ਾਨ ਅਤੇ ਹੱਕਾਂ ਦੇ ਪੱਖੋਂ ਜਨਮ ਤੋਂ ਹੀ ਆਜ਼ਾਦ ਹੈ ਅਤੇ ਸੁਤੇ ਸਿੱਧ ਸਾਰੇ ਲੋਕ \nਬਰਾਬਰ ਹਨ । ਉਨ੍ਹਾਂ ਸਭਨਾ ਨੂੰ ਤਰਕ ਅਤੇ ਜ਼ਮੀਰ ਦੀ ਸੌਗਾਤ ਮਿਲੀ ਹੋਈ ਹੈ ਅਤੇ ਉਨ੍ਹਾਂ \nਨੂੰ ਭਰਾਤਰੀਭਾਵ ਦੀ ਭਾਵਨਾ ਰਖਦਿਆਂ ਆਪਸ ਵਿਚ ਵਿਚਰਣਾ ਚਾਹੀਦਾ ਹੈ ।"
+  },
+  {
+    "name": "Panjabi, Western",
+    "sample_text": "سارے انسان آزاد تے حقوق \nتے عزت دے لحاظ نال برابر پیدا ہوندے نیں ۔ ۔ اوہ عقل سمجھ تے چنگے مندے دی\n پچھان تے احساس رکھدے نے ایس واسطے اوہناں نوں اک دوجے نال بھائی چارے \nوالا سلوک کرنا چاہی دا اے ۔ ۔"
+  },
+  {
+    "name": "Papiamentu",
+    "sample_text": "Tur ser humano ta nace \nliber y igual den dignidad y den derecho. Nan ta dota cu rason y cu \nconsenshi y nan mester comporta nan den spirito di fraternidad pa cu \notro."
+  },
+  {
+    "name": "Pashto, Northern",
+    "sample_text": "د بشر ټول افراد ازاد نړۍ \nته راځي او د حيثيت او د حقوقو له پلوه سره برابر دي۔ ټول د عقل او وجدان \nخاوندان دي او بايد يو له بل سره د ورورۍ په روحيه سره چلنند کړي۔"
+  },
+  {
+    "name": "Picard",
+    "sample_text": "Tos lès-omes vinèt å \nmonde lîbes èt égåls po çou qu'èst d' leû dignité èt d' leûs dreûts. Leû\n re̊zon èt leû consyince elzî fe̊t on d'vwér di s'kidûre inte di zèle \ncome dès frès"
+  },
+  {
+    "name": "Pidgin, Nigerian",
+    "sample_text": "Everi human being, naim \ndem born free and dem de equal for dignity and di rights wey we get, as \nhuman beings, God come give us beta sense wey we de take tink well, well\n and beta mind, sake for dis, we must to treat each other like broda and\n sister."
+  },
+  {
+    "name": "Pijin",
+    "sample_text": "Evri man en mere olketa \nborn frii en ikwol lo digniti en raits blo olketa. Olketa evriwan olketa\n garem maeni fo tingting en olketa sapos fo treatim isada wittim spirit \nblo bradahood."
+  },
+  {
+    "name": "Pintupi-Luritja",
+    "sample_text": "Nganana maru tjuta, \ntjulkura tjuta, manta yurungka parrari nyinapayi tjutanya liipulala \nnyinanyi, nganana yanangu maru tjuta wiya kuyakuya. Yuwankarrangkuya \npalya nintingku kulini. Tjanaya palya kutjupa tjutaku tjukarurru \nnyinanytjaku, walytja tjuta nguwanpa, mingarrtjuwiya. Tjungungku \npalyangku kurrunpa kutjungku.Wangka ngaangku nganananya tjakultjunanyi \nrapa ngaranytjaku kutjupa tjuta nguwanpa."
+  },
+  {
+    "name": "Pipil",
+    "sample_text": "Muchi ne tay gen tu weyga nestiwit tamagixti genga tik ekneliat wan ipal wan gichiwtiwit ipal ma munegigan ne se pal ne se."
+  },
+  {
+    "name": "Pohnpeian",
+    "sample_text": "Tohn sampa karos ipwiwei\n nan saledek oh duwepenehte nan arail wasa oh arail pwung. Arail marain \noh pehm ih utakerail kahrehda korusie konehng sawaspene nin duwen pirien\n ehu."
+  },
+  {
+    "name": "Polish",
+    "sample_text": "Wszyscy ludzie rodzą się \nwolni i równi pod względem swej godności i swych praw. Są oni obdarzeni \nrozumem i sumieniem i powinni postępować wobec innych w duchu \nbraterstwa."
+  },
+  {
+    "name": "Portuguese (Brazil)",
+    "sample_text": "Todos os seres \nhumanos nascem livres e iguais em dignidade e direitos. São dotados de \nrazão e consciência e devem agir em relação uns aos outros com espírito \nde fraternidade."
+  },
+  {
+    "name": "Portuguese (Portugal)",
+    "sample_text": "Todos os seres \nhumanos nascem livres e iguais em dignidade e em direitos. Dotados de \nrazão e de consciência, devem agir uns para com os outros em espírito de\n fraternidade."
+  },
+  {
+    "name": "Pular",
+    "sample_text": "NEDDHANKE EN FOW \nDYIBINTE NO HETTII NO FOTA E DHI FOW, E NDIMU E HANDANDHI. BHE \nDYIBINDINTE E HAGGHIL E FAAMU ; HIBHE HAANI DYOGONDIRDE E NDER HAGGHIL \nNEENEGOOTAANKAAKU."
+  },
+  {
+    "name": "Pular (Adlam)",
+    "sample_text": "𞤋𞤲𞥆𞤢𞤥𞤢 \n𞤢𞥄𞤣𞤫𞥅𞤶𞤭 𞤬𞤮𞤬 𞤨𞤮𞤼𞤭، 𞤲'𞤣𞤭𞤥𞤯𞤭𞤣𞤭 𞤫 \n𞤶𞤭𞤦𞤭𞤲𞤢𞤲𞥆𞤣𞤫 𞤼𞤮 𞤦𞤢𞤲𞥆𞤺𞤫 𞤸𞤢𞤳𞥆𞤫𞥅𞤶𞤭. 𞤉𞤩𞤫 \n𞤲'𞤺𞤮𞥅𞤣𞤭 𞤥𞤭𞥅𞤶𞤮 𞤫 𞤸𞤢𞤳𞥆𞤭𞤤𞤢𞤲𞤼𞤢𞥄𞤺𞤢𞤤 𞤫𞤼𞤫 𞤫𞤩𞤫 \n𞤨𞤮𞤼𞤭 𞤸𞤵𞥅𞤬𞤮 𞤲'𞤣𞤭𞤪𞤣𞤫 𞤫 𞤲'𞤣𞤫𞤪 𞤩 \n𞤭𞤴𞤲𞤺𞤵𞤴𞤵𞤥𞥆𞤢𞥄𞤺𞤵."
+  },
+  {
+    "name": "Purepecha",
+    "sample_text": "Iamendu k'uiripuecha \njanguarhiparini ka majku jarhati ka jurhimbekuecha jingoni \nkueraaŋasondikso ka, juajtakuarhisïndiksï ambakiti eratsekua ka \nkaxumbikua, jatsistiksï eskaksï sesi arhijperaaka."
+  },
+  {
+    "name": "Q'eqchi'",
+    "sample_text": "Chijunil li poyanam \njuntaq'eet wankil xloq'al naq nake'yo'la, ut kama' ak reheb' naq wan \nxna'leb'eb ut nake'reek'a rib', tento naq te'xk'am rib' sa' usilal \nchirib'ilrib'eb'."
+  },
+  {
+    "name": "Quechua, Ambo-Pasco",
+    "sample_text": "Lapan runa kay pachach'u\n yurin libri kawananpaq, lapanchinuy iwal respetasha kananpaqmi, mana \npipis jarupänanpaq, lapanpis iwal yarpach'akuy yach'aqmi, alita mana \nalita tantiyar kawananpaq. Chaynuy runa masinwan juknin jukninwan \nkuyanakur kapäkuchun"
+  },
+  {
+    "name": "Quechua, Arequipa-La Unión",
+    "sample_text": "Kanmi derechonchiskuna \nllapanchispa, nacesqanchismanta. Kantaqmi llapanchispa runa kayninchis. \nManan runa kanchu manay derechoyoq. Huk runaq derecho hukpawan kaqllan \nkan. Kanmi derechonchis llapanchispa allin kawsay libre tiyananchispaq. \nLlapan runaqpan kan yuyayninchis yachanapaq. Llapanchis kasun llapa runa\n masinchiskunawan munanakunapaq, huk ayllu hina."
+  },
+  {
+    "name": "Quechua, Ayacucho",
+    "sample_text": "Lliw runakunam \nnacesqanchikmantapacha libre kanchik, lliw derechonchikpipas \niguallataqmi kanchik. Yuyayniyoq kasqanchikraykum hawkalla aylluntin \nhina kawsayta debenchik llapa runakunawan."
+  },
+  {
+    "name": "Quechua, Cajamarca",
+    "sample_text": "Yumbay ollqokuna, \nwarmikuna pullalla kashun leyninchiqkunawan. Manam ni pipapis \nkriyadunchu kanchiqllapa. Suqninchiq, suqninchiq atinchiqllapa yuyayta \n\"imam alli, imam mana allichu\" nishpa. Chayshina kaptin, shumaqta \ntiyashunllapa suq ayllushinalla."
+  },
+  {
+    "name": "Quechua, Cusco",
+    "sample_text": "Llapa runan kay pachapi \npaqarin qispisqa, \"libre\" flisqa, allin kausaypi, chaninchasqa kausaypi \nkananpaq, yuyayniyoq, yachayniyoq runa kasqanman jina. Llapa \nrunamasinwantaqmi wauqentin jina munanakunan."
+  },
+  {
+    "name": "Quechua, Huamalíes-Dos de Mayo Huánuco",
+    "sample_text": "Lapan runakunapis \nyurikuyan librimi y wakinkaqkunanaw rispitashqa, mana jarukushqa \nkayänanpaq. Saynawmi runakunaqa yuriyan shumaq yarpayyuq, alitapis mana \nalitapis reqiykar y seqay kuyapäkuyyuq. Saymi runakuna ali kawakuyänan \njukninwan jukninwanpis."
+  },
+  {
+    "name": "Quechua, Huaylas Ancash",
+    "sample_text": "Meyqan nunapis manam \npipa sirweqnin nuna kananpaqtsu yurikushqa. I nuna karninmi meyqan \nnunapis juk láyatsu kayanman derëchunkunachowpis. I yarpachakiyta \nyacharninmi i allita mana allita shonqonkunachow mákurninmi nunakuna \njukninta wiyanakur kayanman."
+  },
+  {
+    "name": "Quechua, Margos-Yarowilca-Lauricocha",
+    "sample_text": "Lapantsikunapis Iibrimi \nyurishqantsi. Bälintsimi y derëchuntsikunapis wakinkaqkunanoqlapami. \nYarpaynintsikunapis kaykanmi runa mayintsikunawan juk wawqinoq kuyanakur\n kawapäkunantsipaq."
+  },
+  {
+    "name": "Quechua, Northern Conchucos Ancash",
+    "sample_text": "Mayqan runapis manam \npipa isklabun kananpaqtsu yurishqa. Y runa karninmi llapan runakuna iwal\n kayanman dirichunkunachawpis. Y yarpayta yacharninmi y allita mana \nallita shunqunkunachaw makurninmi runakuna huknin hukninta rispitanakur \nkayanman."
+  },
+  {
+    "name": "Quechua, North Junín",
+    "sample_text": "Lapan runas kay \npachachru nasimun juk rantisha runanuy mana pitas sirbinanpaqmi, alipa \nrikasha kananpaqmi, washasha kananpaqmi. Lapan runakunas nasipaakamun \nyarpayniyoqmi naatan tantiyayniyoqmi ima lutanta rurapaakurursi \ntantiyakunanpaq. Lapan runakunas kawapaakunaman juk wawqenuylam."
+  },
+  {
+    "name": "Quechua, South Bolivian",
+    "sample_text": "Tukuy kay pachaman \npaqarimujkuna libres nasekuntu tukuypunitaj kikin \nobligacionesniycjllataj, jinakamalla honorniyojtaj atiyniyojtaj, \nchantaqa razonwantaj concienciawantaj dotasqa kasqankurayku, kawsaqe \nmasipura jina, tukuy uj munakuyllapi kawsakunanku tian."
+  },
+  {
+    "name": "Quechua (Unified Quichua, old Hispanic orthography)",
+    "sample_text": "Tucuy runacuna \nquishpirihuán huiñán, pactacunahuampes, pay pura, umahuán, ayahuán chay \nshucuna shina, chaymantami shuclla shina causangacuna."
+  },
+  {
+    "name": "Quichua, Chimborazo Highland",
+    "sample_text": "Tukuy runakunami maypipash kishpirishka, sumaykaypi(dignidad) paktapakta\nwacharin. Chay wawakunaka sumak yuyaykuna, tiksiyuyay (fundamental),\nhuntami kan; chaymantami runapuraka shukllashina tukushpa, yanaparishpa\nkawsana kan."
+  },
+  {
+    "name": "Rarotongan",
+    "sample_text": "Kua anau rangatira ia te\n tangata katoatoa ma te aiteite i te au tikaanga e te tu ngateitei \ntiratiratu.  Kua ki ia ratou e te mero kimi ravenga e te \nakavangakau e kia akono tetai i tetai, i roto i te vaerua piri anga \ntaeake."
+  },
+  {
+    "name": "Romagnolo",
+    "sample_text": "Tot j essèri umèn i nàs \nlébri e cumpagn in dignità e dirét. Lou i è dutid ad rasoun e ad \ncuscinza e i à da operè, ognun ti cunfrunt at ch'j ilt, sa sentimint ad \nfratelènza."
+  },
+  {
+    "name": "Romani, Balkan",
+    "sample_text": "Savorre manuśa biandõn \nmeste thaj barabar k-o demnipen aj k-e hakaja. Si len godi aj somzanipen\n thaj si len te trąden pen jekh karing o aver and-o vogi e \nphralimnasqoro."
+  },
+  {
+    "name": "Romani, Balkan (1)",
+    "sample_text": "Sa e manušikane \nstrukture bijandžona tromane thaj jekhutne ko digniteti thaj čapipa. Von\n si baxtarde em barvale gndaja thaj godžaja thaj trubun jekh avereja te \nkherjakeren ko vodži pralipaja."
+  },
+  {
+    "name": "Romanian (1953)",
+    "sample_text": "Toate ființele umane se \nnasc libere și egale în demnitate și în drepturi. Ele sînt înzestrate cu\n rațiune și conștiință și trebuie să se comporte unele față de altele în\n spiritul fraternității."
+  },
+  {
+    "name": "Romanian (1993)",
+    "sample_text": "Toate ființele umane se \nnasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu\n rațiune și conștiință și trebuie să se comporte unele față de altele în\n spiritul fraternității."
+  },
+  {
+    "name": "Romanian (2006)",
+    "sample_text": "Toate ființele umane se \nnasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu\n rațiune și conștiință și trebuie să se comporte unele față de altele în\n spiritul fraternității."
+  },
+  {
+    "name": "Romansch",
+    "sample_text": "Tuots umans naschan libers\n ed eguals in dignità e drets. Els sun dotats cun intellet e conscienza e\n dessan agir tanter per in uin spiert da fraternità."
+  },
+  {
+    "name": "Romansch (Grischun)",
+    "sample_text": "Tut ils umans \nnaschan libers ed eguals en dignitad ed en dretgs. Els èn dotads cun \nraschun e conscienza e duain agir in vers l’auter en spiert da \nfraternitad."
+  },
+  {
+    "name": "Romansch (Puter)",
+    "sample_text": "Tuot ils \numauns naschan libers ed eguels in dignited ed in drets. Els sun dotos \ncun radschun e conscienza e dessan agir ün invers l’oter in spiert da \nfraternited."
+  },
+  {
+    "name": "Romansch (Surmiran)",
+    "sample_text": "Tot igls\n carstgangs neschan libers ed eguals an dignitad ed an dretgs. Els èn \ndotos cun raschung e schientscha e duessan ager l’egn vers l’oter an \nspiert da fraternitad."
+  },
+  {
+    "name": "Romansch (Sursilvan)",
+    "sample_text": "Tut ils \nhumans neschan libers ed eguals en dignitad ed en dretgs. Els ein dotai \ncun raschun e cunscienzia e duein agir in viers l’auter en spért da \nfraternitad."
+  },
+  {
+    "name": "Romansch (Sutsilvan)",
+    "sample_text": "Tut igls \nhumans neschan libers ad eguals an dignitad ad an dretgs. Els en dotos \ncun raschùn a cunzienzia a den agir egn anviers l’oter an spiert da \nfraternitad."
+  },
+  {
+    "name": "Romansch (Vallader)",
+    "sample_text": "Tuot ils\n umans naschan libers ed eguals in dignità ed in drets. Els sun dotats \ncun radschun e conscienza e dessan agir ün invers l’oter in ün spiert da\n fraternità."
+  },
+  {
+    "name": "Rundi",
+    "sample_text": "Abantu bose bavuka bishira\n bakizana kandi bangana mu gateka no mu ngingo zibubahiriza. Bafise \nubwenge n'umutima kandi bategerezwa kwubahana nk'abavandimwe."
+  },
+  {
+    "name": "Russian",
+    "sample_text": "Все люди рождаются \nсвободными и равными в своем достоинстве и правах. Они наделены разумом и\n совестью и должны поступать в отношении друг друга в духе братства."
+  },
+  {
+    "name": "Rwanda",
+    "sample_text": "Abantu bose bavuka aliko bakwiye agaciro no kwubahwa kimwe. Bose bavukana ubwenge n'umutima, bagomba kugilirana kivandimwe."
+  },
+  {
+    "name": "Saami, North",
+    "sample_text": "Buot olbmot leat riegádan \nfriddjan ja olmmošárvvu ja olmmošvuoigatvuođaid dáfus. Sii leat \njierbmalaš olbmot geain lea oamedovdu ja sii gálggaše leat dego \nvieljačagat."
+  },
+  {
+    "name": "Salar",
+    "sample_text": "Heme kishler hür der, haysiyet ma haklarde adil der, mantik ma vicdan var, kardeshlikden davraneshge."
+  },
+  {
+    "name": "Samoan",
+    "sample_text": "O tagata soifua uma ua \nsaoloto lo latou fananau mai, ma e tutusa o latou tulaga aloaia faapea a\n latou aia tatau. Ua faaeeina atu i a latou le mafaufau lelei ma le loto\n fuatiaifo ma e tatau ona faatino le agaga faauso i le va o le tasi i le\n isi,"
+  },
+  {
+    "name": "Sango",
+    "sample_text": "Adü âzo kûê yamba, ngâ âla\n lîngbi terê na lêgë tî nëngö-terê na tî ângangü. Ala kûê awara ndarä na\n börö-li sï âla lîngbi tî dutï na âmbâ tî âla gï na lêngö söngö."
+  },
+  {
+    "name": "Sanskrit",
+    "sample_text": "सर्वे मानवाः स्वतन्त्राः \nसमुत्पन्नाः वर्तन्ते अपि च, गौरवदृशा अधिकारदृशा च समानाः एव वर्तन्ते। \nएते सर्वे चेतना-तर्क-शक्तिभ्यां सुसम्पन्नाः सन्ति। अपि च, सर्वेऽपि \nबन्धुत्व-भावनया परस्परं व्यवहरन्तु।"
+  },
+  {
+    "name": "Sanskrit (Grantha)",
+    "sample_text": "𑌸𑌰𑍍𑌵𑍇 \n𑌮𑌾𑌨𑌵𑌾𑌃 𑌸𑍍𑌵𑌤𑌨𑍍𑌤𑍍𑌰𑌾𑌃 𑌸𑌮𑍁𑌤𑍍𑌪𑌨𑍍𑌨𑌾𑌃 \n𑌵𑌰𑍍𑌤𑌨𑍍𑌤𑍇 𑌅𑌪𑌿 𑌚, 𑌗𑍌𑌰𑌵𑌦𑍃𑌶𑌾 𑌅𑌧𑌿𑌕𑌾𑌰𑌦𑍃𑌶𑌾 𑌚 \n𑌸𑌮𑌾𑌨𑌾𑌃 𑌏𑌵 𑌵𑌰𑍍𑌤𑌨𑍍𑌤𑍇। 𑌏𑌤𑍇 𑌸𑌰𑍍𑌵𑍇 \n𑌚𑍇𑌤𑌨𑌾-𑌤𑌰𑍍𑌕-𑌶𑌕𑍍𑌤𑌿𑌭𑍍𑌯𑌾𑌂 𑌸𑍁𑌸𑌮𑍍𑌪𑌨𑍍𑌨𑌾𑌃 \n𑌸𑌨𑍍𑌤𑌿। 𑌅𑌪𑌿 𑌚, 𑌸𑌰𑍍𑌵𑍇𑌽𑌪𑌿 𑌬𑌨𑍍𑌧𑍁𑌤𑍍𑌵-𑌭𑌾𑌵𑌨𑌯𑌾 \n𑌪𑌰𑌸𑍍𑌪𑌰𑌂 𑌵𑍍𑌯𑌵𑌹𑌰𑌨𑍍𑌤𑍁।"
+  },
+  {
+    "name": "Sãotomense",
+    "sample_text": "Tudu nguê di mundu ca \nnancê livli e igual ni dignidade e ni dirêtu. Punda nen ca pensá e nen \ntê cunxensa, selá nen fé tudu cuá cu tençón de lumón."
+  },
+  {
+    "name": "Sardinian, Logudorese",
+    "sample_text": "Totu sos èsseres umanos \nnaschint lìberos e eguales in dinnidade e in deretos. Issos tenent sa \nresone e sa cussèntzia e depent operare s'unu cun s'àteru cun ispìritu \nde fraternidade."
+  },
+  {
+    "name": "Saxon, Low",
+    "sample_text": "All de Minschen sünd frie un gliek an Wüürd un Rechten baren. Se hebbt Vernunft un een Geweten un se schüllt sik Bröder sien."
+  },
+  {
+    "name": "Scots",
+    "sample_text": "Aw human sowels is born \nfree and equal in dignity and richts. They are tochered wi mense and \nconscience and shuld guide theirsels ane til ither in a speirit o \nbritherheid."
+  },
+  {
+    "name": "Secoya",
+    "sample_text": "Si'apai aide'oyë kua'ye \npeoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje \nkuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje."
+  },
+  {
+    "name": "Seraiki",
+    "sample_text": "سارے انسان ازادا تے حقوق\n تے عزت دے اعتبار نال ہکو ڄئے پیدا تھیندن ۔ قدرت ولوں انہاں کوں عقل تے \nسمجھ عطا تھیندی اے ۔ ہیں کیتے ہک ڋوجھے نال بھرپی داسلوک کرڻا چاہی دا اے ۔"
+  },
+  {
+    "name": "Serbian (Cyrillic)",
+    "sample_text": "Сва људска бића \nрађају се слободна и једнака у достојанству и правима. Она су обдарена \nразумом и свешћу и треба једни према другима да поступају у духу \nбратства."
+  },
+  {
+    "name": "Serbian (Latin)",
+    "sample_text": "Sva ljudska bića\n rađaju se slobodna i jednaka u dostojanstvu i pravima. Ona su obdarena \nrazumom i svešću i treba jedni prema drugima da postupaju u duhu \nbratstva."
+  },
+  {
+    "name": "Serer-Sine",
+    "sample_text": "Wiin we naa ñoowaa na \nadna, den fop mbodu no ke war na oxnu refna na den a jega o ngalaat umpi\n yiif um, le mbarin o meƭtootaa baa mbaag o ñoow den fop no fog."
+  },
+  {
+    "name": "Seselwa Creole French",
+    "sample_text": "Nou tou imen nou’n ne \ndan laliberte ek legalite, dan nou dignite ek nou bann drwa. Nou tou nou\n annan kapasite pou rezonnen, e fodre nou azir anver lezot avek en \nlespri fraternel."
+  },
+  {
+    "name": "Shan",
+    "sample_text": "ၵူၼ်းၵူႊၵေႃႉၼႆႉ \nပဵၼ်ဢၼ်ၵိူတ်ႇမႃးလူၺ်ႈၵုင်ႇမုၼ်ဢၼ်လွတ်ႈလႅဝ်းၽဵင်ႇပဵင်းၵၼ် လႄႈ သုၼ်ႇလႆႈဢၼ်\n လွတ်ႈလႅဝ်းၽဵင်ႇ ပဵင်းၵၼ်။ ၶဝ်ၼႆႉ မီးၺၢၼ်ႇဢၼ်မေႃထတ်းသၢင် လႄႈ \nၸႂ်ဢၼ်ႁူႉၸၵ်းၾိင်ႈတိုဝ်းၵမ် ၼၼ်ႉလႄႈ ထုၵ်ႇဝႆႉၸႂ်ပီႈဢွၵ်ႇ ၼွင်ႉၶႆႇၵၼ်သေ \nတိတ်းတေႃႇၵၼ်။"
+  },
+  {
+    "name": "Sharanahua",
+    "sample_text": "Nantifin naanno rasisin \ncainnifoquin. Tsoan mato iscahuatiroma cuscan, -Manfin uhuunnacoinquin. \nAhuua tsacatama rarama shara ninonfo ishon. Nantififain aton mapo \nshinantirofoquin. Ato nomuranrin chaca iyamarain sharamainqui icashon. \nAscanrifiantan nantifin manifoti yorahuan tanannon icashu."
+  },
+  {
+    "name": "Shilluk",
+    "sample_text": "Dhanhø bëne ba anywølø e\n path ki bäng, ge pär ki yij bëëdø geki dyërø. gïn-a dwaddi kiper gen yï\n gen da rumi ki bëëdø mø göög gen ki pyëw akyel ga nyimëgg."
+  },
+  {
+    "name": "Shipibo-Conibo",
+    "sample_text": "Jatíbi joninra huetsa \njonibaon yoiai nincáresti iqui, jahueraquibi jaconmai iamaquin; jainoash\n jahuen queena jacon jahuéquibo ati jahuequescamabi iqui, tsonbira \namayamatima iqui. Jaticashbira jascara aresti jacon shinanya iti \njahuequescamabi iqui, jahuequescarainoash picota joni inonbi. Huestiora \nhuestiorabora jahuéqui ati shinanya iqui; jainshon onanribique \njahueratoqui jacon iqui jainoash jaconma iqui ishon. Ja copira huetsa \njonibires inonbi non jato jaconharesti iqui, non huetsabi non acai \nquescaaquin."
+  },
+  {
+    "name": "Shona",
+    "sample_text": "Vanhu vese vanoberekwa \nvakasununguka uyewo vakaenzana pahunhu nekodzero dzavo. Vanhu vese \nvanechipo chokufunga nekuziva chakaipa nechakanaka saka vanofanira \nkubatana nomweya wohusahwira."
+  },
+  {
+    "name": "Shor",
+    "sample_text": "Парчын кижи, по чарыққа \nтуғчадып, тең, пош туғча. Кижилер сағыштығ, ақтығ туғчалар, кижилерге \nпашқа кижилербе арғыштаныштарға керек."
+  },
+  {
+    "name": "Shuar",
+    "sample_text": "Aents yajá nunkanam \nakínia asamtaish, metekrak ainiaji. Tumasha ni chichamenka tuke amiktin \naíniawai. Ni iniakmamuri, ní chichamejaituke aniakmamsar chichakartin \naíniawai. Tuma asamtai aents mash nekawar, penker metekrak, nuamtak wará\n warat shiir pujusarmi tusar aárma awai."
+  },
+  {
+    "name": "Sidamo",
+    "sample_text": "Manchi beetti \nkalaqamunni wolaphinoho. Ayirrinyunninna qoossotennino taaloho. \nHuwatanno tiiano kalaqamunni ba’raarinoha ikkasinni mittu wolu ledo \nrodiimmate ayyaaninni hee’ra noosi."
+  },
+  {
+    "name": "Sinhala",
+    "sample_text": "සියලු මනුෂ්‍යයෝ නිදහස්ව \nඋපත ලබා ඇත. ගරුත්වයෙන් හා අයිතිවාසිකම්වලින් සමාන වෙති. යුක්ති අයුක්ති \nපිළිබඳ හැඟීමෙන් හා හෘදය සාක්ෂියෙන් යුත් ඔවුන්, ඔවුනොවුන්ට සැළකිය යුත්තේ \nසහෝදරත්වය පිළිබඳ හැඟීමෙනි."
+  },
+  {
+    "name": "Siona",
+    "sample_text": "Sia'bai̱ aideo'yë goa'ye beoye gu̱i'ne sia'yë'quë maca\nbai'ye gu̱i'ne quëco baye co̱ni, ja̱je̱ goachase'sëte goa'ju̱i'ñe beoye ñese saiye\nbai'ji co̱caijë yequë bai̱reje."
+  },
+  {
+    "name": "Slovak",
+    "sample_text": "Všetci ľudia sa rodia \nslobodní a sebe rovní , čo sa týka ich dostojnosti a práv. Sú obdarení \nrozumom a majú navzájom jednať v bratskom duchu."
+  },
+  {
+    "name": "Slovenian",
+    "sample_text": "Vsi ljudje se rodijo \nsvobodni in imajo enako dostojanstvo in enake pravice. Obdarjeni so z \nrazumom in vestjo in bi morali ravnati drug z drugim kakor bratje."
+  },
+  {
+    "name": "Somali",
+    "sample_text": "Aadanaha dhammaantiis \nwuxuu dhashaa isagoo xor ah kana siman xagga sharafta iyo xuquuqada \nWaxaa Alle (Ilaah) siiyay aqoon iyo wacyi, waana in qof la arkaa qofka \nkale ula dhaqmaa si walaaltinimo ah."
+  },
+  {
+    "name": "Soninke",
+    "sample_text": "Haadama renme su \nsaareyen ŋa an na du-kitten ña, an nta sere komaaxu, an do soron su yan \nyekka dorontaaxu do taqu. Haqilen, wa sere su, a do soro kuttu nan siri \nterene doome kappalengaaxu kanma."
+  },
+  {
+    "name": "Sorbian, Upper",
+    "sample_text": "Wšitcy čłowjekojo su wot\n naroda swobodni a su jenacy po dostojnosći a prawach. Woni su z rozumom\n a swědomjom wobdarjeni a maja mjezsobu w duchu bratrowstwa wobchadźeć."
+  },
+  {
+    "name": "Sotho, Northern",
+    "sample_text": "Batho ka moka ba belegwe\n ba lokologile le gona ba na le seriti sa go lekana le ditokelo. Ba \nfilwe monagano le letswalo mme ba swanetše go swarana ka moya wa bana ba\n mpa."
+  },
+  {
+    "name": "Sotho, Southern",
+    "sample_text": "Batho bohle ba tswetswe ba\n lokolohile mme ba lekana ka botho le ditokelo. Ba tswetswe le monahano \nle letswalo mme ba tlamehile ho phedisana le ba bang ka moya wa boena."
+  },
+  {
+    "name": "South Azerbaijani",
+    "sample_text": "Tüm insanlar hür \ndöğarlar, hak ve onur bakımından eşit döğarlar, onlar akıl ve \nvicdana sahiptirler ve birbirlerine karşı kardeşlik ruhu içinde \ndavranmalılar."
+  },
+  {
+    "name": "Spanish",
+    "sample_text": "Todos los seres humanos \nnacen libres e iguales en dignidad y derechos y, dotados como están de \nrazón y conciencia, deben comportarse fraternalmente los unos con los \notros."
+  },
+  {
+    "name": "Spanish (resolution)",
+    "sample_text": "Todos los seres humanos \nnacen libres e iguales en dignidad y derechos y, dotados como están de \nrazón y conciencia, deben comportarse fraternalmente los unos con los \notros."
+  },
+  {
+    "name": "Sukuma",
+    "sample_text": "Banhu bose bakabyalagwa \nna wiyabi na bakabizaga na makujo na sekge jabo jilenganilile. Banhu \nbose bakabizaga na masala na buhabuji; hukuyomba balidakilwa gubi na \nwitogwa gidi bana ba myaji umo."
+  },
+  {
+    "name": "Sunda",
+    "sample_text": "Sakumna jalma gubrag ka \nalam dunya teh sifatna merdika jeung boga martabat katut hak-hak anu \nsarua . Maranehna dibere akal jeung hate nurani, campur-gaul jeung \nsasamana aya dina sumanget duduluran."
+  },
+  {
+    "name": "Susu",
+    "sample_text": "Adamadie birin barixinɛ e\n lan yɛtɛralui kui, yɛtɛ kolonyi nun yɛtɛ suxu kima. Fondoe nun faxamui \nna e bɛ boresuxu kima bariboreya fanyi kui."
+  },
+  {
+    "name": "Swahili",
+    "sample_text": "Watu wote wamezaliwa huru, hadhi na haki zao ni sawa. Wote wamejaliwa akili na dhamiri, hivyo yapasa watendeane kindugu."
+  },
+  {
+    "name": "Swati",
+    "sample_text": "Bonkhe bantfu batalwa \nbakhululekile balingana ngalokufananako ngesitfunti nangemalungelo. \nBaphiwe ingcondvo nekucondza kanye nanembeza ngakoke bafanele batiphatse\n nekutsi baphatse nalabanye ngemoya webuzalwane."
+  },
+  {
+    "name": "Swedish",
+    "sample_text": "Alla människor äro födda \nfria och lika i värde och rättigheter. De äro utrustade med förnuft och \nsamvete och böra handla gentemot varandra i en anda av broderskap."
+  },
+  {
+    "name": "Tacana",
+    "sample_text": "Beju pamapa cristianu cuana d'ei ai papú yapuji, mesa cuara peje jenetia ecuinanani jenetia beju saida bataji tupu pai cama."
+  },
+  {
+    "name": "Tagalog",
+    "sample_text": "Ang lahat ng tao'y \nisinilang na malaya at pantay-pantay sa karangalan at mga karapatan. \nSila'y pinagkalooban ng katwiran at budhi at dapat magpalagayan ang \nisa't isa sa diwa ng pagkakapatiran."
+  },
+  {
+    "name": "Tagalog (Tagalog)",
+    "sample_text": "ᜀᜅ ᜎᜑᜆ᜔ ᜅ ᜆᜂᜌ᜔ \nᜁᜐᜒᜈᜒᜎᜅ ᜈ ᜋᜎᜌ ᜀᜆ᜔ ᜉᜈ᜔ᜆᜌ᜔ ᜉᜈ᜔ᜆᜌ᜔ ᜐ ᜃᜇᜅᜎᜈ᜔ ᜀᜆ᜔ ᜋ᜔ᜄ ᜃᜇᜓᜉᜆᜈ᜔᜶ ᜐᜒᜎᜌ᜔ \nᜉᜒᜈᜄ᜔ᜃᜎᜓᜊᜈ᜔ ᜅ ᜃᜆ᜔ᜏᜒᜇᜈ᜔ ᜀᜆ᜔ ᜊᜓᜇ᜔ᜑᜒ ᜀᜆ᜔ ᜇᜉᜆ᜔ ᜋᜄ᜔ᜉᜎᜄᜌᜈ᜔ ᜀᜅ ᜁᜐᜆ᜔ ᜁᜐ ᜐ ᜇᜒᜏ ᜅ \nᜉᜄ᜔ᜃᜃᜉᜆᜒᜇᜈ᜔᜶"
+  },
+  {
+    "name": "Tahitian",
+    "sample_text": "E fanauhia te tā'āto'ara'a\n o te ta'ata-tupu ma te ti'amā e te ti'amanara'a 'aifaito. Ua 'ī te \nmana'o pa'ari e i te manava e ma te 'a'au taea'e 'oia ta ratou ha'a i \nrotopū ia ratou iho, e ti'a ai;"
+  },
+  {
+    "name": "Tai Dam",
+    "sample_text": "ꪹꪕꪸꪉ ꪀꪱ ꪋꪴ ꫛ ꪎꪲꪉ ꪮꪮꪀ ꪣꪱ \nꪻꪠ ꪁꪷ ꪻꪬ ꪼꪒ ꪕꪳ ꪕꪱꪉ ꪀꪾꪚ ꪹꪋꪷꪉ ꪝꪸꪉ ꪕꪮꪥ ꪩꪾ ꫛ ꪶꪔꪙ ꪠꪴ - ꪋꪴ ꪬꪺ ꫛ ꪻꪠ ꪁꪷ ꪻꪬ ꪣꪲ \nꪁꪫꪸꪙ ꪎꪱꪉ ꪶꪎꪣ ꪩꪺꪉ ꪹꪥꪸꪒ ꫛ ꪀꪾꪚ ꪹꪥꪸꪒ ꪻꪊ ꪚꪴꪙ ꪀꪾꪚ ꪼꪒ ꪹꪚꪷꪉ ꪒꪲ ꪀꪾꪚ ꪫꪸꪀ ꪭꪰꪀ ꪵꪝꪉ \nꪹꪏꪉ ꪹꪭꪙ ꪒꪸꪫ."
+  },
+  {
+    "name": "Tajiki",
+    "sample_text": "Тамоми одамон озод ва аз \nлиҳози шарафу ҳуқуқ ба ҳам баробар ба дунё меоянд. Онҳо соҳиби ақлу \nвиҷдонанд ва бояд бо якдигар муносибати бародарона дошта бошанд."
+  },
+  {
+    "name": "Talysh",
+    "sample_text": "Həmmə insonon bəştə \nləyoğəti iyən həxonro ozod iyən bərobər movardə bedən. Çəvon şuur iyən \nvicdon hese, əve ki, deyəndı mınasibətədə bənə bıvə rəftor kardəninin."
+  },
+  {
+    "name": "Tamang, Eastern",
+    "sample_text": "म्होक्कोन (गोदोप) नोन \nम्हीम केपान्हापा हेन्छे नुन हाङपाङवा (स्वतन्त्र) याङवा हीन्ना । थे \nम्होक्कोनला (गोदोपला) च्योच्यो याङताम थेन महत्व मुला । थेनीकादेरी सेमबाङ\n (विचार शक्ति) देन थु-सेमसाङ मुबासे थेनीजुगुसे ह्राङन्हाङरी नुन थेत्माला\n सेमलेङमोग्याम्से (भवनाबाट) ग्ये लातोबान मुला ।"
+  },
+  {
+    "name": "Tamazight, Central Atlas",
+    "sample_text": "Imdanen, akken ma llan \nttlalen d ilelliyen msawan di lḥweṛma d yizerfan- ghur sen tamsakwit d\n lâquel u yessefk ad-tili tegmatt gar asen."
+  },
+  {
+    "name": "Tamazight, Central Atlas (Tifinagh)",
+    "sample_text": "ⵉⵎⴷⴰⵏⴻⵏ, ⴰⴽⴽⴻⵏ\n ⵎⴰ ⵍⵍⴰⵏ ⵜⵜⵍⴰⵍⴻⵏ ⴷ ⵉⵍⴻⵍⵍⵉⵢⴻⵏ ⵎⵙⴰⵡⴰⵏ ⴷⵉ ⵍⵃⵡⴻⵕⵎⴰ ⴷ ⵢⵉⵣⴻⵔⴼⴰⵏ-ⵖⵓⵔ ⵙⴻⵏ \nⵜⴰⵎⵙⴰⴽⵡⵉⵜ ⴷ ⵍⴰⵇⵓⴻⵍ ⵓ ⵢⴻⵙⵙⴻⴼⴽ ⴰⴷ-ⵜⵉⵍⵉ ⵜⴻⴳⵎⴰⵜⵜ ⴳⴰⵔ ⴰⵙⴻⵏ."
+  },
+  {
+    "name": "Tamazight, Standard Morocan",
+    "sample_text": "ⴰⵔ ⴷ ⵜⵜⵍⴰⵍⴰⵏ ⵎⵉⴷⴷⵏ ⴳⴰⵏ \nⵉⵍⴻⵍⵍⵉⵜⵏ ⵎⴳⴰⴷⴷⴰⵏ ⵖ ⵡⴰⴷⴷⵓⵔ ⴷ ⵉⵣⵔⴼⴰⵏ, ⵢⵉⵍⵉ ⴰⴽⵯ ⴷⴰⵔⵙⵏ ⵓⵏⵍⵍⵉ ⴷ ⵓⴼⵔⴰⴽ, ⵉⵍⵍⴰ \nⴼⵍⵍⴰ ⵙⵏ ⴰⴷ ⵜⵜⵎⵢⴰⵡⴰⵙⵏ ⵏⴳⵔⴰⵜⵙⵏ ⵙ ⵜⴰⴳⵎⴰⵜ."
+  },
+  {
+    "name": "Tamil",
+    "sample_text": "மனிதப் பிறிவியினர் சகலரும்\n சுதந்திரமாகவே பிறக்கின்றனர்; அவர்கள் மதிப்பிலும், உரிமைகளிலும் \nசமமானவர்கள், அவர்கள் நியாயத்தையும் மனச்சாட்சியையும் இயற்பண்பாகப் \nபெற்றவர்கள். அவர்கள் ஒருவருடனொருவர் சகோதர உணர்வுப் பாங்கில் \nநடந்துகொள்ளல் வேண்டும்."
+  },
+  {
+    "name": "Tamil (Sri Lanka)",
+    "sample_text": "மனிதப் பிறிவியினர் \nசகலரும் சுதந்திரமாகவே பிறக்கின்றனர்; அவர்கள் மதிப்பிலும், உரிமைகளிலும் \nசமமானவர்கள், அவர்கள் நியாயத்தையும் மனச்சாட்சியையும் இயற்பண்பாகப் \nபெற்றவர்கள். அவர்கள் ஒருவருடனொருவர் சகோதர உணர்வுப் பாங்கில் \nநடந்துகொள்ளல் வேண்டும்."
+  },
+  {
+    "name": "Tatar",
+    "sample_text": "Барлык кешеләр дә азат һәм\n үз абруйлары һәм хокуклары ягыннан тиң булып туалар. Аларга акыл һәм \nвөҗдан бирелгән һәм бер-берсенә карата туганарча [туганнарча] \nмөнәсәбәттә булырга тиешләр."
+  },
+  {
+    "name": "Telugu",
+    "sample_text": "ప్రతిపత్తిస్వత్వముల \nవిషయమున మానవులెల్లరును జన్మతః స్వతంత్రులును సమానులును నగుదురు. వారు \nవివేచన-అంతఃకరణ సంపన్నులగుటచే పరస్పరము భ్రాతృభావముతో వర్తింపవలయును."
+  },
+  {
+    "name": "Tem",
+    "sample_text": "Bánlʊrʊ́ʊ ɩrʊ́ báa weení\n na kezéńbíídi gɛ bɩka bɛdɛ́ɛ ɖɔɔzɩ́tɩ na yíkowá kɛgɛ́ɛ ɖéyí-ɖéyí gɛ. \nBɔwɛná laakárɩ na ɩrʊ́tɩ bɩka bɩɩbɔ́ɔ́zɩ bɔcɔɔná ɖamá koobíre cɔwʊrɛ."
+  },
+  {
+    "name": "Tetun",
+    "sample_text": "Ema hotu hotu moris \nhanesan ho dignidade ho direitu. Sira hotu iha hanoin, konsiensia n'e \nduni tenki hare malu hanesan espiritu maun-alin."
+  },
+  {
+    "name": "Tetun Dili",
+    "sample_text": "Ema tomak moris hanesan,\n ema tomak hanesan, iha direitu hanesan. Ema tomak iha otak ho neon, \nhotu-hotu sei buka moris hanesan maun ho alin."
+  },
+  {
+    "name": "Thai",
+    "sample_text": "มนุษย์ทั้งหลายเกิดมามี\nอิสระและเสมอภาคกันในเกียรติศักด[เกียรติศักดิ์]และสิทธิ \nต่างมีเหตุผลและมโนธรรม และควรปฏิบัติต่อกันด้วยเจตนารมณ์แห่งภราดรภาพ"
+  },
+  {
+    "name": "Thai (2)",
+    "sample_text": "มนุษย์ทั้งปวงเกิดมามีอิสระ\nและเสมอภาคกันในศักดิ์ศรีและสิทธิ ต่างในตนมีเหตุผลและมโนธรรม \nและควรปฏิบัติต่อกันด้วยจิตวิญญาณแห่งภราดรภาพ"
+  },
+  {
+    "name": "Themne",
+    "sample_text": "A kom aŋfəm akəpet bɛ ŋa\n athənʌnɛ yi rʌwankom. Ɔwa aŋ ba məmari məthənʌnɛ. Ɔwa aŋ ba məfith yi \ntəchemp. Chiyaŋ, aŋ yi təkə gbasi aŋkos ŋaŋ mɔ kəpa ŋa təkom."
+  },
+  {
+    "name": "Tibetan, Central",
+    "sample_text": "འགྲོ་བ་མིའི་རིགས་རྒྱུད་\nཡོངས་ལ་སྐྱེས་ཙམ་ཉིད་ནས་ཆེ་མཐོངས་དང༌། ཐོབ་ཐངགི་རང་དབང་འདྲ་མཉམ་དུ་ཡོད་ལ། \nཁོང་ཚོར་རང་བྱུང་གི་བློ་རྩལ་དང་བསམ་ཚུལ་བཟང་པོ་འདོན་པའི་འོས་བབས་ཀྱང་ཡོད། \nདེ་བཞིན་ཕན་ཚུན་གཅིག་གིས་གཅིག་ལ་བུ་སྤུན་གྱི་འདུ་ཤེས་འཛིན་པའི་བྱ་སྤྱོད་\nཀྱང་ལག་ལེན་བསྟར་དགོས་པ་ཡིན༎"
+  },
+  {
+    "name": "Ticuna",
+    "sample_text": "Ngẽxguma nabuxgu i \nduü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera \nixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã \nnamecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü."
+  },
+  {
+    "name": "Tigrigna",
+    "sample_text": "ብመንፅር ክብርን መሰልን ኩሎም ሰባት እንትውለዱ ነፃን ማዕሪን እዮም፡፡ ምስትውዓልን ሕልናን ዝተዓደሎም ብምዃኖም ንሕድሕዶም ብሕውነታዊ መንፈስ ክተሓላለዩ ኦለዎም፡፡"
+  },
+  {
+    "name": "Tiv",
+    "sample_text": "I mar maor ken kpan ga, \nnan ngu a icivir man mbamkpeiyol cii. I na nan mhen man ishima i kaven \nkwagh; nahan gba keng u nana tema a orgen ken mtem u angbian a angbian."
+  },
+  {
+    "name": "Toba",
+    "sample_text": "'Enauac na naaxat \nshiỹaxauapi na mayipi huesochiguii qataq 'eeta'a't da l'amaqchic qataq \nda 'enec qataq ỹataqta ỹaỹate'n naua lataxaco qataq nua no'o'n \nnvilỹaxaco, qaq ỹoqo'oyi iuen da i 'oonolec ỹataqta itauan ichoxoden ca \nlỹa"
+  },
+  {
+    "name": "Tojolabal",
+    "sample_text": "Spetsanal ja swinkil ja \nlu’um k’inali junxta wax jul schonjel, sok ja sijpanub’ali, ja yuj ojni \nb’ob’ sk’u’luk ja jas sk’ana-i ja b’as lekilali, ja yuj ja ay sk’ujoli \nsok ay spensari t’ilan oj yilsb’aje lek sok ja smoj jumasa."
+  },
+  {
+    "name": "Tok Pisin",
+    "sample_text": "Yumi olgeta mama karim \numi long stap fri na wankain long wei yumi lukim i gutpela na strepela \ntru. Uumi olgeta igat ting ting bilong wanem samting I rait na rong na \nmipela olgeta I mas mekim gutpela pasin long ol narapela long tingting \nbilong brata susa."
+  },
+  {
+    "name": "Tonga",
+    "sample_text": "Bantu boonse balazyalwa \nkabaangulukide alimwi kabeelene alimwi akwaanguluka kucita zyobayanda. \nBalazyalwa amaanu akuyeeya, aakusala alimwi beelede kulanga bambi mbuli \nbanabokwabo."
+  },
+  {
+    "name": "Tongan",
+    "sample_text": "Ko e kotoa ‘o ha’a tangata\n ‘oku fanau’i mai ‘oku tau’ataina pea tatau ‘i he ngeia mo e ngaahi \ntotonu. Na’e fakanaunau’i kinautolu ‘aki ‘a e ‘atamai mo e konisenisi \npea ‘oku totonu ke nau feohi ‘i he laumalie ‘o e nofo fakatautehina."
+  },
+  {
+    "name": "Totonac, Papantla",
+    "sample_text": "Wakg lakch'ixkuwin \ntalakgawan nak ka'unin niti ka'akgch'apawalinit nachuna wakg takg'alhi \nixtamaxanatkan chu tu kaminini, je'e wanp'utun xlakata wakg \ntalakpuwanan, talalakgk'atsan liwakg, talakask'ini xlakata wakg \nnatalamakgtaya."
+  },
+  {
+    "name": "Trinitario",
+    "sample_text": "Namutu ‘chañono \ntisopkoriono tiuchkono ene tkutkokono to natsï ‘ok ‘revono ene tkírono \nene, tkosono oypuka takoyemo to tjicha ene naemotgienena, najikpuigiapo \nnakchugikoko ma etona ene ma ‘pona."
+  },
+  {
+    "name": "Tsonga (Mozambique)",
+    "sample_text": "Vanhu hin'kwavu va \npsaliwili na va khululekìle, funthsi va fana hi lisima ni tinfaneno. Và \npsaliwili ni nyiko ya ku pimisa ni ku yehleketa; hi kolahu, va fanela ku\n hanya hi moya wa umbìlu ni unghani."
+  },
+  {
+    "name": "Tsonga (Zimbabwe)",
+    "sample_text": "Vanhu hinkwavo va tswariwa\n va tshunxekile naswona va ringanile eka tifanelo na xindzhuti. Va \nhavaxerile miehleketo na tshiriti kumbe ku tiva xo biha ni xta kahle \nnakambe va fanele va kombana moya wa vukwavo."
+  },
+  {
+    "name": "Tswana",
+    "sample_text": "Batho botlhe ba tsetswe ba\n gololosegile le go lekalekana ka seriti le ditshwanelo. Ba abetswe go \nakanya le maikutlo, mme ba tshwanetse go direlana ka mowa wa \nbokaulengwe."
+  },
+  {
+    "name": "Turkish",
+    "sample_text": "Bütün insanlar hür, \nhaysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler\n ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler."
+  },
+  {
+    "name": "Turkmen (Cyrillic)",
+    "sample_text": "Хемме адамлар өз\n мертебеси ве хукуклары боюнча дең ягдайда дүнйә инйәрлер. Олара аң хем \nвыҗдан берлендир ве олар бир‐бирлери билен доганлык рухундакы гарайышда \nболмалыдырлар."
+  },
+  {
+    "name": "Turkmen (Latin)",
+    "sample_text": "Adamlaryň \nhemmesi azat dogulýarlar we öz mertebesi hem‐de hukuklary boýunça \nilkibaşdan deňdirler. Olara ozal‐başdan aň, ynsap berlendir we \nbiri‐birine özara doganlyk ruhunda çemeleşmek olaryň ýaraşygydyr."
+  },
+  {
+    "name": "Tuva",
+    "sample_text": "Бүгү кижилер хостуг база\n мөзүзү болгаш эргелери дең кылдыр төрүттүнер. Оларга угаансарыыл болгаш\n арын-нүүр бердинген болур болгаш олар бот-боттарынга  акы-дуңмалышкы \nхамаарылганы  көргүзер ужурлуг."
+  },
+  {
+    "name": "Twi (Akuapem)",
+    "sample_text": "Wɔawo \nadesamma nyinaa sɛ nnipa a wɔwɔ ahofadi. Wɔn nyinaa wɔ nidi ne kyɛfa \nkoro. Wɔwɔ adwene ne ahonim, na ɛsɛ sɛ wobu wɔn ho wɔn ho sɛ anuanom."
+  },
+  {
+    "name": "Twi (Asante)",
+    "sample_text": "Nnipa nyinaa yɛ pɛ. Na wɔde adwene ne nyansa na abɔ obiara. Ɛno nti, ɛsɛ sɛ obiara dɔ ne yɔnko, bu ne yɔnko, di ne yɔnko ni."
+  },
+  {
+    "name": "Tzeltal, Oxchuc",
+    "sample_text": "Spisil winiketik te ya \nxbejk´ajik ta k´inalil ay jrerechotik, mayuk mach´a chukul ya xbejka, ya\n jnatik stojol te jpisiltik ay snopibal sok sbijil joltik, ja´ me k´ux \nya kaibatik ta jujun tul."
+  },
+  {
+    "name": "Tzotzil (Chamula)",
+    "sample_text": "Skotol vinik o ants ta \nspejel balumile k’olem x-hayan i ko’ol ta sch’ulal i sderechoetik i, \nskotol k’ux-elan oyike oy srasonik y slekilalik, sventa skuxijik leknóo \nta ju jun ju ju vo."
+  },
+  {
+    "name": "Uduk",
+    "sample_text": "Aris ’kwaniny’ceshi \n’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali\n mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii \nka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam \nmo."
+  },
+  {
+    "name": "Ukrainian",
+    "sample_text": "Всі люди народжуються \nвільними і рівними у своїй гідності та правах. Вони наділені розумом і \nсовістю і повинні діяти у відношенні один до одного в дусі братерства."
+  },
+  {
+    "name": "Umbundu",
+    "sample_text": "Omanu vosi vacitiwa \nvalipwa kwenda valisoka kovina vyosikwenda komoko. Ovo vakwete esunga \nkwenda, kwenda olondunge kwenje ovo vatêla okuliteywila kuvamwe kwenda \nvakwavo vesokolwilo lyocisola."
+  },
+  {
+    "name": "Umbundu (011)",
+    "sample_text": "Omanu vosi kilu lieve va\n citiwa lonjila yimosi leyovo limosi, lomoko yimosi kuenda unu umosi, \nkuenje momo vosi va kuete olondunge, va sesamela okulisumbila pokati \nndavamanji."
+  },
+  {
+    "name": "Urarina",
+    "sample_text": "Ita rijiicha itolere cacha. Aihana jaun, ita belaain, naojoain neuruhine laurilaurichuru nenacaauru aina itolere cachaauru."
+  },
+  {
+    "name": "Urdu",
+    "sample_text": "تمام انسان آزاد اور حقوق و\n عزت کے اعتبار سے برابر پیدا ہوئے ہیں۔ انہیں ضمیر اور عقل ودیعت ہوئی ہے۔\n اس لئے انہیں ایک دوسرے کے ساتھ بھائی چارے کا سلوک کرنا چاہیئے۔"
+  },
+  {
+    "name": "Urdu (2)",
+    "sample_text": "تمام انسان آزاد اور حقوق و\n عزت کے اعتبار سے برابر پیدا ہوئے ہیں۔ انہیں ضمیر اور عقل ودیعت ہوئی ہے۔\n اس لیے انہیں ایک دوسرے کے ساتھ بھائی چارے کا سلوک کرنا چاہیے۔"
+  },
+  {
+    "name": "Uyghur (Arabic)",
+    "sample_text": "ھەممە ئادەم \nزانىدىنلا ئەركىن، ئىززەت-ھۆرمەت ۋە ھوقۇقتا باپباراۋەر بولۇپ تۇغۇلغان. \nئۇلار ئەقىلغە ۋە ۋىجدانغا ئىگە ھەمدە بىر-بىرىگە قېرىنداشلىق مۇناسىۋىتىگە\n خاس روھ بىلەن موئامىلە قىلىشى كېرەك."
+  },
+  {
+    "name": "Uyghur (Latin)",
+    "sample_text": "hemme adem \nzatidinla erkin, izzet-hörmet we hoquqta babbarawer bolup tughulghan. \nular eqilghe we wijdan'gha ige hemde bir-birige qérindashliq \nmunasiwitige xas roh bilen muamile qilishi kérek."
+  },
+  {
+    "name": "Uzbek, Northern (Cyrillic)",
+    "sample_text": "Барча одамлар \nэркин, қадр‐қиммат ва ҳуқуқларда тенг бўлиб туғиладилар. Улар ақл ва \nвиждон соҳибидирлар ва бир‐бирларига биродарларча муомала қилишлари \nзарур."
+  },
+  {
+    "name": "Uzbek, Northern (Latin)",
+    "sample_text": "Barcha odamlar \nerkin, qadr‐qimmat va huquqlarda teng boʻlib tugʻiladilar. Ular aql va \nvijdon sohibidirlar va bir‐birlariga birodarlarcha muomala qilishlari \nzarur."
+  },
+  {
+    "name": "Vai",
+    "sample_text": "ꕉꕜꕮ ꔔꘋ ꖸ ꔰ ꗋꘋ ꕮꕨ ꔔꘋ ꖸ ꕎ \nꕉꖸꕊ ꕴꖃ ꕃꔤꘂ ꗱ, ꕉꖷ ꗪꗡ ꔻꔤ ꗏꗒꗡ ꕎ ꗪ ꕉꖸꕊ ꖏꕎ. ꕉꕡ ꖏ ꗳꕮꕊ ꗏ ꕪ ꗓ ꕉꖷ ꕉꖸ ꕘꕞ ꗪ. ꖏꖷ ꕉꖸꔧ\n ꖏ ꖸ ꕚꕌꘂ ꗷꔤ ꕞ ꘃꖷ ꘉꔧ ꗠꖻ ꕞ ꖴꘋ ꔳꕩ ꕉꖸ ꗳ."
+  },
+  {
+    "name": "Venda",
+    "sample_text": "Vhathu vhoṱhe vha bebwa \nvhe na mbofholowo nahone vha tshi lingana siani ḽa tshirunzi na pfanelo.\n Vhathu vhoṱhe vho ṋewa mihumbulo na mvalo ngauralo vha tea u konou \nfarana sa vhathu vhathihi."
+  },
+  {
+    "name": "Venda",
+    "sample_text": "Vhathu vhoṱhe vha bebwa \nvhe na mbofholowo nahone vha tshi lingana siani ḽa tshirunzi na pfanelo.\n Vhathu vhoṱhe vho ṋewa mihumbulo na mvalo ngauralo vha tea u konou \nfarana sa vhathu vhathihi."
+  },
+  {
+    "name": "Venetian",
+    "sample_text": "Tuti i èsari umani i \nnase łìbari e conpanji par dinjità e deriti. I ze dotài de rajon e de \ncosiensa e i ga da conportarse intrà de łori co spìrito de fradełi."
+  },
+  {
+    "name": "Veps",
+    "sample_text": "Kaik mehed sünduba \njoudajin i kohtaižin, ühtejiččin ičeze arvokahudes i oiktusiš. Heile om\n anttud mel’ i huiktusentund i heile tariž kožuda toine toiženke kut \nvel’l’kundad."
+  },
+  {
+    "name": "Vietnamese",
+    "sample_text": "Tất cả mọi người sinh \nra đều được tự do và bình đẳng về nhân phẩm và quyền. Mọi con\n người đều được tạo hoá ban cho lý trí và lương tâm và cần \nphải đối xử với nhau trong tình bằng hữu."
+  },
+  {
+    "name": "Vietnamese (Han nom)",
+    "sample_text": "畢哿每𠊛生𠚢調得自由吧平等𧗱人品吧權。每𡥵𠊛調得造化頒朱理智吧良心吧勤沛對處𢭲膮𥪝情朋友。"
+  },
+  {
+    "name": "Waama",
+    "sample_text": "Yiriba na bà sikindo dare bà mɛɛri, da seena yirimma mii bà ta da i nɛki bà tɔɔba."
+  },
+  {
+    "name": "Walloon",
+    "sample_text": "Tos lès-omes vinèt-st-å \nmonde lîbes, èt so-l'minme pîd po çou qu'ènn'èst d'leu dignité èt d'leus\n dreûts. I n'sont nin foû rêzon èt-z-ont-i leû consyince po zèls, çou \nqu'èlzès deût miner a s'kidûre onk' po l'ôte tot come dès frés."
+  },
+  {
+    "name": "Waorani",
+    "sample_text": "Tomamo waomo ekame wee anamay inani tomemo kewengi beye tomamo\nneemompa noynga impa aye anobay impa wadani inanite wakeki beye\nangampa."
+  },
+  {
+    "name": "Waray-Waray",
+    "sample_text": "Nga an ngatanan nga mga \ntawo, nahimugso talwas ug katpong ha ira dignidad ug katdungan. Hira \nnatawo dinhi ha tuna mayda konsensya ug isip ug kaangayan gud la nga an \nira pagtagad ha tagsatagsa sugad hin magburugto."
+  },
+  {
+    "name": "Wayuu",
+    "sample_text": "Naa wayuukana jemeishi \nsüpüla taashi süma wanawa sülu'u nakua'ipa, aka müin yaa epijainjana \nsünain anajiranawaa a'in nama napüshi."
+  },
+  {
+    "name": "Welsh",
+    "sample_text": "Genir pawb yn rhydd ac yn \ngydradd â’i gilydd mewn urddas a hawliau. Fe’u cynysgaeddir â rheswm a \nchydwybod, a dylai pawb ymddwyn y naill at y llall mewn ysbryd cymodlon."
+  },
+  {
+    "name": "Wolof",
+    "sample_text": "Doomi aadama yépp danuy \njuddu, yam ci tawfeex ci sag ak sañ-sañ. Nekk na it ku xam dëgg te ànd \nna ak xelam, te war naa jëflante ak nawleen, te teg ko ci wàllu mbokk."
+  },
+  {
+    "name": "Xhosa",
+    "sample_text": "Bonke abantu bazalwa \nbekhululekile belingana ngesidima nangokweemfanelo. Bonke abantu \nbanesiphiwo sesazela nesizathu sokwenza isenzo ongathanda ukuba senziwe \nkumzalwane wakho."
+  },
+  {
+    "name": "Yagua",
+    "sample_text": "Ne sarupay nijyami \ncumudeju darvantyamuy javatyasjiu. Jachipiyadati mirvara samirva, \nmirvamuy ne samirva. Ramunltiy sarivichanichara samirvariy jityunu \nvichavay."
+  },
+  {
+    "name": "Yakut",
+    "sample_text": "Дьон барыта бэйэ \nсуолтатыгар уонна быраабыгар тэҥ буолан төрүүллэр. Кинилэр бары өркөн \nөйдөөх, суобастаах буолан төрүүллэр, уонна бэйэ бэйэлэригэр тылга \nкииринигэс быһыылара доҕордоһуу тыыннаах буолуохтаах."
+  },
+  {
+    "name": "Yaneshaʼ",
+    "sample_text": "Allohueney ñeñtey \narromñatey att̃o ye'ñalletyesa arr patsro e'ñe att̃ecma cohuen \nyesherb̃a'yen. Ñam̃a yechyen allpon derechos att̃och e'ñech \ncohueno'tsa'yeney arr patsro. Ñam̃a allohuen att̃ecma yechyen alloch \nyoct̃ape' chyen cohuen ñam̃a yeñotyen yeyoc̈hro ñeñt ̃e'ne pocte' enten \nacheñenesha' ñam̃a ñeñt ̃ama pocteye' enteneto. Yeñoteñ añ poctetsa e'ñe\n yemo'nasheñ yep̃annena ama't ora allohuen allpon acheñenesha' ñeñt ̃añe\n patsro'tsa'yeney."
+  },
+  {
+    "name": "Yanomamö",
+    "sample_text": "Kõmi thë pë rë përiprawë\n rë piyëkëi, he usukuwë thë pë keprou ai thë ã rëamaihã no ã heparohowë,\n totihitawë thë pë riã rẽ thaiwehei hami, thë pë puhi tao kãi \npërihiwëha, thë pë puhi kãi katehewëha hawë kama thë pë mashi shĩro \npërihimopë."
+  },
+  {
+    "name": "Yao",
+    "sample_text": "Wandu wosope akasapagwa \nni ufulu ni uchimbichimbi wakulandana. Asapagwa ni lunda, \nniwakupakombola ganisya, m'yoyo kukusosekwa kuti mundu jwalijose \nam'woneje mundu jwimwe mpela mlongomjakwe."
+  },
+  {
+    "name": "Yapese",
+    "sample_text": "Gubine gidii mani \ngargeleg nga faileng nibapuf mattʼawen nge rogon. Bay laniyan nipii e \nnam, ere ngauda ted mattʼaawen e chaa niba chugur ngoded nimod walag \ndad."
+  },
+  {
+    "name": "Yiddish, Eastern",
+    "sample_text": "יעדער מענטש װערט געבױרן \nפֿרײַ און גלײַך אין כּבֿוד און רעכט. יעדער װערט באַשאָנקן מיט \nפֿאַרשטאַנד און געװיסן; יעדער זאָל זיך פֿירן מיט אַ צװײטן אין אַ געמיט \nפֿון ברודערשאַפֿט."
+  },
+  {
+    "name": "Yoruba",
+    "sample_text": "Gbogbo ènìyàn ni a bí ní \nòmìnira; iyì àti ẹ̀tọ́ kọ̀ọ̀kan sì dọ́gba. Wọ́n ní ẹ̀bùn ti làákàyè àti \nti ẹ̀rí‐ọkàn, ó sì yẹ kí wọn ó máa hùwà sí ara wọn gẹ́gẹ́ bí ọmọ ìyá."
+  },
+  {
+    "name": "Yukaghir, Northern",
+    "sample_text": "Көдэҥ тэн - ньидитэ \nбандьэ параԝааньэрэҥ тудэ чуҥдэн ньилдьилэк эннулҥинь-мэдьуолнуни. Көдэҥ\n энмун чундэ мэ льэй, таатльэр лукундьии ньинэмдьийилпэ дитэ \nэннуйуол-мораԝньэҥи."
+  },
+  {
+    "name": "Yuracare",
+    "sample_text": "Mammui sehuepshëuja, \nbëchuta lëtta shunñeja calibajti dulaniti lijutishcutase, cürús imbëtëya\n ibaau. Achuta emejmesh pujti tandyuju ana buibu."
+  },
+  {
+    "name": "Záparo",
+    "sample_text": "Kawiriaja kayapuina \nichaukui ta nuka pucha panicha kupanimajicha cha nuka nishima ikicha \nkiniana panicha tamanuka kanata ikimajicha."
+  },
+  {
+    "name": "Zapotec, Güilá",
+    "sample_text": "Ra'ta ra bu:unny ra:aaly\n liebr cëhnn te'bloh deree'ch cëhnn dignidaa. Ra:alyne:erih gahll \nri:e:eny cëhnn saalyb, chiru' na:a pahr ga:annza'crih loh sa'rih."
+  },
+  {
+    "name": "Zapotec, Miahuatlán",
+    "sample_text": "Diti mien ndied xa yent kuan nkie xa nak rieti xa diba xa rola."
+  },
+  {
+    "name": "Zarma",
+    "sample_text": "Fayanka kulu no si \nadamayzey nda care game ra i burcintara nda i alhakey cediraw kayandiyaŋ\n fondo ra da i na i hay. I gonda lakkal, nda laasaabu, kaŋ ga naŋ i ma \nbaafunay ɲayzetaray haali ra."
+  },
+  {
+    "name": "Zhuang, Yongbei",
+    "sample_text": "Boux boux ma daengz \nlajmbwn couh miz cwyouz, cinhyenz caeuq genzli bouxboux Bingzdaengj. \ngyoengq vunz miz lijsing caeuq liengzsim, wngdang daih gyoengq de lumj \nbeixnuengx ityiengh."
+  },
+  {
+    "name": "Zulu",
+    "sample_text": "Bonke abantu bazalwa \nbekhululekile belingana ngesithunzi nangamalungelo. Bahlanganiswe \nwumcabango nangunembeza futhi kufanele baphathane ngomoya wobunye."
+  }
+]
