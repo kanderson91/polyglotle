@@ -36,3 +36,83 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display: flex;
+  border: 2px solid white;
+  border-radius: 10px;
+  height: 60vh; /* 90% of the viewport height */
+  width: 90vw; /* 90% of the viewport width */
+  margin: 5vh auto; /* Center the container vertically */
+}
+
+.left-section {
+  flex: 1;
+  border-right: 2px solid white;
+  padding: 10px;
+}
+
+.right-section {
+  flex: 2;
+  padding: 10px;
+}
+
+.section {
+  margin-bottom: 10px;
+  height: 33%;
+
+}
+
+.guess-container {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  align-items: center; /* Center items vertically */
+}
+
+.divider {
+  border-top: 1px solid white;
+  margin: 5px 0;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.big-area {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.guess {
+  display: flex;
+  border-radius: 10px;
+  height: min-content;
+  width: min-content;
+  align-items: center;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+.guess-left-section {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 3px;
+}
+
+.guess-right-section {
+}
+
+.guess-icon-container {
+  border-radius: 50%; /* Round shape for the container */
+}
+
+.guess-content {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 3px;
+}
+
+
