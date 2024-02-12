@@ -84,7 +84,7 @@ function App() {
           ))}
         </select>
         {/*<GuessDisplay guesses={guesses} answer={languages[answerIndex]} />*/}
-        <LanguageInfo sampleText={languages[answerIndex].sample_text}/>
+        <LanguageInfo sampleText={languages[answerIndex].sample_text} guesses={guesses} answer={languages[answerIndex]}/>
       </header>
     </div>
   );
@@ -122,32 +122,53 @@ const GuessDisplay = (props: {guesses: any[], answer: any}) => {
   )
 }
 
-const LanguageInfo = (props: {sampleText: string}) => {
+const LanguageInfo = (props: {sampleText: string, guesses: any[], answer: any}) => {
+  let guessedLanguages: Set<string> = new Set()
+  let guessedContinents: Set<string> = new Set();
+  let guessedFamilies: Set<string> = new Set();
+
+  props.guesses.forEach((guess) => {
+    guessedLanguages.add(guess.name);
+    guessedContinents.add(guess.continent);
+    guessedFamilies.add(guess.top_level_family);
+  })
+
+  const getGuessesToDisplay = (guesses: Set<string>, answer: string) => {
+    if (guesses.has(answer)) {
+      return (<Guess isCorrect={true} label={answer}/>);
+    } else {
+      return Array.from(guesses).map(guess => (
+          <Guess isCorrect={false} label={guess}/>
+      ));
+    }
+  }
+
   return (
       <div className="container">
         <div className="left-section">
           <div className="section">
             <div className="label">Language</div>
-            {/* Add your language content here */}
+            <div className="guess-container">
+              {getGuessesToDisplay(guessedLanguages, props.answer.name)}
+            </div>
           </div>
           <div className="divider"></div>
           <div className="section">
             <div className="label">Continent</div>
             <div className="guess-container">
-              <Guess isCorrect={true} label={'Yay!'} />
-              <Guess isCorrect={false} label={'...'}/>
+              {getGuessesToDisplay(guessedContinents, props.answer.continent)}
             </div>
           </div>
           <div className="divider"></div>
           <div className="section">
             <div className="label">Language Family</div>
-            {/* Add your language family content here */}
+            <div className="guess-container">
+              {getGuessesToDisplay(guessedFamilies, props.answer.top_level_family)}
+            </div>
           </div>
         </div>
         <div className="right-section">
           <div className="big-area">
-            <div className="label">Sample Text</div>
-
             <p>{props.sampleText}</p>
           </div>
         </div>
