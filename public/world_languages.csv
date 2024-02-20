@@ -517,7 +517,7 @@ Rundi,"Abantu bose bavuka bishira
 ubwenge n'umutima kandi bategerezwa kwubahana nk'abavandimwe.",rn,J62_RUNDI,NC.BANTU,"Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,J,Ruanda-Rundi(D.62)","Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,NortheastSavannaBantu,GreatLakesBantu,WesternLakesBantu,Kivu,WestHighlandsKivu}",1,-3.5,30,11244750,rnd,run,BDI,Africa,Atlantic-Congo,,,
 Russian,"Все люди рождаются 
 свободными и равными в своем достоинстве и правах. Они наделены разумом и
- совестью и должны поступать в отношении друг друга в духе братства.",ru,NINILCHIK_RUSSIAN,IE.SLAVIC,"Indo-European,Balto-Slavic,Slavic,East","Indo-European,ClassicalIndo-European,Balto-Slavic,Slavic,EastSlavic}",1,59.99,-151.54,153688030,rus,rus,USA,North America,Indo-European,,,
+ совестью и должны поступать в отношении друг друга в духе братства.",ru,NINILCHIK_RUSSIAN,IE.SLAVIC,"Indo-European,Balto-Slavic,Slavic,East","Indo-European,ClassicalIndo-European,Balto-Slavic,Slavic,EastSlavic}",1,,,153688030,rus,rus,USA,Europe,Indo-European,,,
 Rwanda,"Abantu bose bavuka aliko bakwiye agaciro no kwubahwa kimwe. Bose bavukana ubwenge n'umutima, bagomba kugilirana kivandimwe.",rw,KINYARWANDA,NC.BANTU,"Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,J,Ruanda-Rundi(D.61)","Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,NortheastSavannaBantu,GreatLakesBantu,WesternLakesBantu,Kivu,WestHighlandsKivu}",1,-2,30,13125250,kin,kin,RWA,Africa,Atlantic-Congo,,,
 Seraiki,"سارے انسان ازادا تے حقوق
  تے عزت دے اعتبار نال ہکو ڄئے پیدا تھیندن ۔ قدرت ولوں انہاں کوں عقل تے 
@@ -719,3 +719,7 @@ baafunay ɲayzetaray haali ra.",dje,DJENNE_CHIINI,Son.SONGHAY,"Nilo-Saharan,Song
 Zulu,"Bonke abantu bazalwa 
 bekhululekile belingana ngesithunzi nangamalungelo. Bahlanganiswe 
 wumcabango nangunembeza futhi kufanele baphathane ngomoya wobunye.",zu,NGONI_2,NC.BANTU,"Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,S,Nguni(S.42)","Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,SouthernBantu-Makua,Nguni-Tsonga,Nguni(S.40),SouthernNdebele-Lowland,Zulu-Xhosa}",1,-30,30,12070100,zno,zul,ZAF,Africa,Atlantic-Congo,,,
+Hawaiian,"Hānau kū’oko’a ‘ia nā 
+kānaka apau loa, a ua kau like ka hanohano a me nā pono kīvila ma luna o
+ kākou pākahi. Ua ku’u mai ka no’ono’o pono a me ka ‘ike pono ma luna o 
+kākou, no laila, e aloha kākou kekahi i kekahi.",haw,HAWAIIAN,An.OCEANIC,"Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian,Nuclear,East,Central,Marquesic","Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,CentralPacificlinkage,Tokelau-Fijian,Polynesian,NuclearPolynesian,NorthernOutlierPolynesian-EastPolynesian,SolomonsNorthernOutlierPolynesian-EastPolynesian,CentralNorthernOutlierPolynesian-EastPolynesian,EastPolynesian,CentralEasternPolynesian}",1,19.58,-155.5,2000,haw,haw,USA,North America,Austronesian,,,
