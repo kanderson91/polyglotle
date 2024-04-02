@@ -1,6 +1,12 @@
 .App {
-  text-align: center;
   background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
 .App-logo {
@@ -15,15 +21,41 @@
 }
 
 .App-header {
+  width: 100%;
   background-color: #282c34;
-  min-height: 100vh;
+  border-bottom: 1px solid #ccc;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 0 20px;
+  height: 50px;
 }
+
+.left-container {
+  display: flex;
+  align-content: flex-start;
+}
+
+.right-container {
+  display: flex;
+  align-items: flex-end;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.icon {
+  font-size: 1.5em;
+  margin-left: 10px;
+  cursor: pointer; /* Add cursor pointer */
+}
+
+.icon:hover {
+  color: #007bff; /* Change color on hover */
+}
+
 
 .App-link {
   color: #61dafb;
@@ -135,7 +167,7 @@
   animation: fadeOut 2s ease forwards;
 }
 
-.statistics-modal {
+.modal {
   background-color: #282c34;
   color: white;
   position: absolute;

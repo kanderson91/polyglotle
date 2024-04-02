@@ -1,27 +1,72 @@
-import React, {useEffect, useState} from 'react';
+import React, {useEffect, useRef, useState} from 'react';
 import './App.css';
+import { FaChartLine, FaQuestion } from 'react-icons/fa';
 import readCsvFile from "./CSVReader";
 import readAndParseCsvFile from "./CSVReader";
 import CloseIcon from '@mui/icons-material/Close';
 import CheckIcon from '@mui/icons-material/Check';
 import {Autocomplete, FormControlLabel, Switch, TextField} from "@mui/material";
 import Statistics from "./Statistics";
+import AboutModal from "./AboutModal";
 const Modal = require('react-modal');
+const seedrandom = require('seedrandom');
+const wikipediaPreview = require('wikipedia-preview');
 
 function App() {
   const [languages, setLanguages] = useState<any[]>([{name: '<>', sample_text: '<>'}]);
   const [validLangIndexes, setValidLangIndexes] = useState<Set<number>>(new Set())
-  const [answerIndex, setanswerIndex] = useState<number>(0)
+  const [answerIndex, setAnswerIndex] = useState<number>(0)
   const [guesses, setGuesses] = useState<any[]>([]);
   const [score, setScore] = useState<number>(0);
   const [gotContinent, setGotContinent] = useState<boolean>(false)
   const [gotFamily, setGotFamily] = useState<boolean>(false)
   const [gotLanguage, setGotLanguage] = useState<boolean>(false);
-  const [sortByContinent, setSortByContinent] = useState<boolean>(true);
   const [sortingField, setSortingField] = useState<'continent'|'top_level_family'>('continent')
   const [showAnimation, setShowAnimation] = useState(false);
   const [incrementedAmount, setIncrementedAmount] = useState(0);
   const [statisticsIsOpen, setStatisticsIsOpen] = useState(false);
+  const [aboutIsOpen, setAboutIsOpen] = useState(false)
+  const hasPageBeenRendered = useRef(false);
+  const gameOver = gotLanguage || guesses.length >= 5;
+
+  //wikipediaPreview.init();
+
+
+  //Load save state
+  const loadSaveState = (languages: any[], answerIx: number) => {
+    const date = (new Date()).toDateString();
+    const saveState = localStorage.getItem('save-state'+date);
+    if (saveState) {
+      const saveStateParsed = JSON.parse(saveState);
+      setGuesses(saveStateParsed.guesses);
+      setScore(saveStateParsed.score);
+      setGotContinent(saveStateParsed.gotContinent);
+      setGotFamily(saveStateParsed.gotFamily);
+      setGotLanguage(saveStateParsed.gotLanguage)
+      setValidLangIndexes(calculateValidLangIndexes(
+          createNumberSet(languages.length),
+          saveStateParsed.guesses,
+          saveStateParsed.gotContinent,
+          saveStateParsed.gotFamily,
+          languages[answerIx]
+      ))
+    }
+  }
+
+  //Save state
+  useEffect(() => {
+    if (hasPageBeenRendered.current) {
+      const saveState = {
+        'guesses': guesses,
+        'score': score,
+        'gotContinent': gotContinent,
+        'gotFamily': gotFamily,
+        'gotLanguage': gotLanguage
+      }
+      const date = (new Date()).toDateString();
+      localStorage.setItem('save-state'+date, JSON.stringify(saveState));
+    }
+  }, [guesses, score, gotContinent, gotFamily, gotLanguage]);
 
   const openStatistics = () => {
     setStatisticsIsOpen(true);
@@ -31,8 +76,16 @@ function App() {
     setStatisticsIsOpen(false);
   };
 
+  const openAbout = () => {
+    setAboutIsOpen(true);
+  }
+
+  const closeAbout = () => {
+    setAboutIsOpen(false);
+  }
+
   useEffect(() => {
-    if (gotLanguage || guesses.length >= 5) {
+    if (gameOver) {
       const info = `${score}:${languages[answerIndex].name}`
       //TODO construct this out of day month year so that if the format changes it doesn't matter.
       const date = (new Date()).toDateString();
@@ -43,7 +96,11 @@ function App() {
   useEffect(() => {
     readAndParseCsvFile('./world_languages2.csv').then(r => {
       setLanguages(r);
+      const answerIx = getRandomInt(0, r.length);
+      setAnswerIndex(answerIx)
       setValidLangIndexes(createNumberSet(r.length))
+      loadSaveState(r, answerIx);
+      hasPageBeenRendered.current = true;
     })
   }, []);
 
@@ -56,12 +113,6 @@ function App() {
       setShowAnimation(false);
     }, 2000); // Adjust the duration of the animation as needed
   }, [score]);
-
-  useEffect(() => {
-    if (languages) {
-      setanswerIndex(getRandomInt(0, languages.length))
-    }
-  }, [languages]);
 
   function createNumberSet(n: number): Set<number> {
     let numberSet: Set<number> = new Set();
@@ -79,23 +130,10 @@ function App() {
     newGuesses.push(guess)
     setGuesses(newGuesses);
 
-    let newValidLangIndexes = new Set(validLangIndexes);
-
     const answer = languages[answerIndex];
     const guessedContinent = guess.continent === answer.continent;
     const guessedFamily = guess.top_level_family === answer.top_level_family;
-    languages.forEach((language, index) => {
-      if (!validLangIndexes.has(index)) {
-        return;
-      }
-      if ((guess.continent === language.continent && !guessedContinent) ||
-          (guessedContinent && language.continent !== answer.continent) ||
-          (guess.top_level_family === language.top_level_family && !guessedFamily) ||
-          (guessedFamily && language.top_level_family !== answer.top_level_family) ||
-          language === guess) {
-        newValidLangIndexes.delete(index);
-      }
-    })
+    let newValidLangIndexes = calculateValidLangIndexes(validLangIndexes, [guess], guessedContinent, guessedFamily, answer )
     setValidLangIndexes(newValidLangIndexes);
 
     //Calculate Score
@@ -121,16 +159,50 @@ function App() {
     }
   }
 
+  const calculateValidLangIndexes = (prevIndexes: Set<number>, guesses: any[], guessedContinent: boolean, guessedFamily: boolean, answer: any) => {
+    const newValidLangIndexes = new Set(prevIndexes)
+    languages.forEach((language, index) => {
+      if (!validLangIndexes.has(index)) {
+        return;
+      }
+      guesses.forEach(guess => {
+        if ((guess.continent === language.continent && !guessedContinent) ||
+            (guessedContinent && language.continent !== answer.continent) ||
+            (guess.top_level_family === language.top_level_family && !guessedFamily) ||
+            (guessedFamily && language.top_level_family !== answer.top_level_family) ||
+            language === guess) {
+          newValidLangIndexes.delete(index);
+        }
+      })
+    })
+    return newValidLangIndexes;
+  }
+
+  languages.forEach(language => {
+    if (!language['continent']) {
+      console.log(language);
+    }
+  })
+
   return (
     <div className="App">
       <header className="App-header">
-        <p>{(gotLanguage || guesses.length === 5) ? languages[answerIndex].name : "What language is this?"} </p>
-        <p>{`Guesses: ${guesses.length}/5`}</p>
-        {showAnimation && <div className="plusAnimation">+{incrementedAmount}</div>}
+        <div className="left-container">
+          <span className="logo">Polylingle</span>
+        </div>
+        <div className="right-container">
+          <FaChartLine className="icon" onClick={openStatistics}/>
+          <FaQuestion className="icon" onClick={openAbout}/>
+        </div>
+      </header>
+
+      <p>{(gotLanguage || guesses.length === 5) ? languages[answerIndex].name : "What language is this?"} </p>
+      <p>{`Guesses: ${guesses.length}/5`}</p>
+      {showAnimation && <div className="plusAnimation">+{incrementedAmount}</div>}
         <p>{`Score: ${score}/15`}</p>
         <Autocomplete
             id="grouped-demo"
-            options={languages.filter((guess, index) => validLangIndexes.has(index)).sort((a, b) => a[sortingField].localeCompare(b[sortingField]))}
+            options={languages.filter((language, index) => validLangIndexes.has(index)  && language.name).sort((a, b) => a[sortingField].localeCompare(b[sortingField]))}
             groupBy={(option) => option[sortingField]}
             style={{backgroundColor: "white", borderRadius: "5px"}}
             getOptionLabel={(option) => option.name}
@@ -138,6 +210,7 @@ function App() {
             blurOnSelect={true}
             renderInput={(params) => <TextField {...params} label="Select a language"/>}
             onChange={(event, value) => makeGuess(value)}
+            disabled={gameOver}
         />
         <FormControlLabel
             control={
@@ -153,25 +226,35 @@ function App() {
         />
         <LanguageInfo sampleText={languages[answerIndex].sample_text} guesses={guesses}
                       answer={languages[answerIndex]}/>
-        <button onClick={openStatistics}>Statistics</button>
         <Modal
-            className="statistics-modal"
+            className="modal"
             isOpen={statisticsIsOpen}
             onRequestClose={closeStatistics}
         >
           <Statistics />
-          <button onClick={closeStatistics}>Close Modal</button>
+          <CloseIcon onClick={closeStatistics}/>
         </Modal>
-      </header>
+        <Modal
+            className="modal"
+            isOpen={aboutIsOpen}
+            onRequestClose={closeAbout}
+        >
+          <AboutModal />
+          <CloseIcon onClick={closeAbout}/>
+        </Modal>
     </div>
   );
 }
 
+//Generate a random number using the local date as the seed. That way, the app will generate a new answer each day.
 function getRandomInt(min: number, max: number) {
+  const date = new Date();
+  const seed = `${date.getFullYear()}-${date.getMonth()}-${date.getDate()}`
+  const rng = seedrandom(seed);
   min = Math.ceil(min);
   max = Math.floor(max);
-  return 0;
-  //return Math.floor(Math.random() * (max - min) + min); // The maximum is exclusive and the minimum is inclusive
+  //return 0;
+  return Math.floor(rng() * (max - min) + min); // The maximum is exclusive and the minimum is inclusive
 }
 
 const LanguageInfo = (props: {sampleText: string, guesses: any[], answer: any}) => {

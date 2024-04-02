@@ -23,10 +23,13 @@
     "react-chartjs-2": "^5.2.0",
     "react-cookie": "^7.0.2",
     "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
     "react-modal": "^3.16.1",
     "react-scripts": "5.0.1",
+    "seedrandom": "^3.0.5",
     "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "wikipedia-preview": "^1.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -55,6 +58,7 @@
   "devDependencies": {
     "@types/js-cookie": "^3.0.6",
     "@types/papaparse": "^5.3.14",
-    "@types/react-modal": "^3.16.3"
+    "@types/react-modal": "^3.16.3",
+    "wikipedia-preview": "^1.9.0"
   }
 }
