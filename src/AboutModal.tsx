@@ -15,7 +15,8 @@ function AboutModal() {
             <li>
                 Scoring is as follows:
                 <ul>
-                    <li>+5 points for guessing the correct language (at any point)</li>
+                    <li>+5 points for guessing the correct language on the
+                        first guess (+4 on the second guess, +3 on the third, etc.)</li>
                     <li>
                         +5 points for guessing anything from the correct continent on the
                         first guess (+4 on the second guess, +3 on the third, etc.)

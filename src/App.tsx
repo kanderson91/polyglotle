@@ -87,7 +87,6 @@ function App() {
   useEffect(() => {
     if (gameOver) {
       const info = `${score}:${languages[answerIndex].name}`
-      //TODO construct this out of day month year so that if the format changes it doesn't matter.
       const date = (new Date()).toDateString();
       localStorage.setItem("game:" + date, info);
     }
@@ -111,7 +110,7 @@ function App() {
     setShowAnimation(true);
     setTimeout(() => {
       setShowAnimation(false);
-    }, 2000); // Adjust the duration of the animation as needed
+    }, 2000);
   }, [score]);
 
   function createNumberSet(n: number): Set<number> {
@@ -149,7 +148,7 @@ function App() {
       setGotFamily(true);
     }
     if (guess === languages[answerIndex]) {
-      languageBonus = 5;
+      languageBonus = 5 - newGuesses.length + 1;
       setGotLanguage(true);
     }
     const bonus = continentBonus + familyBonus + languageBonus
@@ -196,22 +195,27 @@ function App() {
         </div>
       </header>
 
-      <p>{(gotLanguage || guesses.length === 5) ? languages[answerIndex].name : "What language is this?"} </p>
-      <p>{`Guesses: ${guesses.length}/5`}</p>
+      <h3>{(gotLanguage || guesses.length === 5) ? languages[answerIndex].name : "What language is this?"} </h3>
+      <h4 style={{margin: 0, color: 'lightgreen'}}>{`Score: ${score}/15`}</h4>
+
+      <LanguageInfo sampleText={languages[answerIndex].sample_text} guesses={guesses}
+                    answer={languages[answerIndex]}/>
       {showAnimation && <div className="plusAnimation">+{incrementedAmount}</div>}
-        <p>{`Score: ${score}/15`}</p>
+      <div className={'guessing-box'}>
         <Autocomplete
             id="grouped-demo"
             options={languages.filter((language, index) => validLangIndexes.has(index)  && language.name).sort((a, b) => a[sortingField].localeCompare(b[sortingField]))}
             groupBy={(option) => option[sortingField]}
             style={{backgroundColor: "white", borderRadius: "5px"}}
             getOptionLabel={(option) => option.name}
-            sx={{width: 300}}
+            sx={{width: '70%', maxWidth: 300}}
             blurOnSelect={true}
-            renderInput={(params) => <TextField {...params} label="Select a language"/>}
+            renderInput={(params) => <TextField {...params}/>}
             onChange={(event, value) => makeGuess(value)}
             disabled={gameOver}
         />
+        <p style={{marginLeft: '10px', marginRight: '10px'}}>{`Guess ${guesses.length}/5`}</p>
+      </div>
         <FormControlLabel
             control={
               <Switch
@@ -224,23 +228,21 @@ function App() {
             }
             label={sortingField === 'continent' ? 'Sort by Continent' : 'Sort by Language Family'}
         />
-        <LanguageInfo sampleText={languages[answerIndex].sample_text} guesses={guesses}
-                      answer={languages[answerIndex]}/>
         <Modal
             className="modal"
             isOpen={statisticsIsOpen}
             onRequestClose={closeStatistics}
         >
-          <Statistics />
           <CloseIcon onClick={closeStatistics}/>
+          <Statistics />
         </Modal>
         <Modal
             className="modal"
             isOpen={aboutIsOpen}
             onRequestClose={closeAbout}
         >
-          <AboutModal />
           <CloseIcon onClick={closeAbout}/>
+          <AboutModal />
         </Modal>
     </div>
   );
@@ -253,7 +255,6 @@ function getRandomInt(min: number, max: number) {
   const rng = seedrandom(seed);
   min = Math.ceil(min);
   max = Math.floor(max);
-  //return 0;
   return Math.floor(rng() * (max - min) + min); // The maximum is exclusive and the minimum is inclusive
 }
 
@@ -279,7 +280,7 @@ const LanguageInfo = (props: {sampleText: string, guesses: any[], answer: any}) 
   }
 
   return (
-      <div className="container">
+      <div className="language-info">
         <div className="left-section">
           <div className="section">
             <div className="label">Language</div>
