@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/polyglotle/static/css/main.1adc7132.css",
-    "main.js": "/polyglotle/static/js/main.accc0416.js",
+    "main.js": "/polyglotle/static/js/main.e0698efe.js",
     "static/js/787.ea893af2.chunk.js": "/polyglotle/static/js/787.ea893af2.chunk.js",
     "static/media/wikipedia-preview.umd.cjs": "/polyglotle/static/media/wikipedia-preview.umd.a6814a5e2ca6b7eb663f.cjs",
     "index.html": "/polyglotle/index.html",
     "main.1adc7132.css.map": "/polyglotle/static/css/main.1adc7132.css.map",
-    "main.accc0416.js.map": "/polyglotle/static/js/main.accc0416.js.map",
+    "main.e0698efe.js.map": "/polyglotle/static/js/main.e0698efe.js.map",
     "787.ea893af2.chunk.js.map": "/polyglotle/static/js/787.ea893af2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1adc7132.css",
-    "static/js/main.accc0416.js"
+    "static/js/main.e0698efe.js"
   ]
 }
