@@ -187,7 +187,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="left-container">
-          <span className="logo">Polylingle</span>
+          <span className="logo">Polyglotle</span>
         </div>
         <div className="right-container">
           <FaChartLine className="icon" onClick={openStatistics}/>
