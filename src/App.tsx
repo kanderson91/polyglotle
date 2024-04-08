@@ -213,6 +213,20 @@ function App() {
             renderInput={(params) => <TextField {...params}/>}
             onChange={(event, value) => makeGuess(value)}
             disabled={gameOver}
+            componentsProps={{
+              popper: {
+                modifiers: [
+                  {
+                    name: 'flip',
+                    enabled: true
+                  },
+                  {
+                    name: 'preventOverflow',
+                    enabled: true
+                  }
+                ]
+              }
+            }}
         />
         <p style={{marginLeft: '10px', marginRight: '10px'}}>{`Guess ${guesses.length}/5`}</p>
       </div>
