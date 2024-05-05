@@ -1,7 +1,7 @@
 {
   "name": "polyglotle",
   "version": "0.1.0",
-  "homepage": "https://kanderson91.github.io/polyglotle/",
+  "homepage": "https://www.polyglottle.com",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -17,6 +17,7 @@
     "@types/react-dom": "^18.2.18",
     "chart.js": "^4.4.1",
     "date-fns": "^3.3.1",
+    "dig": "^0.0.6",
     "fontawesome": "^5.6.3",
     "js-cookie": "^3.0.5",
     "papaparse": "^5.4.1",

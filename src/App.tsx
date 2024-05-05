@@ -177,12 +177,6 @@ function App() {
     return newValidLangIndexes;
   }
 
-  languages.forEach(language => {
-    if (!language['continent']) {
-      console.log(language);
-    }
-  })
-
   return (
       <div className="App">
         <header className="App-header">
