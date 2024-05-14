@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.097987bd.css",
-    "main.js": "/static/js/main.ac281b54.js",
+    "main.js": "/static/js/main.bb4437c6.js",
     "static/js/787.ea893af2.chunk.js": "/static/js/787.ea893af2.chunk.js",
     "static/media/wikipedia-preview.umd.cjs": "/static/media/wikipedia-preview.umd.a6814a5e2ca6b7eb663f.cjs",
     "index.html": "/index.html",
     "main.097987bd.css.map": "/static/css/main.097987bd.css.map",
-    "main.ac281b54.js.map": "/static/js/main.ac281b54.js.map",
+    "main.bb4437c6.js.map": "/static/js/main.bb4437c6.js.map",
     "787.ea893af2.chunk.js.map": "/static/js/787.ea893af2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.097987bd.css",
-    "static/js/main.ac281b54.js"
+    "static/js/main.bb4437c6.js"
   ]
 }
