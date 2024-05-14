@@ -41,6 +41,7 @@ function AboutModal() {
                     <li>If a language family doesn't have any languages with more than a million speakers, I included the most spoken language in that family. This let me keep a sampling of languages from North and South America that would otherwise have been excluded.</li>
                 </ul>
             <h2>Contact</h2>
+                <p>Email: dev@polyglottle.com</p>
                 <p>Source code on <a href={"https://github.com/kanderson91/polyglotle"} target={"_blank"}>github</a></p>
         </div>
     );
