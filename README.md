@@ -1,3 +1,3 @@
 # Polyglottle
 
-A daily game about identifying languages. Play the game at polyglottle.com
+A daily game about identifying languages. Play the game [here](https://polyglottle.com/)
