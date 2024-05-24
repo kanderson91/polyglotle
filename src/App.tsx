@@ -8,9 +8,9 @@ import CheckIcon from '@mui/icons-material/Check';
 import {Autocomplete, FormControlLabel, Switch, TextField} from "@mui/material";
 import Statistics from "./Statistics";
 import AboutModal from "./AboutModal";
+import Answer from './Answer';
 const Modal = require('react-modal');
 const seedrandom = require('seedrandom');
-const wikipediaPreview = require('wikipedia-preview');
 
 function App() {
   const [languages, setLanguages] = useState<any[]>([{name: '<>', sample_text: '<>'}]);
@@ -26,11 +26,9 @@ function App() {
   const [incrementedAmount, setIncrementedAmount] = useState(0);
   const [statisticsIsOpen, setStatisticsIsOpen] = useState(false);
   const [aboutIsOpen, setAboutIsOpen] = useState(false)
+  const [answerIsOpen, setAnswerIsOpen] = useState(false)
   const hasPageBeenRendered = useRef(false);
   const gameOver = gotLanguage || guesses.length >= 5;
-
-  //wikipediaPreview.init();
-
 
   //Load save state
   const loadSaveState = (languages: any[], answerIx: number) => {
@@ -84,11 +82,16 @@ function App() {
     setAboutIsOpen(false);
   }
 
+  const closeAnswer = () => {
+    setAnswerIsOpen(false);
+  }
+
   useEffect(() => {
     if (gameOver) {
       const info = `${score}:${languages[answerIndex].name}`
       const date = (new Date()).toDateString();
       localStorage.setItem("game:" + date, info);
+      setAnswerIsOpen(true);
     }
   }, [gotLanguage, guesses]);
 
@@ -100,6 +103,9 @@ function App() {
       setValidLangIndexes(createNumberSet(r.length))
       loadSaveState(r, answerIx);
       hasPageBeenRendered.current = true;
+      if (gameOver) {
+        setAnswerIsOpen(true);
+      }
     })
   }, []);
 
@@ -181,7 +187,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <div className="left-container">
-            <span className="logo">Polyglotle</span>
+            <span className="logo">Polyglottle</span>
           </div>
           <div className="right-container">
             <FaChartLine className="icon" onClick={openStatistics}/>
@@ -251,6 +257,14 @@ function App() {
         >
           <CloseIcon onClick={closeAbout}/>
           <AboutModal/>
+        </Modal>
+        <Modal
+          className="modal"
+          isOpen={answerIsOpen}
+          onRequestClose={closeAnswer}
+        >
+          <CloseIcon onClick={closeAnswer}/>
+          <Answer language={languages[answerIndex]} guesses={guesses}/>
         </Modal>
       </div>
   );
