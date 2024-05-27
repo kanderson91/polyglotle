@@ -264,7 +264,7 @@ function App() {
           onRequestClose={closeAnswer}
         >
           <CloseIcon onClick={closeAnswer}/>
-          <Answer language={languages[answerIndex]} guesses={guesses} gotLanguage={gotLanguage}/>
+          <Answer language={languages[answerIndex]} guesses={guesses} gotLanguage={gotLanguage} score={score}/>
         </Modal>
       </div>
   );

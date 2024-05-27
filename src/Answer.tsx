@@ -9,13 +9,13 @@ const familyEmoji = '👪'
 const correctSquare = '🟩'
 const incorrectSquare = '⬛'
 
-function Answer(props: {language: any, guesses: any[], gotLanguage: boolean}) {
+function Answer(props: {language: any, guesses: any[], gotLanguage: boolean, score: number}) {
 
     const [wikipediaPreview, setWikipediaPreview] = useState<string>('')
     const [wikipediaLink, setWikipediaLink] = useState<string>('')
 
     const getEmojiResults = () => {
-        let result = `${languageEmoji}${continentEmoji}${familyEmoji}\n`
+        let result = `Score: ${props.score}/15\n ${languageEmoji}${continentEmoji}${familyEmoji}\n`
         for (let guess of props.guesses) {
             let line = '';
             if (guess.name === props.language.name) {
