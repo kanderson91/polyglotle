@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import Statistics from "./Statistics";
+import './Answer.css';
+import { Button } from "@mui/material";
 
 const continentEmoji = '🌍'
 const languageEmoji = '💬'
@@ -7,9 +9,10 @@ const familyEmoji = '👪'
 const correctSquare = '🟩'
 const incorrectSquare = '⬛'
 
-function Answer(props: {language: any, guesses: any[]}) {
+function Answer(props: {language: any, guesses: any[], gotLanguage: boolean}) {
 
-    const [paragraph, setParagraph] = useState<string>('')
+    const [wikipediaPreview, setWikipediaPreview] = useState<string>('')
+    const [wikipediaLink, setWikipediaLink] = useState<string>('')
 
     const getEmojiResults = () => {
         let result = `${languageEmoji}${continentEmoji}${familyEmoji}\n`
@@ -36,6 +39,10 @@ function Answer(props: {language: any, guesses: any[]}) {
         return result;
     }
 
+    const copyResults = () => {
+        navigator.clipboard.writeText(getEmojiResults());
+    }
+
     useEffect(() => {
         const fetchWikipediaContent = async () => {
             try {
@@ -43,16 +50,20 @@ function Answer(props: {language: any, guesses: any[]}) {
                     `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(props.language.name)}_language`
                 );
                 const data = await response.json();
+                console.log(data)
 
                 if (data.extract) {
                     // Extract the first paragraph
                     const firstParagraph = data.extract.split('\n')[0];
-                    setParagraph(firstParagraph);
+                    setWikipediaPreview(firstParagraph);
+                    if (!wikipediaLink) {
+                        setWikipediaLink(data.content_urls.desktop.page);
+                    }
                 } else {
-                    setParagraph('No content found');
+                    setWikipediaPreview('No content found');
                 }
             } catch (error) {
-                setParagraph('Error fetching data');
+                setWikipediaPreview('Error fetching data');
             }
         };
 
@@ -60,10 +71,15 @@ function Answer(props: {language: any, guesses: any[]}) {
     }, []);
 
     return (
-        <div>
-            <p>The answer was {props.language.name}</p>
-            <p>{paragraph}</p>
-            <span style={{ whiteSpace: 'pre-line', fontSize: '20pt' }}>{getEmojiResults()}</span>
+        <div className={'answer-modal'}>
+            {props.gotLanguage && <h1>You got it!</h1>}
+            <h1>The answer was {props.language.name}</h1>
+            {wikipediaPreview && wikipediaLink && <div className={'wikipedia-preview'}>
+                <p>{wikipediaPreview}</p>
+                <a href={wikipediaLink} target={"_blank"}>Wikipedia</a>
+            </div>}
+            <button onClick={copyResults}>Copy Results</button><br/>
+            <span className={'emoji-results'}>{getEmojiResults()}</span>
             <Statistics/>
         </div>
     )

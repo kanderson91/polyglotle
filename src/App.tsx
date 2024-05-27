@@ -258,14 +258,14 @@ function App() {
           <CloseIcon onClick={closeAbout}/>
           <AboutModal/>
         </Modal>
-        {/*<Modal*/}
-        {/*  className="modal"*/}
-        {/*  isOpen={answerIsOpen}*/}
-        {/*  onRequestClose={closeAnswer}*/}
-        {/*>*/}
-        {/*  <CloseIcon onClick={closeAnswer}/>*/}
-        {/*  <Answer language={languages[answerIndex]} guesses={guesses}/>*/}
-        {/*</Modal>*/}
+        <Modal
+          className="modal"
+          isOpen={answerIsOpen}
+          onRequestClose={closeAnswer}
+        >
+          <CloseIcon onClick={closeAnswer}/>
+          <Answer language={languages[answerIndex]} guesses={guesses} gotLanguage={gotLanguage}/>
+        </Modal>
       </div>
   );
 }

@@ -1,0 +1,21 @@
+.answer-modal {
+  text-align: center;
+  h1 {
+    text-align: center;
+  }
+
+  .emoji-results {
+    text-align: center;
+    align-content: center;
+    white-space: pre-line;
+    font-size: 20pt;
+  }
+
+  .wikipedia-preview {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+
