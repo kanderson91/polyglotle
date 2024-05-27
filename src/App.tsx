@@ -96,7 +96,7 @@ function App() {
   }, [gotLanguage, guesses]);
 
   useEffect(() => {
-    readAndParseCsvFile('./world_languages2.csv').then(r => {
+    readAndParseCsvFile('./world_languages3.csv').then(r => {
       setLanguages(r);
       const answerIx = getRandomInt(0, r.length);
       setAnswerIndex(answerIx)
