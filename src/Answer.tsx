@@ -47,7 +47,7 @@ function Answer(props: {language: any, guesses: any[], gotLanguage: boolean, sco
         const fetchWikipediaContent = async () => {
             try {
                 const response = await fetch(
-                    `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(props.language.name)}_language`
+                    `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(props.language.wikipedia_link)}`
                 );
                 const data = await response.json();
                 console.log(data)
